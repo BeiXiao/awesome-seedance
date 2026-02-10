@@ -30,7 +30,7 @@ Total: **59** cases
 
 **Input:**
 
-<img src="https://r2.getseedance.com/seedance-cases/001-girl-hanging-laundry/Image1.png" alt="Image1.png" width="320">
+<img src="https://r2.getseedance.com/seedance-cases/001-girl-hanging-laundry/Image1.png" alt="Image1.png" width="200">
 
 **Result:**
 
@@ -42,7 +42,7 @@ Total: **59** cases
 
 **Input:**
 
-<img src="https://r2.getseedance.com/seedance-cases/002-painting-character-steals-coke/Image1.png" alt="Image1.png" width="320">
+<img src="https://r2.getseedance.com/seedance-cases/002-painting-character-steals-coke/Image1.png" alt="Image1.png" width="200">
 
 **Result:**
 
@@ -54,7 +54,7 @@ Total: **59** cases
 
 **Input:**
 
-<img src="https://r2.getseedance.com/seedance-cases/003-victorian-london-steam-carriage/Image1.png" alt="Image1.png" width="320">
+<img src="https://r2.getseedance.com/seedance-cases/003-victorian-london-steam-carriage/Image1.png" alt="Image1.png" width="200">
 
 **Result:**
 
@@ -66,7 +66,7 @@ Total: **59** cases
 
 **Input:**
 
-<img src="https://r2.getseedance.com/seedance-cases/004-chase-scene-fruit-stall/Image1.png" alt="Image1.png" width="320">
+<img src="https://r2.getseedance.com/seedance-cases/004-chase-scene-fruit-stall/Image1.png" alt="Image1.png" width="200">
 
 **Result:**
 
@@ -78,7 +78,7 @@ Total: **59** cases
 
 **Input:**
 
-<img src="https://r2.getseedance.com/seedance-cases/005-father-returns-home-daughter/Image1.png" alt="Image1.png" width="320">
+<img src="https://r2.getseedance.com/seedance-cases/005-father-returns-home-daughter/Image1.png" alt="Image1.png" width="200">
 
 **Result:**
 
@@ -90,7 +90,7 @@ Total: **59** cases
 
 **Input:**
 
-<video src="https://r2.getseedance.com/seedance-cases/006-opera-actress-stage-performance/Video1.mp4" controls width="320"></video>
+<video src="https://r2.getseedance.com/seedance-cases/006-opera-actress-stage-performance/Video1.mp4" controls width="200"></video>
 
 **Result:**
 
@@ -102,7 +102,7 @@ Total: **59** cases
 
 **Input:**
 
-<video src="https://r2.getseedance.com/seedance-cases/007-one-shot-chess-beach-journey/Video1.mp4" controls width="320"></video>
+<video src="https://r2.getseedance.com/seedance-cases/007-one-shot-chess-beach-journey/Video1.mp4" controls width="200"></video>
 
 **Result:**
 
@@ -115,7 +115,7 @@ Total: **59** cases
 
 **Input:**
 
-<img src="https://r2.getseedance.com/seedance-cases/008-cheri-bow-tie-showcase/Image1.png" alt="Image1.png" width="320">
+<img src="https://r2.getseedance.com/seedance-cases/008-cheri-bow-tie-showcase/Image1.png" alt="Image1.png" width="200">
 
 **Result:**
 
@@ -139,7 +139,7 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image1.png" alt="Image1.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image4.png" alt="Image4.png" width="150"></div>
+<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image1.png" alt="Image1.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image2.png" alt="Image2.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image3.png" alt="Image3.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image4.png" alt="Image4.png" width="200"></div>
 
 **Result:**
 
@@ -151,7 +151,7 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Video1.mp4" controls width="150"></video> <img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image1.png" alt="Image1.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image3.png" alt="Image3.png" width="150"></div>
+<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Video1.mp4" controls width="200"></video> <img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image1.png" alt="Image1.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image2.png" alt="Image2.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image3.png" alt="Image3.png" width="200"></div>
 
 **Result:**
 
@@ -163,7 +163,7 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image5.png" alt="Image5.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image1.png" alt="Image1.png" width="150"></div>
+<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image5.png" alt="Image5.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image4.png" alt="Image4.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image3.png" alt="Image3.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image2.png" alt="Image2.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image1.png" alt="Image1.png" width="200"></div>
 
 **Result:**
 
@@ -175,7 +175,7 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Video1.mp4" controls width="300"></video> <img src="https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Image1.png" alt="Image1.png" width="300"></div>
+<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Video1.mp4" controls width="200"></video> <img src="https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Image1.png" alt="Image1.png" width="200"></div>
 
 **Result:**
 
@@ -187,7 +187,7 @@ Total: **59** cases
 
 **Input:**
 
-<img src="https://r2.getseedance.com/seedance-cases/014-dancer-stage-performance/Image1.png" alt="Image1.png" width="320">
+<img src="https://r2.getseedance.com/seedance-cases/014-dancer-stage-performance/Image1.png" alt="Image1.png" width="200">
 
 **Result:**
 
@@ -199,7 +199,7 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Video1.mp4" controls width="150"></video> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image5.png" alt="Image5.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image1.png" alt="Image1.png" width="150"></div>
+<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Video1.mp4" controls width="200"></video> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image5.png" alt="Image5.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image4.png" alt="Image4.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image3.png" alt="Image3.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image2.png" alt="Image2.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image1.png" alt="Image1.png" width="200"></div>
 
 **Result:**
 
@@ -211,7 +211,7 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Video1.mp4" controls width="150"></video> <video src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Video2.mp4" controls width="150"></video> <img src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Image1.png" alt="Image1.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Image2.png" alt="Image2.png" width="150"></div>
+<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Video1.mp4" controls width="200"></video> <video src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Video2.mp4" controls width="200"></video> <img src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Image1.png" alt="Image1.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Image2.png" alt="Image2.png" width="200"></div>
 
 **Result:**
 
@@ -223,7 +223,7 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/017-red-supercar-showcase/Video1.mp4" controls width="300"></video> <img src="https://r2.getseedance.com/seedance-cases/017-red-supercar-showcase/Image1.png" alt="Image1.png" width="300"></div>
+<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/017-red-supercar-showcase/Video1.mp4" controls width="200"></video> <img src="https://r2.getseedance.com/seedance-cases/017-red-supercar-showcase/Image1.png" alt="Image1.png" width="200"></div>
 
 **Result:**
 
@@ -235,7 +235,7 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Video1.mp4" controls width="150"></video> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image1.png" alt="Image1.png" width="150"></div>
+<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Video1.mp4" controls width="200"></video> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image4.png" alt="Image4.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image3.png" alt="Image3.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image2.png" alt="Image2.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image1.png" alt="Image1.png" width="200"></div>
 
 **Result:**
 
@@ -247,7 +247,7 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Video1.mp4" controls width="150"></video> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image6.png" alt="Image6.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image5.png" alt="Image5.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image1.png" alt="Image1.png" width="150"></div>
+<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Video1.mp4" controls width="200"></video> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image6.png" alt="Image6.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image5.png" alt="Image5.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image4.png" alt="Image4.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image3.png" alt="Image3.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image2.png" alt="Image2.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image1.png" alt="Image1.png" width="200"></div>
 
 **Result:**
 
@@ -259,7 +259,7 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Video1.mp4" controls width="150"></video> <img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Image1.png" alt="Image1.png" width="150"></div>
+<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Video1.mp4" controls width="200"></video> <img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Image3.png" alt="Image3.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Image2.png" alt="Image2.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Image1.png" alt="Image1.png" width="200"></div>
 
 **Result:**
 
@@ -271,7 +271,7 @@ Total: **59** cases
 
 **Input:**
 
-<img src="https://r2.getseedance.com/seedance-cases/021-ink-style-tai-chi-performance/Image1.png" alt="Image1.png" width="320">
+<img src="https://r2.getseedance.com/seedance-cases/021-ink-style-tai-chi-performance/Image1.png" alt="Image1.png" width="200">
 
 **Result:**
 
@@ -295,7 +295,7 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/023-seedance-logo-puzzle-break/Image2.png" alt="Image2.png" width="300"> <img src="https://r2.getseedance.com/seedance-cases/023-seedance-logo-puzzle-break/Image1.png" alt="Image1.png" width="300"></div>
+<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/023-seedance-logo-puzzle-break/Image2.png" alt="Image2.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/023-seedance-logo-puzzle-break/Image1.png" alt="Image1.png" width="200"></div>
 
 **Result:**
 
@@ -307,7 +307,7 @@ Total: **59** cases
 
 **Input:**
 
-<img src="https://r2.getseedance.com/seedance-cases/024-golden-sand-particle-title/Image1.png" alt="Image1.png" width="320">
+<img src="https://r2.getseedance.com/seedance-cases/024-golden-sand-particle-title/Image1.png" alt="Image1.png" width="200">
 
 **Result:**
 
@@ -319,7 +319,7 @@ Total: **59** cases
 
 **Input:**
 
-<img src="https://r2.getseedance.com/seedance-cases/025-abstract-noodle-eating-scene/Image1.png" alt="Image1.png" width="320">
+<img src="https://r2.getseedance.com/seedance-cases/025-abstract-noodle-eating-scene/Image1.png" alt="Image1.png" width="200">
 
 **Result:**
 
@@ -331,7 +331,7 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/026-comic-strip-humorous-narration/Video1.mp4" controls width="300"></video> <img src="https://r2.getseedance.com/seedance-cases/026-comic-strip-humorous-narration/Image1.png" alt="Image1.png" width="300"></div>
+<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/026-comic-strip-humorous-narration/Video1.mp4" controls width="200"></video> <img src="https://r2.getseedance.com/seedance-cases/026-comic-strip-humorous-narration/Image1.png" alt="Image1.png" width="200"></div>
 
 **Result:**
 
@@ -343,7 +343,7 @@ Total: **59** cases
 
 **Input:**
 
-<img src="https://r2.getseedance.com/seedance-cases/027-childhood-seasons-healing-intro/Image1.png" alt="Image1.png" width="320">
+<img src="https://r2.getseedance.com/seedance-cases/027-childhood-seasons-healing-intro/Image1.png" alt="Image1.png" width="200">
 
 **Result:**
 
@@ -355,7 +355,7 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image5.png" alt="Image5.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image1.png" alt="Image1.png" width="150"></div>
+<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image5.png" alt="Image5.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image4.png" alt="Image4.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image3.png" alt="Image3.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image2.png" alt="Image2.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image1.png" alt="Image1.png" width="200"></div>
 
 **Result:**
 
@@ -368,7 +368,7 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/029-donkey-motorcycle-creative-ad/Image2.png" alt="Image2.png" width="300"> <img src="https://r2.getseedance.com/seedance-cases/029-donkey-motorcycle-creative-ad/Image1.png" alt="Image1.png" width="300"></div>
+<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/029-donkey-motorcycle-creative-ad/Image2.png" alt="Image2.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/029-donkey-motorcycle-creative-ad/Image1.png" alt="Image1.png" width="200"></div>
 
 **Result:**
 
@@ -392,7 +392,7 @@ Total: **59** cases
 
 **Input:**
 
-<video src="https://r2.getseedance.com/seedance-cases/031-lucky-coffee-breakfast-ad/Video1.mp4" controls width="320"></video>
+<video src="https://r2.getseedance.com/seedance-cases/031-lucky-coffee-breakfast-ad/Video1.mp4" controls width="200"></video>
 
 **Result:**
 
@@ -404,7 +404,7 @@ Total: **59** cases
 
 **Input:**
 
-<video src="https://r2.getseedance.com/seedance-cases/032-skateboard-sunflower-street-scene/Video1.mp4" controls width="320"></video>
+<video src="https://r2.getseedance.com/seedance-cases/032-skateboard-sunflower-street-scene/Video1.mp4" controls width="200"></video>
 
 **Result:**
 
@@ -428,7 +428,7 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Video1.mp4" controls width="150"></video> <img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image1.png" alt="Image1.png" width="150"></div>
+<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Video1.mp4" controls width="200"></video> <img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image3.png" alt="Image3.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image2.png" alt="Image2.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image1.png" alt="Image1.png" width="200"></div>
 
 **Result:**
 
@@ -440,7 +440,7 @@ Total: **59** cases
 
 **Input:**
 
-<img src="https://r2.getseedance.com/seedance-cases/035-cat-dog-talk-show-dialogue/Image1.png" alt="Image1.png" width="320">
+<img src="https://r2.getseedance.com/seedance-cases/035-cat-dog-talk-show-dialogue/Image1.png" alt="Image1.png" width="200">
 
 **Result:**
 
@@ -452,7 +452,7 @@ Total: **59** cases
 
 **Input:**
 
-<img src="https://r2.getseedance.com/seedance-cases/036-yuju-opera-zha-mei-case/Image1.png" alt="Image1.png" width="320">
+<img src="https://r2.getseedance.com/seedance-cases/036-yuju-opera-zha-mei-case/Image1.png" alt="Image1.png" width="200">
 
 **Result:**
 
@@ -464,7 +464,7 @@ Total: **59** cases
 
 **Input:**
 
-<img src="https://r2.getseedance.com/seedance-cases/037-cliff-road-vintage-car-mv/Image1.png" alt="Image1.png" width="320">
+<img src="https://r2.getseedance.com/seedance-cases/037-cliff-road-vintage-car-mv/Image1.png" alt="Image1.png" width="200">
 
 **Result:**
 
@@ -476,7 +476,7 @@ Total: **59** cases
 
 **Input:**
 
-<img src="https://r2.getseedance.com/seedance-cases/038-family-dance-celebration-scene/Image1.png" alt="Image1.png" width="320">
+<img src="https://r2.getseedance.com/seedance-cases/038-family-dance-celebration-scene/Image1.png" alt="Image1.png" width="200">
 
 **Result:**
 
@@ -488,7 +488,7 @@ Total: **59** cases
 
 **Input:**
 
-<img src="https://r2.getseedance.com/seedance-cases/039-tactical-team-raid-preparation/Image1.png" alt="Image1.png" width="320">
+<img src="https://r2.getseedance.com/seedance-cases/039-tactical-team-raid-preparation/Image1.png" alt="Image1.png" width="200">
 
 **Result:**
 
@@ -526,7 +526,7 @@ Total: **59** cases
 
 **Input:**
 
-<img src="https://r2.getseedance.com/seedance-cases/042-journey-west-fan-borrowing-story/Image1.png" alt="Image1.png" width="320">
+<img src="https://r2.getseedance.com/seedance-cases/042-journey-west-fan-borrowing-story/Image1.png" alt="Image1.png" width="200">
 
 **Result:**
 
@@ -538,7 +538,7 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image5.png" alt="Image5.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image1.png" alt="Image1.png" width="150"></div>
+<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image5.png" alt="Image5.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image4.png" alt="Image4.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image3.png" alt="Image3.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image2.png" alt="Image2.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image1.png" alt="Image1.png" width="200"></div>
 
 **Result:**
 
@@ -562,7 +562,7 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image1.png" alt="Image1.png" width="150"></div>
+<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image4.png" alt="Image4.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image3.png" alt="Image3.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image2.png" alt="Image2.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image1.png" alt="Image1.png" width="200"></div>
 
 **Result:**
 
@@ -574,7 +574,7 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Image1.png" alt="Image1.png" width="150"></div>
+<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Image4.png" alt="Image4.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Image3.png" alt="Image3.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Image2.png" alt="Image2.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Image1.png" alt="Image1.png" width="200"></div>
 
 **Result:**
 
@@ -586,7 +586,7 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image5.png" alt="Image5.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image1.png" alt="Image1.png" width="150"></div>
+<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image5.png" alt="Image5.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image4.png" alt="Image4.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image3.png" alt="Image3.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image2.png" alt="Image2.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image1.png" alt="Image1.png" width="200"></div>
 
 **Result:**
 
@@ -598,7 +598,7 @@ Total: **59** cases
 
 **Input:**
 
-<video src="https://r2.getseedance.com/seedance-cases/048-bridge-betrayal-water-fall/Video1.mp4" controls width="320"></video>
+<video src="https://r2.getseedance.com/seedance-cases/048-bridge-betrayal-water-fall/Video1.mp4" controls width="200"></video>
 
 **Result:**
 
@@ -611,7 +611,7 @@ Total: **59** cases
 
 **Input:**
 
-<video src="https://r2.getseedance.com/seedance-cases/049-video-story-reversal-twist/Video1.mp4" controls width="320"></video>
+<video src="https://r2.getseedance.com/seedance-cases/049-video-story-reversal-twist/Video1.mp4" controls width="200"></video>
 
 **Result:**
 
@@ -623,7 +623,7 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/050-band-performance-singer-replace/Video1.mp4" controls width="300"></video> <img src="https://r2.getseedance.com/seedance-cases/050-band-performance-singer-replace/Image1.png" alt="Image1.png" width="300"></div>
+<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/050-band-performance-singer-replace/Video1.mp4" controls width="200"></video> <img src="https://r2.getseedance.com/seedance-cases/050-band-performance-singer-replace/Image1.png" alt="Image1.png" width="200"></div>
 
 **Result:**
 
@@ -635,7 +635,7 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/051-red-hair-shark-behind-scene/Video1.mp4" controls width="300"></video> <img src="https://r2.getseedance.com/seedance-cases/051-red-hair-shark-behind-scene/Image1.png" alt="Image1.png" width="300"></div>
+<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/051-red-hair-shark-behind-scene/Video1.mp4" controls width="200"></video> <img src="https://r2.getseedance.com/seedance-cases/051-red-hair-shark-behind-scene/Image1.png" alt="Image1.png" width="200"></div>
 
 **Result:**
 
@@ -647,7 +647,7 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/052-fried-chicken-queue-paper-bag/Video1.mp4" controls width="300"></video> <img src="https://r2.getseedance.com/seedance-cases/052-fried-chicken-queue-paper-bag/Image1.png" alt="Image1.png" width="300"></div>
+<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/052-fried-chicken-queue-paper-bag/Video1.mp4" controls width="200"></video> <img src="https://r2.getseedance.com/seedance-cases/052-fried-chicken-queue-paper-bag/Image1.png" alt="Image1.png" width="200"></div>
 
 **Result:**
 
@@ -659,7 +659,7 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Video1.mp4" controls width="150"></video> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image1.png" alt="Image1.png" width="150"></div>
+<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Video1.mp4" controls width="200"></video> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image4.png" alt="Image4.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image3.png" alt="Image3.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image2.png" alt="Image2.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image1.png" alt="Image1.png" width="200"></div>
 
 **Result:**
 
@@ -671,7 +671,7 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Video1.mp4" controls width="150"></video> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image6.png" alt="Image6.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image5.png" alt="Image5.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image1.png" alt="Image1.png" width="150"></div>
+<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Video1.mp4" controls width="200"></video> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image6.png" alt="Image6.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image5.png" alt="Image5.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image4.png" alt="Image4.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image3.png" alt="Image3.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image2.png" alt="Image2.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image1.png" alt="Image1.png" width="200"></div>
 
 **Result:**
 
@@ -683,7 +683,7 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Video1.mp4" controls width="150"></video> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image6.png" alt="Image6.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image5.png" alt="Image5.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image1.png" alt="Image1.png" width="150"></div>
+<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Video1.mp4" controls width="200"></video> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image6.png" alt="Image6.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image5.png" alt="Image5.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image4.png" alt="Image4.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image3.png" alt="Image3.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image2.png" alt="Image2.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image1.png" alt="Image1.png" width="200"></div>
 
 **Result:**
 
@@ -715,7 +715,7 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image1.png" alt="Image1.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image4.png" alt="Image4.png" width="150"></div>
+<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image1.png" alt="Image1.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image2.png" alt="Image2.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image3.png" alt="Image3.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image4.png" alt="Image4.png" width="200"></div>
 
 **Result:**
 
@@ -727,7 +727,7 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Image1.png" alt="Image1.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Image4.png" alt="Image4.png" width="150"></div>
+<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Image1.png" alt="Image1.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Image2.png" alt="Image2.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Image3.png" alt="Image3.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Image4.png" alt="Image4.png" width="200"></div>
 
 **Result:**
 
