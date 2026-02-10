@@ -34,7 +34,13 @@ Total: **59** cases
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/001-girl-hanging-laundry/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/001-girl-hanging-laundry/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/001-girl-hanging-laundry/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/001-girl-hanging-laundry/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 002-painting-character-steals-coke
 
@@ -46,7 +52,13 @@ Total: **59** cases
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/002-painting-character-steals-coke/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/002-painting-character-steals-coke/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/002-painting-character-steals-coke/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/002-painting-character-steals-coke/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 003-victorian-london-steam-carriage
 
@@ -58,7 +70,13 @@ Total: **59** cases
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/003-victorian-london-steam-carriage/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/003-victorian-london-steam-carriage/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/003-victorian-london-steam-carriage/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/003-victorian-london-steam-carriage/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 004-chase-scene-fruit-stall
 
@@ -70,7 +88,13 @@ Total: **59** cases
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/004-chase-scene-fruit-stall/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/004-chase-scene-fruit-stall/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/004-chase-scene-fruit-stall/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/004-chase-scene-fruit-stall/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 005-father-returns-home-daughter
 
@@ -82,7 +106,13 @@ Total: **59** cases
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/005-father-returns-home-daughter/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/005-father-returns-home-daughter/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/005-father-returns-home-daughter/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/005-father-returns-home-daughter/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 006-opera-actress-stage-performance
 
@@ -90,11 +120,23 @@ Total: **59** cases
 
 **Input:**
 
-<a href="https://r2.getseedance.com/seedance-cases/006-opera-actress-stage-performance/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/006-opera-actress-stage-performance/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/006-opera-actress-stage-performance/Video1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/006-opera-actress-stage-performance/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain; display: block;">
+      <svg width="40" height="40" viewBox="0 0 40 40" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="20" cy="20" r="20" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="12,8 12,32 32,20" fill="white"/>
+  </svg>
+    </a>
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/006-opera-actress-stage-performance/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/006-opera-actress-stage-performance/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/006-opera-actress-stage-performance/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/006-opera-actress-stage-performance/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 007-one-shot-chess-beach-journey
 
@@ -102,11 +144,23 @@ Total: **59** cases
 
 **Input:**
 
-<a href="https://r2.getseedance.com/seedance-cases/007-one-shot-chess-beach-journey/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/007-one-shot-chess-beach-journey/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/007-one-shot-chess-beach-journey/Video1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/007-one-shot-chess-beach-journey/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain; display: block;">
+      <svg width="40" height="40" viewBox="0 0 40 40" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="20" cy="20" r="20" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="12,8 12,32 32,20" fill="white"/>
+  </svg>
+    </a>
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/007-one-shot-chess-beach-journey/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/007-one-shot-chess-beach-journey/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/007-one-shot-chess-beach-journey/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/007-one-shot-chess-beach-journey/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 008-cheri-bow-tie-showcase
 
@@ -121,7 +175,13 @@ Total: **59** cases
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/008-cheri-bow-tie-showcase/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/008-cheri-bow-tie-showcase/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/008-cheri-bow-tie-showcase/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/008-cheri-bow-tie-showcase/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 009-handbag-commercial-showcase
 
@@ -133,7 +193,13 @@ Total: **59** cases
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 010-first-person-multi-scene-reference
 
@@ -145,7 +211,13 @@ Total: **59** cases
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 011-elevator-horror-hitchcock-zoom
 
@@ -153,11 +225,23 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image3.webp" alt="Image3.webp" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Video1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain; display: block;">
+      <svg width="40" height="40" viewBox="0 0 40 40" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="20" cy="20" r="20" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="12,8 12,32 32,20" fill="white"/>
+  </svg>
+    </a> <img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image3.webp" alt="Image3.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 012-corridor-chase-multi-angle
 
@@ -169,7 +253,19 @@ Total: **59** cases
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a> <a href="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Result2.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Result2.thumb.webp" alt="Result2.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a> <a href="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Result2.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Result2.thumb.webp" alt="Result2.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 013-tablet-sci-fi-data-space
 
@@ -177,11 +273,23 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <img src="https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Video1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain; display: block;">
+      <svg width="40" height="40" viewBox="0 0 40 40" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="20" cy="20" r="20" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="12,8 12,32 32,20" fill="white"/>
+  </svg>
+    </a> <img src="https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 014-dancer-stage-performance
 
@@ -193,7 +301,13 @@ Total: **59** cases
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/014-dancer-stage-performance/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/014-dancer-stage-performance/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/014-dancer-stage-performance/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/014-dancer-stage-performance/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 015-maple-forest-combat-scene
 
@@ -201,11 +315,23 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image5.webp" alt="Image5.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image4.webp" alt="Image4.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image3.webp" alt="Image3.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Video1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain; display: block;">
+      <svg width="40" height="40" viewBox="0 0 40 40" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="20" cy="20" r="20" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="12,8 12,32 32,20" fill="white"/>
+  </svg>
+    </a> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image5.webp" alt="Image5.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image4.webp" alt="Image4.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image3.webp" alt="Image3.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 016-starry-night-combat-duo
 
@@ -213,11 +339,29 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <a href="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Video2.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Video2.thumb.webp" alt="Video2.mp4" height="200" style="object-fit: contain;"></a> <img src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Video1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain; display: block;">
+      <svg width="40" height="40" viewBox="0 0 40 40" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="20" cy="20" r="20" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="12,8 12,32 32,20" fill="white"/>
+  </svg>
+    </a> <a href="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Video2.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Video2.thumb.webp" alt="Video2.mp4" height="200" style="object-fit: contain; display: block;">
+      <svg width="40" height="40" viewBox="0 0 40 40" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="20" cy="20" r="20" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="12,8 12,32 32,20" fill="white"/>
+  </svg>
+    </a> <img src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 017-red-supercar-showcase
 
@@ -225,11 +369,23 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/017-red-supercar-showcase/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/017-red-supercar-showcase/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <img src="https://r2.getseedance.com/seedance-cases/017-red-supercar-showcase/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/017-red-supercar-showcase/Video1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/017-red-supercar-showcase/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain; display: block;">
+      <svg width="40" height="40" viewBox="0 0 40 40" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="20" cy="20" r="20" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="12,8 12,32 32,20" fill="white"/>
+  </svg>
+    </a> <img src="https://r2.getseedance.com/seedance-cases/017-red-supercar-showcase/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/017-red-supercar-showcase/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/017-red-supercar-showcase/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/017-red-supercar-showcase/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/017-red-supercar-showcase/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 018-vr-glasses-cosmic-journey
 
@@ -237,11 +393,23 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image4.webp" alt="Image4.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image3.webp" alt="Image3.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Video1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain; display: block;">
+      <svg width="40" height="40" viewBox="0 0 40 40" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="20" cy="20" r="20" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="12,8 12,32 32,20" fill="white"/>
+  </svg>
+    </a> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image4.webp" alt="Image4.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image3.webp" alt="Image3.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 019-fashion-model-multi-outfit
 
@@ -249,11 +417,23 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image6.webp" alt="Image6.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image5.webp" alt="Image5.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image4.webp" alt="Image4.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image3.webp" alt="Image3.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Video1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain; display: block;">
+      <svg width="40" height="40" viewBox="0 0 40 40" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="20" cy="20" r="20" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="12,8 12,32 32,20" fill="white"/>
+  </svg>
+    </a> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image6.webp" alt="Image6.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image5.webp" alt="Image5.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image4.webp" alt="Image4.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image3.webp" alt="Image3.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 020-down-jacket-goose-feather-ad
 
@@ -261,11 +441,23 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Image3.webp" alt="Image3.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Video1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain; display: block;">
+      <svg width="40" height="40" viewBox="0 0 40 40" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="20" cy="20" r="20" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="12,8 12,32 32,20" fill="white"/>
+  </svg>
+    </a> <img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Image3.webp" alt="Image3.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 021-ink-style-tai-chi-performance
 
@@ -277,7 +469,13 @@ Total: **59** cases
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/021-ink-style-tai-chi-performance/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/021-ink-style-tai-chi-performance/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/021-ink-style-tai-chi-performance/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/021-ink-style-tai-chi-performance/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 022-rose-petal-face-transformation
 
@@ -285,11 +483,23 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/022-rose-petal-face-transformation/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/022-rose-petal-face-transformation/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <img src="https://r2.getseedance.com/seedance-cases/022-rose-petal-face-transformation/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/022-rose-petal-face-transformation/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/022-rose-petal-face-transformation/Video1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/022-rose-petal-face-transformation/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain; display: block;">
+      <svg width="40" height="40" viewBox="0 0 40 40" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="20" cy="20" r="20" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="12,8 12,32 32,20" fill="white"/>
+  </svg>
+    </a> <img src="https://r2.getseedance.com/seedance-cases/022-rose-petal-face-transformation/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/022-rose-petal-face-transformation/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/022-rose-petal-face-transformation/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/022-rose-petal-face-transformation/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/022-rose-petal-face-transformation/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/022-rose-petal-face-transformation/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 023-seedance-logo-puzzle-break
 
@@ -301,7 +511,13 @@ Total: **59** cases
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/023-seedance-logo-puzzle-break/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/023-seedance-logo-puzzle-break/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/023-seedance-logo-puzzle-break/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/023-seedance-logo-puzzle-break/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 024-golden-sand-particle-title
 
@@ -313,7 +529,13 @@ Total: **59** cases
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/024-golden-sand-particle-title/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/024-golden-sand-particle-title/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/024-golden-sand-particle-title/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/024-golden-sand-particle-title/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 025-abstract-noodle-eating-scene
 
@@ -325,7 +547,13 @@ Total: **59** cases
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/025-abstract-noodle-eating-scene/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/025-abstract-noodle-eating-scene/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/025-abstract-noodle-eating-scene/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/025-abstract-noodle-eating-scene/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 026-comic-strip-humorous-narration
 
@@ -333,11 +561,23 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/026-comic-strip-humorous-narration/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/026-comic-strip-humorous-narration/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <img src="https://r2.getseedance.com/seedance-cases/026-comic-strip-humorous-narration/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/026-comic-strip-humorous-narration/Video1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/026-comic-strip-humorous-narration/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain; display: block;">
+      <svg width="40" height="40" viewBox="0 0 40 40" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="20" cy="20" r="20" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="12,8 12,32 32,20" fill="white"/>
+  </svg>
+    </a> <img src="https://r2.getseedance.com/seedance-cases/026-comic-strip-humorous-narration/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/026-comic-strip-humorous-narration/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/026-comic-strip-humorous-narration/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/026-comic-strip-humorous-narration/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/026-comic-strip-humorous-narration/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 027-childhood-seasons-healing-intro
 
@@ -349,7 +589,13 @@ Total: **59** cases
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/027-childhood-seasons-healing-intro/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/027-childhood-seasons-healing-intro/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/027-childhood-seasons-healing-intro/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/027-childhood-seasons-healing-intro/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 028-emotional-music-inspired-visual
 
@@ -361,7 +607,13 @@ Total: **59** cases
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 029-donkey-motorcycle-creative-ad
 
@@ -376,7 +628,13 @@ Total: **59** cases
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/029-donkey-motorcycle-creative-ad/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/029-donkey-motorcycle-creative-ad/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/029-donkey-motorcycle-creative-ad/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/029-donkey-motorcycle-creative-ad/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 030-fitness-motivational-training
 
@@ -384,11 +642,23 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <img src="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Video1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain; display: block;">
+      <svg width="40" height="40" viewBox="0 0 40 40" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="20" cy="20" r="20" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="12,8 12,32 32,20" fill="white"/>
+  </svg>
+    </a> <img src="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 031-lucky-coffee-breakfast-ad
 
@@ -396,11 +666,23 @@ Total: **59** cases
 
 **Input:**
 
-<a href="https://r2.getseedance.com/seedance-cases/031-lucky-coffee-breakfast-ad/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/031-lucky-coffee-breakfast-ad/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/031-lucky-coffee-breakfast-ad/Video1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/031-lucky-coffee-breakfast-ad/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain; display: block;">
+      <svg width="40" height="40" viewBox="0 0 40 40" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="20" cy="20" r="20" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="12,8 12,32 32,20" fill="white"/>
+  </svg>
+    </a>
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/031-lucky-coffee-breakfast-ad/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/031-lucky-coffee-breakfast-ad/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/031-lucky-coffee-breakfast-ad/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/031-lucky-coffee-breakfast-ad/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 032-skateboard-sunflower-street-scene
 
@@ -408,11 +690,23 @@ Total: **59** cases
 
 **Input:**
 
-<a href="https://r2.getseedance.com/seedance-cases/032-skateboard-sunflower-street-scene/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/032-skateboard-sunflower-street-scene/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/032-skateboard-sunflower-street-scene/Video1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/032-skateboard-sunflower-street-scene/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain; display: block;">
+      <svg width="40" height="40" viewBox="0 0 40 40" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="20" cy="20" r="20" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="12,8 12,32 32,20" fill="white"/>
+  </svg>
+    </a>
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/032-skateboard-sunflower-street-scene/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/032-skateboard-sunflower-street-scene/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/032-skateboard-sunflower-street-scene/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/032-skateboard-sunflower-street-scene/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 033-fisheye-horse-talking-scene
 
@@ -420,11 +714,35 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <a href="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Video2.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Video2.thumb.webp" alt="Video2.mp4" height="200" style="object-fit: contain;"></a> <a href="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Video3.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Video3.thumb.webp" alt="Video3.mp4" height="200" style="object-fit: contain;"></a></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Video1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain; display: block;">
+      <svg width="40" height="40" viewBox="0 0 40 40" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="20" cy="20" r="20" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="12,8 12,32 32,20" fill="white"/>
+  </svg>
+    </a> <a href="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Video2.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Video2.thumb.webp" alt="Video2.mp4" height="200" style="object-fit: contain; display: block;">
+      <svg width="40" height="40" viewBox="0 0 40 40" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="20" cy="20" r="20" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="12,8 12,32 32,20" fill="white"/>
+  </svg>
+    </a> <a href="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Video3.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Video3.thumb.webp" alt="Video3.mp4" height="200" style="object-fit: contain; display: block;">
+      <svg width="40" height="40" viewBox="0 0 40 40" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="20" cy="20" r="20" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="12,8 12,32 32,20" fill="white"/>
+  </svg>
+    </a></div>
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 034-office-building-ecosystem-doc
 
@@ -432,11 +750,23 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image3.webp" alt="Image3.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Video1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain; display: block;">
+      <svg width="40" height="40" viewBox="0 0 40 40" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="20" cy="20" r="20" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="12,8 12,32 32,20" fill="white"/>
+  </svg>
+    </a> <img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image3.webp" alt="Image3.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 035-cat-dog-talk-show-dialogue
 
@@ -448,7 +778,13 @@ Total: **59** cases
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/035-cat-dog-talk-show-dialogue/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/035-cat-dog-talk-show-dialogue/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/035-cat-dog-talk-show-dialogue/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/035-cat-dog-talk-show-dialogue/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 036-yuju-opera-zha-mei-case
 
@@ -460,7 +796,13 @@ Total: **59** cases
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/036-yuju-opera-zha-mei-case/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/036-yuju-opera-zha-mei-case/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/036-yuju-opera-zha-mei-case/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/036-yuju-opera-zha-mei-case/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 037-cliff-road-vintage-car-mv
 
@@ -472,7 +814,13 @@ Total: **59** cases
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/037-cliff-road-vintage-car-mv/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/037-cliff-road-vintage-car-mv/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/037-cliff-road-vintage-car-mv/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/037-cliff-road-vintage-car-mv/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 038-family-dance-celebration-scene
 
@@ -484,7 +832,13 @@ Total: **59** cases
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/038-family-dance-celebration-scene/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/038-family-dance-celebration-scene/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/038-family-dance-celebration-scene/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/038-family-dance-celebration-scene/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 039-tactical-team-raid-preparation
 
@@ -496,7 +850,13 @@ Total: **59** cases
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/039-tactical-team-raid-preparation/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/039-tactical-team-raid-preparation/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/039-tactical-team-raid-preparation/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/039-tactical-team-raid-preparation/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 040-morning-wake-up-bedroom-scene
 
@@ -504,11 +864,23 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <img src="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Video1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain; display: block;">
+      <svg width="40" height="40" viewBox="0 0 40 40" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="20" cy="20" r="20" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="12,8 12,32 32,20" fill="white"/>
+  </svg>
+    </a> <img src="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 041-monkey-bubble-tea-sichuan-order
 
@@ -524,7 +896,13 @@ Total: **59** cases
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/041-monkey-bubble-tea-sichuan-order/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/041-monkey-bubble-tea-sichuan-order/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/041-monkey-bubble-tea-sichuan-order/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/041-monkey-bubble-tea-sichuan-order/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 042-journey-west-fan-borrowing-story
 
@@ -536,7 +914,13 @@ Total: **59** cases
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/042-journey-west-fan-borrowing-story/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/042-journey-west-fan-borrowing-story/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/042-journey-west-fan-borrowing-story/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/042-journey-west-fan-borrowing-story/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 043-one-shot-rooftop-running-chase
 
@@ -548,7 +932,13 @@ Total: **59** cases
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 044-airplane-cloud-ice-cream-magic
 
@@ -560,7 +950,13 @@ Total: **59** cases
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/044-airplane-cloud-ice-cream-magic/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/044-airplane-cloud-ice-cream-magic/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/044-airplane-cloud-ice-cream-magic/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/044-airplane-cloud-ice-cream-magic/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 045-spy-thriller-red-coat-corner
 
@@ -572,7 +968,13 @@ Total: **59** cases
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 046-deer-sheep-tea-cabin-scene
 
@@ -584,7 +986,13 @@ Total: **59** cases
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 047-first-person-roller-coaster-ride
 
@@ -596,7 +1004,13 @@ Total: **59** cases
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 048-bridge-betrayal-water-fall
 
@@ -604,11 +1018,23 @@ Total: **59** cases
 
 **Input:**
 
-<a href="https://r2.getseedance.com/seedance-cases/048-bridge-betrayal-water-fall/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/048-bridge-betrayal-water-fall/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/048-bridge-betrayal-water-fall/Video1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/048-bridge-betrayal-water-fall/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain; display: block;">
+      <svg width="40" height="40" viewBox="0 0 40 40" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="20" cy="20" r="20" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="12,8 12,32 32,20" fill="white"/>
+  </svg>
+    </a>
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/048-bridge-betrayal-water-fall/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/048-bridge-betrayal-water-fall/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/048-bridge-betrayal-water-fall/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/048-bridge-betrayal-water-fall/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 049-video-story-reversal-twist
 
@@ -621,11 +1047,23 @@ Total: **59** cases
 
 **Input:**
 
-<a href="https://r2.getseedance.com/seedance-cases/049-video-story-reversal-twist/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/049-video-story-reversal-twist/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/049-video-story-reversal-twist/Video1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/049-video-story-reversal-twist/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain; display: block;">
+      <svg width="40" height="40" viewBox="0 0 40 40" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="20" cy="20" r="20" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="12,8 12,32 32,20" fill="white"/>
+  </svg>
+    </a>
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/049-video-story-reversal-twist/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/049-video-story-reversal-twist/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/049-video-story-reversal-twist/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/049-video-story-reversal-twist/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 050-band-performance-singer-replace
 
@@ -633,11 +1071,23 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/050-band-performance-singer-replace/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/050-band-performance-singer-replace/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <img src="https://r2.getseedance.com/seedance-cases/050-band-performance-singer-replace/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/050-band-performance-singer-replace/Video1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/050-band-performance-singer-replace/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain; display: block;">
+      <svg width="40" height="40" viewBox="0 0 40 40" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="20" cy="20" r="20" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="12,8 12,32 32,20" fill="white"/>
+  </svg>
+    </a> <img src="https://r2.getseedance.com/seedance-cases/050-band-performance-singer-replace/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/050-band-performance-singer-replace/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/050-band-performance-singer-replace/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/050-band-performance-singer-replace/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/050-band-performance-singer-replace/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 051-red-hair-shark-behind-scene
 
@@ -645,11 +1095,23 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/051-red-hair-shark-behind-scene/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/051-red-hair-shark-behind-scene/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <img src="https://r2.getseedance.com/seedance-cases/051-red-hair-shark-behind-scene/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/051-red-hair-shark-behind-scene/Video1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/051-red-hair-shark-behind-scene/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain; display: block;">
+      <svg width="40" height="40" viewBox="0 0 40 40" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="20" cy="20" r="20" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="12,8 12,32 32,20" fill="white"/>
+  </svg>
+    </a> <img src="https://r2.getseedance.com/seedance-cases/051-red-hair-shark-behind-scene/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/051-red-hair-shark-behind-scene/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/051-red-hair-shark-behind-scene/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/051-red-hair-shark-behind-scene/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/051-red-hair-shark-behind-scene/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 052-fried-chicken-queue-paper-bag
 
@@ -657,11 +1119,23 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/052-fried-chicken-queue-paper-bag/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/052-fried-chicken-queue-paper-bag/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <img src="https://r2.getseedance.com/seedance-cases/052-fried-chicken-queue-paper-bag/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/052-fried-chicken-queue-paper-bag/Video1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/052-fried-chicken-queue-paper-bag/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain; display: block;">
+      <svg width="40" height="40" viewBox="0 0 40 40" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="20" cy="20" r="20" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="12,8 12,32 32,20" fill="white"/>
+  </svg>
+    </a> <img src="https://r2.getseedance.com/seedance-cases/052-fried-chicken-queue-paper-bag/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/052-fried-chicken-queue-paper-bag/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/052-fried-chicken-queue-paper-bag/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/052-fried-chicken-queue-paper-bag/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/052-fried-chicken-queue-paper-bag/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 053-fashion-model-outfit-switching
 
@@ -669,11 +1143,23 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image4.webp" alt="Image4.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image3.webp" alt="Image3.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Video1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain; display: block;">
+      <svg width="40" height="40" viewBox="0 0 40 40" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="20" cy="20" r="20" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="12,8 12,32 32,20" fill="white"/>
+  </svg>
+    </a> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image4.webp" alt="Image4.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image3.webp" alt="Image3.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 054-music-beat-dreamy-character-dance
 
@@ -681,11 +1167,23 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image6.webp" alt="Image6.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image5.webp" alt="Image5.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image4.webp" alt="Image4.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image3.webp" alt="Image3.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Video1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain; display: block;">
+      <svg width="40" height="40" viewBox="0 0 40 40" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="20" cy="20" r="20" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="12,8 12,32 32,20" fill="white"/>
+  </svg>
+    </a> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image6.webp" alt="Image6.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image5.webp" alt="Image5.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image4.webp" alt="Image4.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image3.webp" alt="Image3.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 055-landscape-music-beat-montage
 
@@ -693,11 +1191,23 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image6.webp" alt="Image6.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image5.webp" alt="Image5.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image4.webp" alt="Image4.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image3.webp" alt="Image3.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Video1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain; display: block;">
+      <svg width="40" height="40" viewBox="0 0 40 40" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="20" cy="20" r="20" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="12,8 12,32 32,20" fill="white"/>
+  </svg>
+    </a> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image6.webp" alt="Image6.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image5.webp" alt="Image5.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image4.webp" alt="Image4.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image3.webp" alt="Image3.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 056-chess-revenge-anime-battle
 
@@ -705,7 +1215,13 @@ Total: **59** cases
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/056-chess-revenge-anime-battle/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/056-chess-revenge-anime-battle/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/056-chess-revenge-anime-battle/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/056-chess-revenge-anime-battle/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 057-mirror-breakdown-emotional-scene
 
@@ -713,11 +1229,23 @@ Total: **59** cases
 
 **Input:**
 
-<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/057-mirror-breakdown-emotional-scene/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/057-mirror-breakdown-emotional-scene/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <img src="https://r2.getseedance.com/seedance-cases/057-mirror-breakdown-emotional-scene/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/057-mirror-breakdown-emotional-scene/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/057-mirror-breakdown-emotional-scene/Video1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/057-mirror-breakdown-emotional-scene/Video1.thumb.webp" alt="Video1.mp4" height="200" style="object-fit: contain; display: block;">
+      <svg width="40" height="40" viewBox="0 0 40 40" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="20" cy="20" r="20" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="12,8 12,32 32,20" fill="white"/>
+  </svg>
+    </a> <img src="https://r2.getseedance.com/seedance-cases/057-mirror-breakdown-emotional-scene/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/057-mirror-breakdown-emotional-scene/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/057-mirror-breakdown-emotional-scene/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/057-mirror-breakdown-emotional-scene/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/057-mirror-breakdown-emotional-scene/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/057-mirror-breakdown-emotional-scene/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 058-range-hood-comparison-ad
 
@@ -729,7 +1257,13 @@ Total: **59** cases
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 ### 059-person-to-bear-transformation
 
@@ -741,7 +1275,13 @@ Total: **59** cases
 
 **Result:**
 
-<a href="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
+<a href="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Result1.mp4" target="_blank" rel="noopener noreferrer" style="position: relative; display: inline-block;">
+      <img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Result1.thumb.webp" alt="Result1.mp4" height="320" style="object-fit: contain; display: block;">
+      <svg width="48" height="48" viewBox="0 0 48 48" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+    <circle cx="24" cy="24" r="24" fill="rgba(0,0,0,0.6)"/>
+    <polygon points="16,12 16,36 36,24" fill="white"/>
+  </svg>
+    </a>
 
 
 ## 許可
