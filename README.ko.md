@@ -108,7 +108,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @사진2의 가방을 상업적인 촬영으로 전시하되, 가방의 측면은 @사진1을 참고하고 표면 재질은 @사진3을 참고합니다. 가방의 디테일이 모두 잘 드러나도록 촬영하며, 배경 음악은 웅장하고 장엄하게 설정해주세요. | <img src="https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Image1.png" alt="Image1.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Image3.png" alt="Image3.png" width="320"> |
+| @사진2의 가방을 상업적인 촬영으로 전시하되, 가방의 측면은 @사진1을 참고하고 표면 재질은 @사진3을 참고합니다. 가방의 디테일이 모두 잘 드러나도록 촬영하며, 배경 음악은 웅장하고 장엄하게 설정해주세요. | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Image1.png" alt="Image1.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Image2.png" alt="Image2.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Image3.png" alt="Image3.png" width="200"></div> |
 
 **Result:**
 
@@ -118,7 +118,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @사진1을 화면의 첫 프레임으로 하고, 1인칭 시점으로 @동영상1의 카메라 움직임 효과를 참고하며, 상단 장면은 @사진2를, 왼쪽 장면은 @사진3을, 오른쪽 장면은 @사진4를 각각 참고하세요. | <img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image1.png" alt="Image1.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image4.png" alt="Image4.png" width="320"> |
+| @사진1을 화면의 첫 프레임으로 하고, 1인칭 시점으로 @동영상1의 카메라 움직임 효과를 참고하며, 상단 장면은 @사진2를, 왼쪽 장면은 @사진3을, 오른쪽 장면은 @사진4를 각각 참고하세요. | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image1.png" alt="Image1.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image4.png" alt="Image4.png" width="150"></div> |
 
 **Result:**
 
@@ -128,7 +128,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @그림1의 남자 이미지를 참고하여, 그는 @그림2의 엘리베이터 안에 있습니다. @비디오1의 모든 카메라 운영 효과와 주인공의 표정을 완벽히 참고해주세요. 주인공이 공포를 느낄 때는 히치콕 줌을 사용하고, 그 다음으로 엘리베이터 내부 시점을 보여주는 몇 개의 환형 촬영을 합니다. 엘리베이터 문이 열리면, 추적 촬영으로 엘리베이터 밖으로 나오고, 엘리베이터 외부 장면은 @그림3을 참고합니다. 남자가 주변을 둘러보며, @비디오1처럼 로봇암을 사용하여 다양한 각도로 인물의 시선을 추적해주세요. | <video src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image1.png" alt="Image1.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image3.png" alt="Image3.png" width="320"> |
+| @그림1의 남자 이미지를 참고하여, 그는 @그림2의 엘리베이터 안에 있습니다. @비디오1의 모든 카메라 운영 효과와 주인공의 표정을 완벽히 참고해주세요. 주인공이 공포를 느낄 때는 히치콕 줌을 사용하고, 그 다음으로 엘리베이터 내부 시점을 보여주는 몇 개의 환형 촬영을 합니다. 엘리베이터 문이 열리면, 추적 촬영으로 엘리베이터 밖으로 나오고, 엘리베이터 외부 장면은 @그림3을 참고합니다. 남자가 주변을 둘러보며, @비디오1처럼 로봇암을 사용하여 다양한 각도로 인물의 시선을 추적해주세요. | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Video1.mp4" controls width="150"></video> <img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image1.png" alt="Image1.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image3.png" alt="Image3.png" width="150"></div> |
 
 **Result:**
 
@@ -138,7 +138,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @그림1의 남자 이미지를 참고하여, 그는 @그림2의 복도에 있으며 @비디오1의 모든 카메라 움직임 효과와 주인공의 표정을 완벽하게 참고합니다. 카메라는 주인공을 따라 @그림2의 코너에서 달리다가 @그림3의 긴 복도에서는 카메라가뒤에서 따라가는 시점에서 낮은 각도로 주인공 정면으로 돌아옵니다. 카메라는 다시 90도 오른쪽으로 흔들어 @그림4의 분기점을 촬영하고, 갑자기 멈춘 후 180도 오른쪽으로 흔들어 주인공 정면을 가까이 촬영합니다. 주인공은 숨차게 숨을 쉬고, 카메라는 주인공의 시점을 따라 주변을 둘러보며 @비디오1의 빠른 좌우 회전 카메라 움직임으로 장면을 표현한 후 @그림5의 장면으로 후퇴하고, 계속 주인공이 달리는 측면 시점을 따라 촬영합니다. | <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image5.png" alt="Image5.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image4.png" alt="Image4.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image1.png" alt="Image1.png" width="320"> |
+| @그림1의 남자 이미지를 참고하여, 그는 @그림2의 복도에 있으며 @비디오1의 모든 카메라 움직임 효과와 주인공의 표정을 완벽하게 참고합니다. 카메라는 주인공을 따라 @그림2의 코너에서 달리다가 @그림3의 긴 복도에서는 카메라가뒤에서 따라가는 시점에서 낮은 각도로 주인공 정면으로 돌아옵니다. 카메라는 다시 90도 오른쪽으로 흔들어 @그림4의 분기점을 촬영하고, 갑자기 멈춘 후 180도 오른쪽으로 흔들어 주인공 정면을 가까이 촬영합니다. 주인공은 숨차게 숨을 쉬고, 카메라는 주인공의 시점을 따라 주변을 둘러보며 @비디오1의 빠른 좌우 회전 카메라 움직임으로 장면을 표현한 후 @그림5의 장면으로 후퇴하고, 계속 주인공이 달리는 측면 시점을 따라 촬영합니다. | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image5.png" alt="Image5.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -148,7 +148,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @이미지1의 태블릿을 주체로 하고, @비디오1의 카메라 움직임을 참고하여 화면 클로즈업으로 밀착한 후, 카메라를 회전시키고 태블릿을 뒤집어 전체 모습을 보여주세요. 화면 속 데이터 흐름은 계속 변화하며 주변 환경은 점차 과학소설 스타일의 데이터 공간으로 변해가야 합니다. | <video src="https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Image1.png" alt="Image1.png" width="320"> |
+| @이미지1의 태블릿을 주체로 하고, @비디오1의 카메라 움직임을 참고하여 화면 클로즈업으로 밀착한 후, 카메라를 회전시키고 태블릿을 뒤집어 전체 모습을 보여주세요. 화면 속 데이터 흐름은 계속 변화하며 주변 환경은 점차 과학소설 스타일의 데이터 공간으로 변해가야 합니다. | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Video1.mp4" controls width="300"></video> <img src="https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Image1.png" alt="Image1.png" width="300"></div> |
 
 **Result:**
 
@@ -168,7 +168,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @그림1@그림2의 창 캐릭터, @그림3@그림4의 쌍검 캐릭터를 참고하여 @동영상1의 동작을 모방하여 @그림5의 단풍숲에서打斗하게 해주세요 | <video src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image5.png" alt="Image5.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image4.png" alt="Image4.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image1.png" alt="Image1.png" width="320"> |
+| @그림1@그림2의 창 캐릭터, @그림3@그림4의 쌍검 캐릭터를 참고하여 @동영상1의 동작을 모방하여 @그림5의 단풍숲에서打斗하게 해주세요 | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Video1.mp4" controls width="150"></video> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image5.png" alt="Image5.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -178,7 +178,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 비디오 1의 인물 동작을 참고하고, 비디오 2의 서클 움직임 카메라 연출을 참고하여 캐릭터1과 캐릭터2의싸움 장면을 생성해주세요. 싸움이 별이 빛나는 밤에 발생하며, 싸움 과정에서 흰 먼지가 날려지고, 싸움 장면은 매우 화려하며 분위기는 매우 긴박합니다. | <video src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Video1.mp4" controls width="320"></video> <video src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Video2.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Image1.png" alt="Image1.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Image2.png" alt="Image2.png" width="320"> |
+| 비디오 1의 인물 동작을 참고하고, 비디오 2의 서클 움직임 카메라 연출을 참고하여 캐릭터1과 캐릭터2의싸움 장면을 생성해주세요. 싸움이 별이 빛나는 밤에 발생하며, 싸움 과정에서 흰 먼지가 날려지고, 싸움 장면은 매우 화려하며 분위기는 매우 긴박합니다. | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Video1.mp4" controls width="150"></video> <video src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Video2.mp4" controls width="150"></video> <img src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Image1.png" alt="Image1.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Image2.png" alt="Image2.png" width="150"></div> |
 
 **Result:**
 
@@ -188,7 +188,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 비디오 1의 카메라 운영과 화면 전환 리듬을 참고하여 이미지 1의 빨간색 슈퍼카로 복제해주세요. | <video src="https://r2.getseedance.com/seedance-cases/017-red-supercar-showcase/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/017-red-supercar-showcase/Image1.png" alt="Image1.png" width="320"> |
+| 비디오 1의 카메라 운영과 화면 전환 리듬을 참고하여 이미지 1의 빨간색 슈퍼카로 복제해주세요. | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/017-red-supercar-showcase/Video1.mp4" controls width="300"></video> <img src="https://r2.getseedance.com/seedance-cases/017-red-supercar-showcase/Image1.png" alt="Image1.png" width="300"></div> |
 
 **Result:**
 
@@ -198,7 +198,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @비디오1의 인물을 @사진1으로 교체하고, @사진1을 첫 프레임으로 하며 인물에게 가상 과학 소설 안경을 착용시킵니다. @비디오1의 카메라 움직임, 특히 근접한 회전 카메라를 참고하여, 제3자 시점에서 인물의 주관적 시점으로 전환한 뒤 AI 가상 안경 속을穿梭하여 @사진2의 심邃한 푸른 우주로 이동합니다. 거기서 몇 척의 우주선이 멀리 날아가고, 카메라는 우주선을 따라 @사진3의 픽셀 세계로穿梭합니다. 카메라는 픽셀 산림 세계를低空으로 날아가며, 그 속에는 나무가 자라는 모습이 나타납니다.随后 시점을 위로 들어 올려 급속히 이동하여 @사진4의 연두색 무늬星球으로 도착하고, 카메라가星球 표면을穿梭하며掠过합니다. | <video src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image4.png" alt="Image4.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image1.png" alt="Image1.png" width="320"> |
+| @비디오1의 인물을 @사진1으로 교체하고, @사진1을 첫 프레임으로 하며 인물에게 가상 과학 소설 안경을 착용시킵니다. @비디오1의 카메라 움직임, 특히 근접한 회전 카메라를 참고하여, 제3자 시점에서 인물의 주관적 시점으로 전환한 뒤 AI 가상 안경 속을穿梭하여 @사진2의 심邃한 푸른 우주로 이동합니다. 거기서 몇 척의 우주선이 멀리 날아가고, 카메라는 우주선을 따라 @사진3의 픽셀 세계로穿梭합니다. 카메라는 픽셀 산림 세계를低空으로 날아가며, 그 속에는 나무가 자라는 모습이 나타납니다.随后 시점을 위로 들어 올려 급속히 이동하여 @사진4의 연두색 무늬星球으로 도착하고, 카메라가星球 표면을穿梭하며掠过합니다. | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Video1.mp4" controls width="150"></video> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -208,7 +208,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 첫 번째 이미지에 있는 모델의 얼굴五官을 참고하세요. 모델은 각각 2-6번째 참고 이미지에 있는 옷을 입고 카메라에 가까이 다가가면서 장난스러운, 냉철한, 귀여운, 놀란, 멋내는 포즈를 취합니다. 각 포즈마다 다른 옷을 입으며, 옷을 바낄 때마다 화면이 전환됩니다. 비디오의 어안 렌즈 효과와 중첩되어 깜빡이는 현란한 화면 효과를 참고하세요. | <video src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image6.png" alt="Image6.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image5.png" alt="Image5.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image4.png" alt="Image4.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image1.png" alt="Image1.png" width="320"> |
+| 첫 번째 이미지에 있는 모델의 얼굴五官을 참고하세요. 모델은 각각 2-6번째 참고 이미지에 있는 옷을 입고 카메라에 가까이 다가가면서 장난스러운, 냉철한, 귀여운, 놀란, 멋내는 포즈를 취합니다. 각 포즈마다 다른 옷을 입으며, 옷을 바낄 때마다 화면이 전환됩니다. 비디오의 어안 렌즈 효과와 중첩되어 깜빡이는 현란한 화면 효과를 참고하세요. | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Video1.mp4" controls width="150"></video> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image6.png" alt="Image6.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image5.png" alt="Image5.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -218,7 +218,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 동영상 광고创意을 참고하여 제공된 패딩점퍼 이미지를 사용하고, 거위털 이미지와 백조 이미지를 참고하여 다음 광고문구를 조합하여 새로운 패딩점퍼 광고 동영상을 제작해주세요. "이것은 거위털입니다, 이것은 따뜻한 백조입니다, 이것은 입을 수 있는 극지 백조털 패딩점퍼입니다, 새해에 따뜻하게 입고, 삶도 따뜻하게 살아요" | <video src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Image1.png" alt="Image1.png" width="320"> |
+| 동영상 광고创意을 참고하여 제공된 패딩점퍼 이미지를 사용하고, 거위털 이미지와 백조 이미지를 참고하여 다음 광고문구를 조합하여 새로운 패딩점퍼 광고 동영상을 제작해주세요. "이것은 거위털입니다, 이것은 따뜻한 백조입니다, 이것은 입을 수 있는 극지 백조털 패딩점퍼입니다, 새해에 따뜻하게 입고, 삶도 따뜻하게 살아요" | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Video1.mp4" controls width="150"></video> <img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -238,7 +238,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @비디오1의 첫 프레임 인물을 @사진1으로 교체하고, @비디오1의 특수 효과와 동작을 완벽히 참고해주세요. 손에 든 꽃술에서 장미 꽃잎이 피어나고, 얼굴에 균열이 위로 퍼져 갈수록 잡초로 덮이게 됩니다. 인물이 양손으로 얼굴을 쓸어내리면 잡초는 입자로 사라지고, 마지막에는 @사진2의 외모가 됩니다. | <video src="https://r2.getseedance.com/seedance-cases/022-rose-petal-face-transformation/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/022-rose-petal-face-transformation/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/022-rose-petal-face-transformation/Image1.png" alt="Image1.png" width="320"> |
+| @비디오1의 첫 프레임 인물을 @사진1으로 교체하고, @비디오1의 특수 효과와 동작을 완벽히 참고해주세요. 손에 든 꽃술에서 장미 꽃잎이 피어나고, 얼굴에 균열이 위로 퍼져 갈수록 잡초로 덮이게 됩니다. 인물이 양손으로 얼굴을 쓸어내리면 잡초는 입자로 사라지고, 마지막에는 @사진2의 외모가 됩니다. | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/022-rose-petal-face-transformation/Video1.mp4" controls width="200"></video> <img src="https://r2.getseedance.com/seedance-cases/022-rose-petal-face-transformation/Image2.png" alt="Image2.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/022-rose-petal-face-transformation/Image1.png" alt="Image1.png" width="200"></div> |
 
 **Result:**
 
@@ -248,7 +248,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @이미지1의 천장에서 시작하여 @동영상1의 퍼즐 파손 효과를 참고하여 전환하십시오. "BELIEVE" 글자는 "Seedance"로 교체하고 @그림2의 글꼴을 참고하십시오. | <img src="https://r2.getseedance.com/seedance-cases/023-seedance-logo-puzzle-break/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/023-seedance-logo-puzzle-break/Image1.png" alt="Image1.png" width="320"> |
+| @이미지1의 천장에서 시작하여 @동영상1의 퍼즐 파손 효과를 참고하여 전환하십시오. "BELIEVE" 글자는 "Seedance"로 교체하고 @그림2의 글꼴을 참고하십시오. | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/023-seedance-logo-puzzle-break/Image2.png" alt="Image2.png" width="300"> <img src="https://r2.getseedance.com/seedance-cases/023-seedance-logo-puzzle-break/Image1.png" alt="Image1.png" width="300"></div> |
 
 **Result:**
 
@@ -278,7 +278,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @그림1을 왼쪽에서 오른쪽으로, 위에서 아래로 순서대로 만화로演绎(연기)해 주세요. 인물이 말하는 대사는 그림에 있는 그대로 유지하고, 분경 전환과 중요한情节(줄거리)演绎(연기)에는 특수 효과음을 추가해 주세요. 전체 스타일은 유머러스하게 해 주시고,演绎(연기) 방식은 @비디오1을 참고해 주세요. | <video src="https://r2.getseedance.com/seedance-cases/026-comic-strip-humorous-narration/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/026-comic-strip-humorous-narration/Image1.png" alt="Image1.png" width="320"> |
+| @그림1을 왼쪽에서 오른쪽으로, 위에서 아래로 순서대로 만화로演绎(연기)해 주세요. 인물이 말하는 대사는 그림에 있는 그대로 유지하고, 분경 전환과 중요한情节(줄거리)演绎(연기)에는 특수 효과음을 추가해 주세요. 전체 스타일은 유머러스하게 해 주시고,演绎(연기) 방식은 @비디오1을 참고해 주세요. | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/026-comic-strip-humorous-narration/Video1.mp4" controls width="300"></video> <img src="https://r2.getseedance.com/seedance-cases/026-comic-strip-humorous-narration/Image1.png" alt="Image1.png" width="300"></div> |
 
 **Result:**
 
@@ -298,7 +298,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 비디오 1의 오디오를 참고하여, 그림 1, 그림 2, 그림 3, 그림 4, 그림 5를 영감으로 삼아 감정 중심의 영상을 창작해주세요. 배경 음악은 @비디오1을 참고해주세요 | <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image5.png" alt="Image5.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image4.png" alt="Image4.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image1.png" alt="Image1.png" width="320"> |
+| 비디오 1의 오디오를 참고하여, 그림 1, 그림 2, 그림 3, 그림 4, 그림 5를 영감으로 삼아 감정 중심의 영상을 창작해주세요. 배경 음악은 @비디오1을 참고해주세요 | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image5.png" alt="Image5.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -308,7 +308,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 15초 동영상을 연장하세요. @사진1, @사진2의 당나귀가 오토바이를 타는 이미지를 참고하여 상상력 넘치는 광고를 추가해주세요. 장면1: 측면 고정 카메라로, 당나귀가 오토바이를 타고 울타리를 뚫고 나오는데, 옆의 닭이 놀란 모습입니다. 장면2: 당나귀가 오토바이를 타고 사막에서 선회하는데, 먼저 오토바이 타이어를 특寫한 후, 반공중에서俯拍으로 당나귀가 오토바이를 타고 선회特技를 하는 모습을 촬영하여 연기가 일�니다. 장면3: 배경은 설산镜头이며, 당나귀가 오토바이를 타고 언덕에서 날아넘는데, 광고문구는主体 뒤에 나타나며, 당나귀와 오토바이가 날아갈 때遮罩 형식으로 가운데 "Inspire Creativity, Enrich Life"가 나타나고, 마지막으로 오토바이가 지나가면서 먼지를 일으킵니다. | <img src="https://r2.getseedance.com/seedance-cases/029-donkey-motorcycle-creative-ad/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/029-donkey-motorcycle-creative-ad/Image1.png" alt="Image1.png" width="320"> |
+| 15초 동영상을 연장하세요. @사진1, @사진2의 당나귀가 오토바이를 타는 이미지를 참고하여 상상력 넘치는 광고를 추가해주세요. 장면1: 측면 고정 카메라로, 당나귀가 오토바이를 타고 울타리를 뚫고 나오는데, 옆의 닭이 놀란 모습입니다. 장면2: 당나귀가 오토바이를 타고 사막에서 선회하는데, 먼저 오토바이 타이어를 특寫한 후, 반공중에서俯拍으로 당나귀가 오토바이를 타고 선회特技를 하는 모습을 촬영하여 연기가 일�니다. 장면3: 배경은 설산镜头이며, 당나귀가 오토바이를 타고 언덕에서 날아넘는데, 광고문구는主体 뒤에 나타나며, 당나귀와 오토바이가 날아갈 때遮罩 형식으로 가운데 "Inspire Creativity, Enrich Life"가 나타나고, 마지막으로 오토바이가 지나가면서 먼지를 일으킵니다. | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/029-donkey-motorcycle-creative-ad/Image2.png" alt="Image2.png" width="300"> <img src="https://r2.getseedance.com/seedance-cases/029-donkey-motorcycle-creative-ad/Image1.png" alt="Image1.png" width="300"></div> |
 
 **Result:**
 
@@ -318,7 +318,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 비디오를 6초 연장하고, 전기 기타의激昂적인 음악을 삽입하십시오. 비디오 중간에 "JUST DO IT"라는 광고 문자가 나타난 후 서서히 흐려지고,镜头이 천장으로 올라가면서 근육질의 남자가링을 잡고 있는 모습이 나옵니다. 그 남자는 상半身에 @그림1의紧身 운동복을 입고 있으며, 등에는 @그림2의 "Fitness" 로고가 인쇄되어 있습니다. 그는 근육질의 팔로링을 잡고 올라가며,随后 비디오 중간에 "DO SOME SPORT"라는 광고 종료 문자가 나타납니다. | <video src="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Image1.png" alt="Image1.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Image2.png" alt="Image2.png" width="320"> |
+| 비디오를 6초 연장하고, 전기 기타의激昂적인 음악을 삽입하십시오. 비디오 중간에 "JUST DO IT"라는 광고 문자가 나타난 후 서서히 흐려지고,镜头이 천장으로 올라가면서 근육질의 남자가링을 잡고 있는 모습이 나옵니다. 그 남자는 상半身에 @그림1의紧身 운동복을 입고 있으며, 등에는 @그림2의 "Fitness" 로고가 인쇄되어 있습니다. 그는 근육질의 팔로링을 잡고 올라가며,随后 비디오 중간에 "DO SOME SPORT"라는 광고 종료 문자가 나타납니다. | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Video1.mp4" controls width="200"></video> <img src="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Image1.png" alt="Image1.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Image2.png" alt="Image2.png" width="200"></div> |
 
 **Result:**
 
@@ -348,7 +348,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 고정 렌즈, 중앙에 있는 어안 렌즈가 원형 구멍을 통해 아래로 내려다보도록 하며, 참고 영상 1의 어안 렌즈를 참조하여, 참고 영상 2의 말이 어안 렌즈를 바라보게 하고, 참고 영상 1의 말하는 동작을 참조하며, 배경 BGM은 참고 영상 3의 사운드를 참조하십시오. | <video src="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Video1.mp4" controls width="320"></video> <video src="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Video2.mp4" controls width="320"></video> <video src="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Video3.mp4" controls width="320"></video> |
+| 고정 렌즈, 중앙에 있는 어안 렌즈가 원형 구멍을 통해 아래로 내려다보도록 하며, 참고 영상 1의 어안 렌즈를 참조하여, 참고 영상 2의 말이 어안 렌즈를 바라보게 하고, 참고 영상 1의 말하는 동작을 참조하며, 배경 BGM은 참고 영상 3의 사운드를 참조하십시오. | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Video1.mp4" controls width="200"></video> <video src="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Video2.mp4" controls width="200"></video> <video src="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Video3.mp4" controls width="200"></video></div> |
 
 **Result:**
 
@@ -358,7 +358,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 제공된 오피스텔 홍보사진에 근거하여 15초 분량의 영화급 사실주의 스타일의 부동산 다큐멘터리를 제작하십시오. 2.35:1 와이드스크린 비율과 24fps 프레임 속도를 사용하며, 섬세한 화면 스타일을 적용해 주세요. 나레이션 음색은 @비디오1을 참고하시고, "오피스텔의 생태계"를 촬영하여 건물 내 다양한 기업의 운영 모습을呈现하며, 나레이션과 결합하여 오피스텔이 어떻게 활기찬 비즈니스 생태계로 존재하는지를 설명해 주시기 바랍니다. | <video src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image1.png" alt="Image1.png" width="320"> |
+| 제공된 오피스텔 홍보사진에 근거하여 15초 분량의 영화급 사실주의 스타일의 부동산 다큐멘터리를 제작하십시오. 2.35:1 와이드스크린 비율과 24fps 프레임 속도를 사용하며, 섬세한 화면 스타일을 적용해 주세요. 나레이션 음색은 @비디오1을 참고하시고, "오피스텔의 생태계"를 촬영하여 건물 내 다양한 기업의 운영 모습을呈现하며, 나레이션과 결합하여 오피스텔이 어떻게 활기찬 비즈니스 생태계로 존재하는지를 설명해 주시기 바랍니다. | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Video1.mp4" controls width="150"></video> <img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -418,7 +418,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 0-3초: 시작 부분에 알람이 울리고, 흐릿한 화면 속에 장면 1이 나타납니다. 3-10초: 카메라를 빠르게 흔들어 맞은편으로 돌려 남자 얼굴을 특写하며, 남자가无奈하게 여자를 깨우는데, 말투와 음색은 @동영상1을 참고하세요. 10-12초: 여자가撅은 입으로 이불 속으로 숨습니다. 12-15초: 남자 전신으로 전환되며, 그는 한숨을 쉬며 "정말 너란 사람 못할 것 같아!"라고 말합니다. | <video src="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Image1.png" alt="Image1.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Image2.png" alt="Image2.png" width="320"> |
+| 0-3초: 시작 부분에 알람이 울리고, 흐릿한 화면 속에 장면 1이 나타납니다. 3-10초: 카메라를 빠르게 흔들어 맞은편으로 돌려 남자 얼굴을 특写하며, 남자가无奈하게 여자를 깨우는데, 말투와 음색은 @동영상1을 참고하세요. 10-12초: 여자가撅은 입으로 이불 속으로 숨습니다. 12-15초: 남자 전신으로 전환되며, 그는 한숨을 쉬며 "정말 너란 사람 못할 것 같아!"라고 말합니다. | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Video1.mp4" controls width="200"></video> <img src="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Image1.png" alt="Image1.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Image2.png" alt="Image2.png" width="200"></div> |
 
 **Result:**
 
@@ -428,7 +428,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @사진1의 원숭이가 밀크티 가게 카운터로 걸어가고, 카메라는 그 뒤를 따라갑니다. @사진2의 비숑 종사자가 바에서 제조 도구를 닦고 있습니다. 원숭이는 서비스원에게四川어로 주문합니다: "幺妹儿,霸王别姬 있습니까?" 컷. 특수촬영. 서비스원은 손에 하던 일을 멈추고 원숭이를 이상하게 바라본 뒤 대답합니다: "없어요, 아메리카노는 어때요" 컷. 카메라는 원숭이에게 옮겨집니다. 그는 머리를 긁으며 속삭입니다: "没事...? 내가有事! 손자가 나에게 밀크티를 사오라고 했는데, 바로霸王别姬라고 했잖아" | <img src="https://r2.getseedance.com/seedance-cases/041-monkey-bubble-tea-sichuan-order/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/041-monkey-bubble-tea-sichuan-order/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/041-monkey-bubble-tea-sichuan-order/Image1.png" alt="Image1.png" width="320"> |
+| @사진1의 원숭이가 밀크티 가게 카운터로 걸어가고, 카메라는 그 뒤를 따라갑니다. @사진2의 비숑 종사자가 바에서 제조 도구를 닦고 있습니다. 원숭이는 서비스원에게四川어로 주문합니다: "幺妹儿,霸王别姬 있습니까?" 컷. 특수촬영. 서비스원은 손에 하던 일을 멈추고 원숭이를 이상하게 바라본 뒤 대답합니다: "없어요, 아메리카노는 어때요" 컷. 카메라는 원숭이에게 옮겨집니다. 그는 머리를 긁으며 속삭입니다: "没事...? 내가有事! 손자가 나에게 밀크티를 사오라고 했는데, 바로霸王别姬라고 했잖아" | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/041-monkey-bubble-tea-sichuan-order/Image3.png" alt="Image3.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/041-monkey-bubble-tea-sichuan-order/Image2.png" alt="Image2.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/041-monkey-bubble-tea-sichuan-order/Image1.png" alt="Image1.png" width="200"></div> |
 
 **Result:**
 
@@ -448,7 +448,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @사진1@사진2@사진3@사진4@사진5, 단일 촬영으로 이어지는 트래킹 샷으로 거리에서 러너를 따라 계단을 오르고 복도를 지나 옥상으로 들어간 뒤, 마침내 도시 전경을 내려다보는 장면입니다. | <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image5.png" alt="Image5.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image4.png" alt="Image4.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image1.png" alt="Image1.png" width="320"> |
+| @사진1@사진2@사진3@사진4@사진5, 단일 촬영으로 이어지는 트래킹 샷으로 거리에서 러너를 따라 계단을 오르고 복도를 지나 옥상으로 들어간 뒤, 마침내 도시 전경을 내려다보는 장면입니다. | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image5.png" alt="Image5.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -458,7 +458,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @사진1을 첫 프레임으로 하여, 화면은 비행기 창 밖으로 확대됩니다. 구름 한 점점이 화면으로 천천히飘过来, 그 중 하나는 컬러 캔디로 장식된 구름으로 항상 화면 중앙에 위치해 있습니다. 이 구름은 천천히 변형되어 @사진2의 아이스크림이 됩니다. 그 후 카메라는 멀어져机舱 내부로 돌아오며, 창가에 앉은 @사진3은 창 밖에서 아이스크림을 건져들여一口 먹습니다.嘴巴에는 크림이 묻어 있고, 얼굴에는甜蜜한 미소가 가득합니다. 이때 비디오 더빙은 @비디오1입니다. | <img src="https://r2.getseedance.com/seedance-cases/044-airplane-cloud-ice-cream-magic/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/044-airplane-cloud-ice-cream-magic/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/044-airplane-cloud-ice-cream-magic/Image1.png" alt="Image1.png" width="320"> |
+| @사진1을 첫 프레임으로 하여, 화면은 비행기 창 밖으로 확대됩니다. 구름 한 점점이 화면으로 천천히飘过来, 그 중 하나는 컬러 캔디로 장식된 구름으로 항상 화면 중앙에 위치해 있습니다. 이 구름은 천천히 변형되어 @사진2의 아이스크림이 됩니다. 그 후 카메라는 멀어져机舱 내부로 돌아오며, 창가에 앉은 @사진3은 창 밖에서 아이스크림을 건져들여一口 먹습니다.嘴巴에는 크림이 묻어 있고, 얼굴에는甜蜜한 미소가 가득합니다. 이때 비디오 더빙은 @비디오1입니다. | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/044-airplane-cloud-ice-cream-magic/Image3.png" alt="Image3.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/044-airplane-cloud-ice-cream-magic/Image2.png" alt="Image2.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/044-airplane-cloud-ice-cream-magic/Image1.png" alt="Image1.png" width="200"></div> |
 
 **Result:**
 
@@ -468,7 +468,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 스파이 영화 스타일, @사진1을 첫 프레임 화면으로 사용하되, 빨간 코트를 입은 여자 요원이 앞으로 걸어가는 것을 정면에서 추적 촬영합니다. 전경镜头로 따라가면서 계속 행인들이 빨간 옷 여자를 가리며, 모퉁이에 다다르면, @사진2의 모퉁이 건물을 참고하여, 고정镜头로 빨간 옷 여자가 화면을 벗어나 모퉁이를 돌아 사라집니다. 거기 모퉁이에 가면을 쓴 소녀가 숨어서 그녀를 앙숙스럽게 응시하고 있는데, 가면 소녀의形象는 @사진3을 참고합니다. 단지形象만 참고하며, 소녀는 모퉁이에 서 있습니다.镜头가 빨간 옷 여자 요원을 향해 앞으로 흔들리며, 그녀는 저택으로 들어가 사라집니다. 저택은 @사진4를 참고합니다.全程镜头를 절대 컷하지 않고, 원샷으로 촬영합니다. | <img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image4.png" alt="Image4.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image1.png" alt="Image1.png" width="320"> |
+| 스파이 영화 스타일, @사진1을 첫 프레임 화면으로 사용하되, 빨간 코트를 입은 여자 요원이 앞으로 걸어가는 것을 정면에서 추적 촬영합니다. 전경镜头로 따라가면서 계속 행인들이 빨간 옷 여자를 가리며, 모퉁이에 다다르면, @사진2의 모퉁이 건물을 참고하여, 고정镜头로 빨간 옷 여자가 화면을 벗어나 모퉁이를 돌아 사라집니다. 거기 모퉁이에 가면을 쓴 소녀가 숨어서 그녀를 앙숙스럽게 응시하고 있는데, 가면 소녀의形象는 @사진3을 참고합니다. 단지形象만 참고하며, 소녀는 모퉁이에 서 있습니다.镜头가 빨간 옷 여자 요원을 향해 앞으로 흔들리며, 그녀는 저택으로 들어가 사라집니다. 저택은 @사진4를 참고합니다.全程镜头를 절대 컷하지 않고, 원샷으로 촬영합니다. | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -478,7 +478,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @사진1의 야외 풍경을 기준으로, 1인칭 주관적 시점으로 목구멍 속 환경 장면의 근景까지 빠르게 밀어붙이는 렌즈로, 한 마리의 사슴@사진2와 한 마리의 양@사진3이 벽난로 옆에서 차를 마시며 이야기를 나누고 있습니다. 렌즈를推进特写茶杯的样式参考@사진4. | <img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Image4.png" alt="Image4.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Image1.png" alt="Image1.png" width="320"> |
+| @사진1의 야외 풍경을 기준으로, 1인칭 주관적 시점으로 목구멍 속 환경 장면의 근景까지 빠르게 밀어붙이는 렌즈로, 한 마리의 사슴@사진2와 한 마리의 양@사진3이 벽난로 옆에서 차를 마시며 이야기를 나누고 있습니다. 렌즈를推进特写茶杯的样式参考@사진4. | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -488,7 +488,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @사진1@사진2@사진3@사진4@사진5, 주관적 시점으로 일관된 장면으로 촬영되는 긴장감 넘치는 롤러코스터의 영상, 롤러코스터의 속도는 점점 더 빨라집니다. | <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image5.png" alt="Image5.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image4.png" alt="Image4.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image1.png" alt="Image1.png" width="320"> |
+| @사진1@사진2@사진3@사진4@사진5, 주관적 시점으로 일관된 장면으로 촬영되는 긴장감 넘치는 롤러코스터의 영상, 롤러코스터의 속도는 점점 더 빨라집니다. | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image5.png" alt="Image5.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -518,7 +518,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 비디오 1의 여주가를 이미지 1의 남주가로 바꿔주세요. 원본 비디오의 동작을 완전히 모방해야 하며, 편집 절차는 나타나지 않아야 하고 밴드 연주 음악도 포함되어야 합니다. | <video src="https://r2.getseedance.com/seedance-cases/050-band-performance-singer-replace/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/050-band-performance-singer-replace/Image1.png" alt="Image1.png" width="320"> |
+| 비디오 1의 여주가를 이미지 1의 남주가로 바꿔주세요. 원본 비디오의 동작을 완전히 모방해야 하며, 편집 절차는 나타나지 않아야 하고 밴드 연주 음악도 포함되어야 합니다. | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/050-band-performance-singer-replace/Video1.mp4" controls width="300"></video> <img src="https://r2.getseedance.com/seedance-cases/050-band-performance-singer-replace/Image1.png" alt="Image1.png" width="300"></div> |
 
 **Result:**
 
@@ -528,7 +528,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 비디오 1의 여성 머리를 빨간 긴 머리로 변경하고, 이미지 1의 큰 흰상어가 그녀 뒤에서 천천히 머리 반쪽을 수면 위로 올리게 해주세요. | <video src="https://r2.getseedance.com/seedance-cases/051-red-hair-shark-behind-scene/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/051-red-hair-shark-behind-scene/Image1.png" alt="Image1.png" width="320"> |
+| 비디오 1의 여성 머리를 빨간 긴 머리로 변경하고, 이미지 1의 큰 흰상어가 그녀 뒤에서 천천히 머리 반쪽을 수면 위로 올리게 해주세요. | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/051-red-hair-shark-behind-scene/Video1.mp4" controls width="300"></video> <img src="https://r2.getseedance.com/seedance-cases/051-red-hair-shark-behind-scene/Image1.png" alt="Image1.png" width="300"></div> |
 
 **Result:**
 
@@ -538,7 +538,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 비디오1 렌즈를 오른쪽으로 흔들며, 치킨집 사장은 줄을 서 있는 손님들에게 치킨을 바쁘게 건넵니다. 그는 표준어로 "그분 거 다 하고, 당신 거 할게요. 다들文明적으로 줄 서세요."라고 말한 후, 종이봉지를拿来装炸鸡합니다. 사장이 그림1이 인쇄된 종이봉지를拿는 모습을特寫로 보여주고, 손님에게 건네는 손의特寫을展示합니다. | <video src="https://r2.getseedance.com/seedance-cases/052-fried-chicken-queue-paper-bag/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/052-fried-chicken-queue-paper-bag/Image1.png" alt="Image1.png" width="320"> |
+| 비디오1 렌즈를 오른쪽으로 흔들며, 치킨집 사장은 줄을 서 있는 손님들에게 치킨을 바쁘게 건넵니다. 그는 표준어로 "그분 거 다 하고, 당신 거 할게요. 다들文明적으로 줄 서세요."라고 말한 후, 종이봉지를拿来装炸鸡합니다. 사장이 그림1이 인쇄된 종이봉지를拿는 모습을特寫로 보여주고, 손님에게 건네는 손의特寫을展示합니다. | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/052-fried-chicken-queue-paper-bag/Video1.mp4" controls width="300"></video> <img src="https://r2.getseedance.com/seedance-cases/052-fried-chicken-queue-paper-bag/Image1.png" alt="Image1.png" width="300"></div> |
 
 **Result:**
 
@@ -548,7 +548,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 포스터 속 여성이 끊임없이 옷을 바꾸고 있으며,服装은 @사진1@사진2의 스타일을 참고했고, 손에는 @사진3의 가방을 들고 있습니다. 영상 리듬은 @비디오를 참고하세요. | <video src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image4.png" alt="Image4.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image1.png" alt="Image1.png" width="320"> |
+| 포스터 속 여성이 끊임없이 옷을 바꾸고 있으며,服装은 @사진1@사진2의 스타일을 참고했고, 손에는 @사진3의 가방을 들고 있습니다. 영상 리듬은 @비디오를 참고하세요. | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Video1.mp4" controls width="150"></video> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -558,7 +558,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @사진1@사진2@사진3@사진4@사진5@사진6@사진7의 이미지를 @동영상의 화면 키프레임 위치와 전체 리듬에 맞춰 카운트다운하여, 화면 속 인물에게 더욱 역동감을 부여하고 전체적인 화면 스타일을 더욱 몽환적으로, 화면 텐션을 강화시켜 주시기 바랍니다. 음악 및 화면 요구에 따라 참고 이미지의 영상구도를 자유롭게 변경하고 화면의 빛과 그림자 변화를 보충할 수 있습니다. | <video src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image6.png" alt="Image6.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image5.png" alt="Image5.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image4.png" alt="Image4.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image1.png" alt="Image1.png" width="320"> |
+| @사진1@사진2@사진3@사진4@사진5@사진6@사진7의 이미지를 @동영상의 화면 키프레임 위치와 전체 리듬에 맞춰 카운트다운하여, 화면 속 인물에게 더욱 역동감을 부여하고 전체적인 화면 스타일을 더욱 몽환적으로, 화면 텐션을 강화시켜 주시기 바랍니다. 음악 및 화면 요구에 따라 참고 이미지의 영상구도를 자유롭게 변경하고 화면의 빛과 그림자 변화를 보충할 수 있습니다. | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Video1.mp4" controls width="150"></video> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image6.png" alt="Image6.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image5.png" alt="Image5.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -568,7 +568,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @사진1@사진2@사진3@사진4@사진5@사진6의 풍경 장면 이미지를 참고하여, @동영상의 화면 리듬, 장면 전환 간의 화면 스타일 및 음악 리듬에 맞춰 카드로 구성해 주세요 | <video src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image6.png" alt="Image6.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image5.png" alt="Image5.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image4.png" alt="Image4.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image1.png" alt="Image1.png" width="320"> |
+| @사진1@사진2@사진3@사진4@사진5@사진6의 풍경 장면 이미지를 참고하여, @동영상의 화면 리듬, 장면 전환 간의 화면 스타일 및 음악 리듬에 맞춰 카드로 구성해 주세요 | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Video1.mp4" controls width="150"></video> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image6.png" alt="Image6.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image5.png" alt="Image5.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -588,7 +588,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @이미지1의 여자가 거울 앞으로 걸어가 거울 속의 자신을 바라봅니다. 포즈는 @이미지2를 참고하며 잠시 생각에 잠긴 후 갑자기 붕괴하며 큰 소리를 지르고 거울을抓는 동작, 붕괴된 감정과 표정은 @비디오1을 완전히 참고합니다. | <video src="https://r2.getseedance.com/seedance-cases/057-mirror-breakdown-emotional-scene/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/057-mirror-breakdown-emotional-scene/Image1.png" alt="Image1.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/057-mirror-breakdown-emotional-scene/Image2.png" alt="Image2.png" width="320"> |
+| @이미지1의 여자가 거울 앞으로 걸어가 거울 속의 자신을 바라봅니다. 포즈는 @이미지2를 참고하며 잠시 생각에 잠긴 후 갑자기 붕괴하며 큰 소리를 지르고 거울을抓는 동작, 붕괴된 감정과 표정은 @비디오1을 완전히 참고합니다. | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/057-mirror-breakdown-emotional-scene/Video1.mp4" controls width="200"></video> <img src="https://r2.getseedance.com/seedance-cases/057-mirror-breakdown-emotional-scene/Image1.png" alt="Image1.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/057-mirror-breakdown-emotional-scene/Image2.png" alt="Image2.png" width="200"></div> |
 
 **Result:**
 
@@ -598,7 +598,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 이것은 렌지후드 광고입니다. @사진1을 첫 프레임 화면으로 사용하여, 여자가 우아하게 요리를 하는데 연기가 없습니다. 카메라는 빠르게 오른쪽으로 흔들리면서 @사진2의 남자가 땀에 흠뻑 젖고 얼굴이 빨개져 요리를 하는 모습을 촬영하며, 굴뚝연기가 몰아칩니다. 카메라는 왼쪽으로 흔들리면서 @사진1의 테이블 위에 있는 렌지후드를 촬영합니다. 렌지후드는 @사진4를 참고하며, 렌지후드가 열심히 연기를 빨아들입니다. | <img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image1.png" alt="Image1.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image4.png" alt="Image4.png" width="320"> |
+| 이것은 렌지후드 광고입니다. @사진1을 첫 프레임 화면으로 사용하여, 여자가 우아하게 요리를 하는데 연기가 없습니다. 카메라는 빠르게 오른쪽으로 흔들리면서 @사진2의 남자가 땀에 흠뻑 젖고 얼굴이 빨개져 요리를 하는 모습을 촬영하며, 굴뚝연기가 몰아칩니다. 카메라는 왼쪽으로 흔들리면서 @사진1의 테이블 위에 있는 렌지후드를 촬영합니다. 렌지후드는 @사진4를 참고하며, 렌지후드가 열심히 연기를 빨아들입니다. | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image1.png" alt="Image1.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image4.png" alt="Image4.png" width="150"></div> |
 
 **Result:**
 
@@ -608,7 +608,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @사진1을 화면의 첫 프레임으로 설정하고, 카메라를 회전시키며 점점 가까이 접근합니다. 인물이 갑자기 고개를 들고, 얼굴 모습은 @사진2를 참고해주세요. 그런 다음 큰 소리로咆哮하기 시작하며, 감정적으로 격렬하면서도 약간의 코믹한 느낌을 주도록 @사진3의 표정과 태도를 참고합니다. 이후 인물의 몸은 @사진4를 참고하여 곰으로 변身합니다. | <img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Image1.png" alt="Image1.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Image4.png" alt="Image4.png" width="320"> |
+| @사진1을 화면의 첫 프레임으로 설정하고, 카메라를 회전시키며 점점 가까이 접근합니다. 인물이 갑자기 고개를 들고, 얼굴 모습은 @사진2를 참고해주세요. 그런 다음 큰 소리로咆哮하기 시작하며, 감정적으로 격렬하면서도 약간의 코믹한 느낌을 주도록 @사진3의 표정과 태도를 참고합니다. 이후 인물의 몸은 @사진4를 참고하여 곰으로 변身합니다. | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Image1.png" alt="Image1.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Image4.png" alt="Image4.png" width="150"></div> |
 
 **Result:**
 

@@ -108,7 +108,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @画像2のバッグを商業用に撮影展示してください。バッグの側面は@画像1を参考に、表面素材は@画像3を参考にしてください。バッグのディティールをすべて十分に表現し、背景音は壮大で威容があるものにしてください。 | <img src="https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Image1.png" alt="Image1.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Image3.png" alt="Image3.png" width="320"> |
+| @画像2のバッグを商業用に撮影展示してください。バッグの側面は@画像1を参考に、表面素材は@画像3を参考にしてください。バッグのディティールをすべて十分に表現し、背景音は壮大で威容があるものにしてください。 | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Image1.png" alt="Image1.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Image2.png" alt="Image2.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Image3.png" alt="Image3.png" width="200"></div> |
 
 **Result:**
 
@@ -118,7 +118,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @画像1を画面の最初のフレーム画像とし、一人称視点で@動画1のカメラワーク効果を参考にし、上方のシーンは@画像2を、左側のシーンは@画像3を、右側のシーンは@画像4を参考にしてください。 | <img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image1.png" alt="Image1.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image4.png" alt="Image4.png" width="320"> |
+| @画像1を画面の最初のフレーム画像とし、一人称視点で@動画1のカメラワーク効果を参考にし、上方のシーンは@画像2を、左側のシーンは@画像3を、右側のシーンは@画像4を参考にしてください。 | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image1.png" alt="Image1.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image4.png" alt="Image4.png" width="150"></div> |
 
 **Result:**
 
@@ -128,7 +128,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @図1の男性のイメージを参考にして、彼が@図2のエレベーター内にいる場面を描いてください。運鏡や主人公の表情は@動画1を完全に参考にしてください。主人公が驚愕した瞬間にはヒッチコック・ズームを使用し、その後、エレベーター内の視点を捉える複数の円形移動カメラを用いてください。エレベーターのドアが開いたら、追従カメラで主人公がエレベーターから出る様子を映し、エレベーター外のシーンは@図3を参考にしてください。男性が周囲を見回す場面では、@動画1を参考にメカニカルアームを使って人物の視線に合わせた多角度追従を行ってください。 | <video src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image1.png" alt="Image1.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image3.png" alt="Image3.png" width="320"> |
+| @図1の男性のイメージを参考にして、彼が@図2のエレベーター内にいる場面を描いてください。運鏡や主人公の表情は@動画1を完全に参考にしてください。主人公が驚愕した瞬間にはヒッチコック・ズームを使用し、その後、エレベーター内の視点を捉える複数の円形移動カメラを用いてください。エレベーターのドアが開いたら、追従カメラで主人公がエレベーターから出る様子を映し、エレベーター外のシーンは@図3を参考にしてください。男性が周囲を見回す場面では、@動画1を参考にメカニカルアームを使って人物の視線に合わせた多角度追従を行ってください。 | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Video1.mp4" controls width="150"></video> <img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image1.png" alt="Image1.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image3.png" alt="Image3.png" width="150"></div> |
 
 **Result:**
 
@@ -138,7 +138,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @図1の男性のイメージを参考にし、彼は@図2の廊下にいます。@動画1のすべてのカメラワークや主人公の表情を完全に参考にして、カメラは主人公に追従して@図2のコーナーを走ります。その後、@図3の長い廊下で、カメラは背面からの追従視点から低角度で主人公の正面に回り込みます。カメラを右に90度振って@図4の分岐路を撮影し、急停止させた後に右に180度振って主人公の正面を間近で撮影します。主人公は息を荒くしており、カメラは主人公の視点に合わせて周囲を見渡し、@動画1の急速な左右回り込みのカメラワークを参考にして場面を表現した後、後ろに引いて@図5の場面に移り、引き続き主人公の走る横面を追いかけ撮影します。 | <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image5.png" alt="Image5.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image4.png" alt="Image4.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image1.png" alt="Image1.png" width="320"> |
+| @図1の男性のイメージを参考にし、彼は@図2の廊下にいます。@動画1のすべてのカメラワークや主人公の表情を完全に参考にして、カメラは主人公に追従して@図2のコーナーを走ります。その後、@図3の長い廊下で、カメラは背面からの追従視点から低角度で主人公の正面に回り込みます。カメラを右に90度振って@図4の分岐路を撮影し、急停止させた後に右に180度振って主人公の正面を間近で撮影します。主人公は息を荒くしており、カメラは主人公の視点に合わせて周囲を見渡し、@動画1の急速な左右回り込みのカメラワークを参考にして場面を表現した後、後ろに引いて@図5の場面に移り、引き続き主人公の走る横面を追いかけ撮影します。 | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image5.png" alt="Image5.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -148,7 +148,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @画像1のタブレットを主体とし、撮影手法は@動画1を参考に。画面へのクローズアップまで寄り込んだ後、カメラを回転させながらタブレットを反転させ全貌を披露。画面内のデータフローは常に変化し、周囲の環境は徐々にSF的なデータ空間へと変化していく | <video src="https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Image1.png" alt="Image1.png" width="320"> |
+| @画像1のタブレットを主体とし、撮影手法は@動画1を参考に。画面へのクローズアップまで寄り込んだ後、カメラを回転させながらタブレットを反転させ全貌を披露。画面内のデータフローは常に変化し、周囲の環境は徐々にSF的なデータ空間へと変化していく | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Video1.mp4" controls width="300"></video> <img src="https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Image1.png" alt="Image1.png" width="300"></div> |
 
 **Result:**
 
@@ -168,7 +168,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 「図1」「図2」の槍使いキャラクターと「図3」「図4」の二刀流キャラクターを参考に、「動画1」のアクションを模倣して、「図5」の紅葉の森の中で戦闘してください。 | <video src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image5.png" alt="Image5.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image4.png" alt="Image4.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image1.png" alt="Image1.png" width="320"> |
+| 「図1」「図2」の槍使いキャラクターと「図3」「図4」の二刀流キャラクターを参考に、「動画1」のアクションを模倣して、「図5」の紅葉の森の中で戦闘してください。 | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Video1.mp4" controls width="150"></video> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image5.png" alt="Image5.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -178,7 +178,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| ビデオ1の人物のアクションを参考にし、ビデオ2の周回運鏡のカメラ言語を参考にして、キャラクター1とキャラクター2の打ち合いシーンを生成してください。この打ち合いは星夜の中で起こり、その過程で白い塵が舞い上がります。打ち合いの場面は非常に華やかで、緊迫感に満ちた雰囲気です。 | <video src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Video1.mp4" controls width="320"></video> <video src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Video2.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Image1.png" alt="Image1.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Image2.png" alt="Image2.png" width="320"> |
+| ビデオ1の人物のアクションを参考にし、ビデオ2の周回運鏡のカメラ言語を参考にして、キャラクター1とキャラクター2の打ち合いシーンを生成してください。この打ち合いは星夜の中で起こり、その過程で白い塵が舞い上がります。打ち合いの場面は非常に華やかで、緊迫感に満ちた雰囲気です。 | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Video1.mp4" controls width="150"></video> <video src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Video2.mp4" controls width="150"></video> <img src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Image1.png" alt="Image1.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Image2.png" alt="Image2.png" width="150"></div> |
 
 **Result:**
 
@@ -188,7 +188,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| ビデオ1のカメラワークと画面切り替えのリズムを参考に、画像1の赤いスーパーカーで再現してください | <video src="https://r2.getseedance.com/seedance-cases/017-red-supercar-showcase/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/017-red-supercar-showcase/Image1.png" alt="Image1.png" width="320"> |
+| ビデオ1のカメラワークと画面切り替えのリズムを参考に、画像1の赤いスーパーカーで再現してください | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/017-red-supercar-showcase/Video1.mp4" controls width="300"></video> <img src="https://r2.getseedance.com/seedance-cases/017-red-supercar-showcase/Image1.png" alt="Image1.png" width="300"></div> |
 
 **Result:**
 
@@ -198,7 +198,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @ビデオ1の人物を@画像1に差し替え、@画像1を最初のフレームとします。人物は仮想的なSFメガネを装着し、@ビデオ1のカメラワーク、特に近接した周回ショットを参考にして、第三人称視点から人物の主観視点へと移行させます。AI仮想メガネの中を疾走し、@画像2の深遠な青色宇宙へ到着し、数機の宇宙船が遠方へと飛び去ります。カメラは宇宙船に追従して@画像3のピクセルワールドへと入り、低空からピクセルの山林地帯を飛び越え、その中で木々が成長する様子を描写します。続いて視点を仰角に変え、急速に駆け抜けて@画像4の薄緑色のテクスチャを持つ惑星へ到達し、カメラが惑星表面を横切りながら駆け抜けます。 | <video src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image4.png" alt="Image4.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image1.png" alt="Image1.png" width="320"> |
+| @ビデオ1の人物を@画像1に差し替え、@画像1を最初のフレームとします。人物は仮想的なSFメガネを装着し、@ビデオ1のカメラワーク、特に近接した周回ショットを参考にして、第三人称視点から人物の主観視点へと移行させます。AI仮想メガネの中を疾走し、@画像2の深遠な青色宇宙へ到着し、数機の宇宙船が遠方へと飛び去ります。カメラは宇宙船に追従して@画像3のピクセルワールドへと入り、低空からピクセルの山林地帯を飛び越え、その中で木々が成長する様子を描写します。続いて視点を仰角に変え、急速に駆け抜けて@画像4の薄緑色のテクスチャを持つ惑星へ到達し、カメラが惑星表面を横切りながら駆け抜けます。 | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Video1.mp4" controls width="150"></video> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -208,7 +208,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 1枚目の画像のモデルの五官を参考にしてください。モデルは2枚目から6枚目までの参考画像の服装をそれぞれ着用し、カメラに近づき、いたずらっぽい、クール、可愛い、驚いた、かっこよくするといったポーズをとってください。それぞれのポーズで異なる服装を着用し、服装を替えるたびに画面がカットされます。動画の魚眼レンズ効果や、残像が点滅するグロー効果を参考にしてください。 | <video src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image6.png" alt="Image6.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image5.png" alt="Image5.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image4.png" alt="Image4.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image1.png" alt="Image1.png" width="320"> |
+| 1枚目の画像のモデルの五官を参考にしてください。モデルは2枚目から6枚目までの参考画像の服装をそれぞれ着用し、カメラに近づき、いたずらっぽい、クール、可愛い、驚いた、かっこよくするといったポーズをとってください。それぞれのポーズで異なる服装を着用し、服装を替えるたびに画面がカットされます。動画の魚眼レンズ効果や、残像が点滅するグロー効果を参考にしてください。 | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Video1.mp4" controls width="150"></video> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image6.png" alt="Image6.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image5.png" alt="Image5.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -218,7 +218,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| ビデオの広告クリエイティブを参考にし、提供されたダウンジャケットの画像を使用し、グースダウン画像や白鳥画像も参考にして、以下のキャッチコピー「これはグースダウンです、これは暖かい白鳥です、これは着ることのできる極地白鳥の羽のダウンジャケットです、新年は暖かく着て、生活は暖かく過ごします」を組み合わせて、新しいダウンジャケットの広告ビデオを作成してください。@も翻訳してください。 | <video src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Image1.png" alt="Image1.png" width="320"> |
+| ビデオの広告クリエイティブを参考にし、提供されたダウンジャケットの画像を使用し、グースダウン画像や白鳥画像も参考にして、以下のキャッチコピー「これはグースダウンです、これは暖かい白鳥です、これは着ることのできる極地白鳥の羽のダウンジャケットです、新年は暖かく着て、生活は暖かく過ごします」を組み合わせて、新しいダウンジャケットの広告ビデオを作成してください。@も翻訳してください。 | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Video1.mp4" controls width="150"></video> <img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -238,7 +238,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @動画1の最初のフレームの人物を@画像1に置き換え、@動画1のエフェクトとアクションを完全に参考にしてください。手に持っている花芯からバラの花びらが咲き、顔に入った亀裂が上方向に広がり、徐々に雑草に覆われます。人物が両手で顔をなでると、雑草は粒子状に散って消え、最終的に@画像2の容貌に変化します。 | <video src="https://r2.getseedance.com/seedance-cases/022-rose-petal-face-transformation/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/022-rose-petal-face-transformation/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/022-rose-petal-face-transformation/Image1.png" alt="Image1.png" width="320"> |
+| @動画1の最初のフレームの人物を@画像1に置き換え、@動画1のエフェクトとアクションを完全に参考にしてください。手に持っている花芯からバラの花びらが咲き、顔に入った亀裂が上方向に広がり、徐々に雑草に覆われます。人物が両手で顔をなでると、雑草は粒子状に散って消え、最終的に@画像2の容貌に変化します。 | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/022-rose-petal-face-transformation/Video1.mp4" controls width="200"></video> <img src="https://r2.getseedance.com/seedance-cases/022-rose-petal-face-transformation/Image2.png" alt="Image2.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/022-rose-petal-face-transformation/Image1.png" alt="Image1.png" width="200"></div> |
 
 **Result:**
 
@@ -248,7 +248,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @画像1の天井から始め、@動画1のパズルが崩れるエフェクトを参考にしてトランジションを行い、「BELIEVE」のフォントを「Seedance」に置き換え、@図2のフォントを参考にしてください | <img src="https://r2.getseedance.com/seedance-cases/023-seedance-logo-puzzle-break/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/023-seedance-logo-puzzle-break/Image1.png" alt="Image1.png" width="320"> |
+| @画像1の天井から始め、@動画1のパズルが崩れるエフェクトを参考にしてトランジションを行い、「BELIEVE」のフォントを「Seedance」に置き換え、@図2のフォントを参考にしてください | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/023-seedance-logo-puzzle-break/Image2.png" alt="Image2.png" width="300"> <img src="https://r2.getseedance.com/seedance-cases/023-seedance-logo-puzzle-break/Image1.png" alt="Image1.png" width="300"></div> |
 
 **Result:**
 
@@ -278,7 +278,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @図1を左から右、上から下の順で漫画形式で表現し、人物の台詞は画像の内容と一致させてください。分鏡の切り替えや重要な場面には特殊効果音を加え、全体をユーモラスな風格に仕上げてください。表現方法は@動画1を参考にしてください。 | <video src="https://r2.getseedance.com/seedance-cases/026-comic-strip-humorous-narration/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/026-comic-strip-humorous-narration/Image1.png" alt="Image1.png" width="320"> |
+| @図1を左から右、上から下の順で漫画形式で表現し、人物の台詞は画像の内容と一致させてください。分鏡の切り替えや重要な場面には特殊効果音を加え、全体をユーモラスな風格に仕上げてください。表現方法は@動画1を参考にしてください。 | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/026-comic-strip-humorous-narration/Video1.mp4" controls width="300"></video> <img src="https://r2.getseedance.com/seedance-cases/026-comic-strip-humorous-narration/Image1.png" alt="Image1.png" width="300"></div> |
 
 **Result:**
 
@@ -298,7 +298,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| ビデオ1の音声を参考に、図1、図2、図3、図4、図5からインスピレーションを得て、感情表現型のビデオを発散的に制作してください。背景音楽は@ビデオ1を参考してください。 | <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image5.png" alt="Image5.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image4.png" alt="Image4.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image1.png" alt="Image1.png" width="320"> |
+| ビデオ1の音声を参考に、図1、図2、図3、図4、図5からインスピレーションを得て、感情表現型のビデオを発散的に制作してください。背景音楽は@ビデオ1を参考してください。 | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image5.png" alt="Image5.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -308,7 +308,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 動画を15秒延長し、@画像1、@画像2のロバがバイクに乗るイメージを参考に、独創的な広告を追加してください。 シーン1：横からの固定カメラで、ロバがバイクに乗って柵から飛び出し、そばのニワトリが驚いて逃げる。 シーン2：ロバが砂地でバイクを旋回させる。まずバイクのタイヤをクローズアップし、続いて空中から俯角でロバがバイクに乗って旋回する特技を披露し、煙を巻き上げる。 シーン3：雪山を背景に、ロバがバイクに乗って坂道から飛び越える。広告文は主体の背後にあり、マスク処理により（ロバとバイクが飛び越える瞬間）中間に「Inspire Creativity, Enrich Life」が表示され、最後にバイクが飛び越えて塵を巻き上げる。 | <img src="https://r2.getseedance.com/seedance-cases/029-donkey-motorcycle-creative-ad/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/029-donkey-motorcycle-creative-ad/Image1.png" alt="Image1.png" width="320"> |
+| 動画を15秒延長し、@画像1、@画像2のロバがバイクに乗るイメージを参考に、独創的な広告を追加してください。 シーン1：横からの固定カメラで、ロバがバイクに乗って柵から飛び出し、そばのニワトリが驚いて逃げる。 シーン2：ロバが砂地でバイクを旋回させる。まずバイクのタイヤをクローズアップし、続いて空中から俯角でロバがバイクに乗って旋回する特技を披露し、煙を巻き上げる。 シーン3：雪山を背景に、ロバがバイクに乗って坂道から飛び越える。広告文は主体の背後にあり、マスク処理により（ロバとバイクが飛び越える瞬間）中間に「Inspire Creativity, Enrich Life」が表示され、最後にバイクが飛び越えて塵を巻き上げる。 | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/029-donkey-motorcycle-creative-ad/Image2.png" alt="Image2.png" width="300"> <img src="https://r2.getseedance.com/seedance-cases/029-donkey-motorcycle-creative-ad/Image1.png" alt="Image1.png" width="300"></div> |
 
 **Result:**
 
@@ -318,7 +318,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| ビデオを6秒延長し、エレキギターの激しい音楽を流してください。ビデオの中盤に「JUST DO IT」の広告文字を表示した後、徐々にフェードアウトさせ、カメラを天井に向けて上げてください。そこには体格のいい男性がリングを握っており、上半身には@図1のタイトフィットなフィットネスウェアを着用し、背面には@図2の「Fitness」ロゴがプリントされています。男性は逞しい上肢でリングを引き上げ、その後ビデオの中央に「DO SOME SPORT」の広告終了文字を表示してください。 | <video src="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Image1.png" alt="Image1.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Image2.png" alt="Image2.png" width="320"> |
+| ビデオを6秒延長し、エレキギターの激しい音楽を流してください。ビデオの中盤に「JUST DO IT」の広告文字を表示した後、徐々にフェードアウトさせ、カメラを天井に向けて上げてください。そこには体格のいい男性がリングを握っており、上半身には@図1のタイトフィットなフィットネスウェアを着用し、背面には@図2の「Fitness」ロゴがプリントされています。男性は逞しい上肢でリングを引き上げ、その後ビデオの中央に「DO SOME SPORT」の広告終了文字を表示してください。 | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Video1.mp4" controls width="200"></video> <img src="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Image1.png" alt="Image1.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Image2.png" alt="Image2.png" width="200"></div> |
 
 **Result:**
 
@@ -348,7 +348,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 固定カメラ、中央の魚眼レンズが円形の穴から下をのぞき込みます。ビデオ1の魚眼レンズを参考にし、ビデオ2の馬が魚眼レンズの方を向くようにしてください。ビデオ1の話す動作を参考にし、背景BGMはビデオ3のサウンドエフェクトを参考にしてください。 | <video src="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Video1.mp4" controls width="320"></video> <video src="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Video2.mp4" controls width="320"></video> <video src="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Video3.mp4" controls width="320"></video> |
+| 固定カメラ、中央の魚眼レンズが円形の穴から下をのぞき込みます。ビデオ1の魚眼レンズを参考にし、ビデオ2の馬が魚眼レンズの方を向くようにしてください。ビデオ1の話す動作を参考にし、背景BGMはビデオ3のサウンドエフェクトを参考にしてください。 | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Video1.mp4" controls width="200"></video> <video src="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Video2.mp4" controls width="200"></video> <video src="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Video3.mp4" controls width="200"></video></div> |
 
 **Result:**
 
@@ -358,7 +358,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 提供されたオフィスビルの宣伝写真に基づき、15秒の映画級リアルスタイルの不動産ドキュメンタリーを制作してください。2.35:1のワイドスクリーン、24fps、繊細な画面スタイルを採用し、ナレーションの音色は@動画1を参考にしてください。「オフィスビルのエコシステム」をテーマに撮影し、ビル内のさまざまな企業の営みを表現しつつ、ナレーションと組み合わせてオフィスビルがいかに活気ある商業エコシステムとなっているかを述べてください。 | <video src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image1.png" alt="Image1.png" width="320"> |
+| 提供されたオフィスビルの宣伝写真に基づき、15秒の映画級リアルスタイルの不動産ドキュメンタリーを制作してください。2.35:1のワイドスクリーン、24fps、繊細な画面スタイルを採用し、ナレーションの音色は@動画1を参考にしてください。「オフィスビルのエコシステム」をテーマに撮影し、ビル内のさまざまな企業の営みを表現しつつ、ナレーションと組み合わせてオフィスビルがいかに活気ある商業エコシステムとなっているかを述べてください。 | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Video1.mp4" controls width="150"></video> <img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -418,7 +418,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 0-3秒：始めに目覚まし時計が鳴り、画面がぼんやりした状態でシーン1が現れます；3-10秒：クイックパンショットで向かい側の男性の顔をクローズアップし、男性が無念そうに女性を起こします。口調と音色は@ビデオ1を参考してください；10-12秒：女性は唇を突き出して布団の中に隠れます；12-15秒：男性の全身にカットし、彼は溜め息をつきながら「本当に君のことはしようがないな！」と言います。 | <video src="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Image1.png" alt="Image1.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Image2.png" alt="Image2.png" width="320"> |
+| 0-3秒：始めに目覚まし時計が鳴り、画面がぼんやりした状態でシーン1が現れます；3-10秒：クイックパンショットで向かい側の男性の顔をクローズアップし、男性が無念そうに女性を起こします。口調と音色は@ビデオ1を参考してください；10-12秒：女性は唇を突き出して布団の中に隠れます；12-15秒：男性の全身にカットし、彼は溜め息をつきながら「本当に君のことはしようがないな！」と言います。 | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Video1.mp4" controls width="200"></video> <img src="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Image1.png" alt="Image1.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Image2.png" alt="Image2.png" width="200"></div> |
 
 **Result:**
 
@@ -428,7 +428,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @画像1のサルがミルクティー店のカウンターに向かい、カメラがその背後から追従する。@画像2のビーグルの店員がバーで調理器具を拭いているところだ。サルは四川訛りで店員に注文を入れる：「妹子（メイズ）、『覇王別姫（バーワンビエイ）』はありますか？」  カット。特寫。  店員は手を止め、妙な眼でサルを見た後に答える：「ないですよ。アメリカンコーヒーはいかがですか？」  カット。カメラはサルに向けられる。  彼は頭をかいてぶつぶつ呟く：「アメリカン…？俺は用事があるんだ！孫がミルクティーを買いに来させたんだ、まさに『何とか覇王別姫』だって」 | <img src="https://r2.getseedance.com/seedance-cases/041-monkey-bubble-tea-sichuan-order/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/041-monkey-bubble-tea-sichuan-order/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/041-monkey-bubble-tea-sichuan-order/Image1.png" alt="Image1.png" width="320"> |
+| @画像1のサルがミルクティー店のカウンターに向かい、カメラがその背後から追従する。@画像2のビーグルの店員がバーで調理器具を拭いているところだ。サルは四川訛りで店員に注文を入れる：「妹子（メイズ）、『覇王別姫（バーワンビエイ）』はありますか？」  カット。特寫。  店員は手を止め、妙な眼でサルを見た後に答える：「ないですよ。アメリカンコーヒーはいかがですか？」  カット。カメラはサルに向けられる。  彼は頭をかいてぶつぶつ呟く：「アメリカン…？俺は用事があるんだ！孫がミルクティーを買いに来させたんだ、まさに『何とか覇王別姫』だって」 | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/041-monkey-bubble-tea-sichuan-order/Image3.png" alt="Image3.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/041-monkey-bubble-tea-sichuan-order/Image2.png" alt="Image2.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/041-monkey-bubble-tea-sichuan-order/Image1.png" alt="Image1.png" width="200"></div> |
 
 **Result:**
 
@@ -448,7 +448,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @画像1@画像2@画像3@画像4@画像5、一镜到底のトラッキングショットで、街頭からランナーを追跡し、階段を上り、廊下を抜け、屋上に入り、最終的に街並みを俯瞰する。 | <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image5.png" alt="Image5.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image4.png" alt="Image4.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image1.png" alt="Image1.png" width="320"> |
+| @画像1@画像2@画像3@画像4@画像5、一镜到底のトラッキングショットで、街頭からランナーを追跡し、階段を上り、廊下を抜け、屋上に入り、最終的に街並みを俯瞰する。 | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image5.png" alt="Image5.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -458,7 +458,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @画像1を最初のフレームとし、画面を飛行機の舷窓から外へズームインし、綿菓子のような雲がゆっくりと画面内に流れ込んできます。その中で、カラフルなキャンディーがちりばめられた雲が常に画面中央に位置し、ゆっくりと@画像2のアイスクリームの形に変形します。その後、カメラが引き込んで機内に戻り、舷窓側に座る@画像3が手を伸ばして窓の外からアイスクリームを取り込み、一口食べると口元にクリームが付着し、満足そうな笑顔を浮かべます。この時、ビデオの音声は@動画1に設定してください。 | <img src="https://r2.getseedance.com/seedance-cases/044-airplane-cloud-ice-cream-magic/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/044-airplane-cloud-ice-cream-magic/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/044-airplane-cloud-ice-cream-magic/Image1.png" alt="Image1.png" width="320"> |
+| @画像1を最初のフレームとし、画面を飛行機の舷窓から外へズームインし、綿菓子のような雲がゆっくりと画面内に流れ込んできます。その中で、カラフルなキャンディーがちりばめられた雲が常に画面中央に位置し、ゆっくりと@画像2のアイスクリームの形に変形します。その後、カメラが引き込んで機内に戻り、舷窓側に座る@画像3が手を伸ばして窓の外からアイスクリームを取り込み、一口食べると口元にクリームが付着し、満足そうな笑顔を浮かべます。この時、ビデオの音声は@動画1に設定してください。 | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/044-airplane-cloud-ice-cream-magic/Image3.png" alt="Image3.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/044-airplane-cloud-ice-cream-magic/Image2.png" alt="Image2.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/044-airplane-cloud-ice-cream-magic/Image1.png" alt="Image1.png" width="200"></div> |
 
 **Result:**
 
@@ -468,7 +468,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 諜報映画の風格で、@画像1を最初のフレームとし、レンズは正面から赤いフード付きコートを着た女諜報員の前進を追跡。全景で追従し、通行人が次々に赤い服の女性を遮る。あるコーナーまで来たら、@画像2のコーナー建築を参考にし、固定レンズで赤い服の女性が画面から去り、コーナーで姿を消す。そのコーナーには仮面をかぶった少女が隠れており、彼女を悪狠狠と睨んでいる。少女の仮面の形象は@画像3を参考とし、ただ形象のみを参考にし、少女はコーナーに立っている。レンズを前に摇らして赤い服の女諜報員に向け、彼女は豪邸に入って姿を消す。豪邸は@画像4を参考。全程、カットせず、ワンテイクで収録する。 | <img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image4.png" alt="Image4.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image1.png" alt="Image1.png" width="320"> |
+| 諜報映画の風格で、@画像1を最初のフレームとし、レンズは正面から赤いフード付きコートを着た女諜報員の前進を追跡。全景で追従し、通行人が次々に赤い服の女性を遮る。あるコーナーまで来たら、@画像2のコーナー建築を参考にし、固定レンズで赤い服の女性が画面から去り、コーナーで姿を消す。そのコーナーには仮面をかぶった少女が隠れており、彼女を悪狠狠と睨んでいる。少女の仮面の形象は@画像3を参考とし、ただ形象のみを参考にし、少女はコーナーに立っている。レンズを前に摇らして赤い服の女諜報員に向け、彼女は豪邸に入って姿を消す。豪邸は@画像4を参考。全程、カットせず、ワンテイクで収録する。 | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -478,7 +478,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @画像1の外景ショットから、一人称主観視点で木屋内の環境シーンの近景までクイックプッシュ。@画像2の小鹿と@画像3の羊が囲炉裏のそばでお茶を飲みながらおしゃべりをしています。カメラを寄せて、茶碗のスタイルは@画像4を参考に特寫してください。 | <img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Image4.png" alt="Image4.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Image1.png" alt="Image1.png" width="320"> |
+| @画像1の外景ショットから、一人称主観視点で木屋内の環境シーンの近景までクイックプッシュ。@画像2の小鹿と@画像3の羊が囲炉裏のそばでお茶を飲みながらおしゃべりをしています。カメラを寄せて、茶碗のスタイルは@画像4を参考に特寫してください。 | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -488,7 +488,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @画像1@画像2@画像3@画像4@画像5、主観視点で一鏡到底のスリリングなジェットコースターの映像、コースターの速度はますます速くなる | <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image5.png" alt="Image5.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image4.png" alt="Image4.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image1.png" alt="Image1.png" width="320"> |
+| @画像1@画像2@画像3@画像4@画像5、主観視点で一鏡到底のスリリングなジェットコースターの映像、コースターの速度はますます速くなる | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image5.png" alt="Image5.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -518,7 +518,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| ビデオ1の女性ボーカリストを画像1の男性ボーカリストに差し替え、動作は元のビデオを完全に模倣してください。カットは使用せず、バンドの演奏音楽を付けてください。 | <video src="https://r2.getseedance.com/seedance-cases/050-band-performance-singer-replace/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/050-band-performance-singer-replace/Image1.png" alt="Image1.png" width="320"> |
+| ビデオ1の女性ボーカリストを画像1の男性ボーカリストに差し替え、動作は元のビデオを完全に模倣してください。カットは使用せず、バンドの演奏音楽を付けてください。 | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/050-band-performance-singer-replace/Video1.mp4" controls width="300"></video> <img src="https://r2.getseedance.com/seedance-cases/050-band-performance-singer-replace/Image1.png" alt="Image1.png" width="300"></div> |
 
 **Result:**
 
@@ -528,7 +528,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| ビデオ1の女性の髪型を赤いロングヘアに変更し、画像1のグレートホワイトシャークが彼女の後ろでゆっくりと頭の半分を水面に浮かべさせてください | <video src="https://r2.getseedance.com/seedance-cases/051-red-hair-shark-behind-scene/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/051-red-hair-shark-behind-scene/Image1.png" alt="Image1.png" width="320"> |
+| ビデオ1の女性の髪型を赤いロングヘアに変更し、画像1のグレートホワイトシャークが彼女の後ろでゆっくりと頭の半分を水面に浮かべさせてください | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/051-red-hair-shark-behind-scene/Video1.mp4" controls width="300"></video> <img src="https://r2.getseedance.com/seedance-cases/051-red-hair-shark-behind-scene/Image1.png" alt="Image1.png" width="300"></div> |
 
 **Result:**
 
@@ -538,7 +538,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| ビデオ1のカメラを右にパンし、チキン屋の店主が忙しくチキンを行列に並ぶ客に渡し、普通語で「彼の分を作ったら、君の分を作りますから、皆さん文明的に列に並んでください。」と話します。話し終わると、紙袋を取ってチキンを入れ始めます。店主が図1が印刷された紙袋を取る様子をクローズアップし、客に渡す手元をクローズアップで展示します。 | <video src="https://r2.getseedance.com/seedance-cases/052-fried-chicken-queue-paper-bag/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/052-fried-chicken-queue-paper-bag/Image1.png" alt="Image1.png" width="320"> |
+| ビデオ1のカメラを右にパンし、チキン屋の店主が忙しくチキンを行列に並ぶ客に渡し、普通語で「彼の分を作ったら、君の分を作りますから、皆さん文明的に列に並んでください。」と話します。話し終わると、紙袋を取ってチキンを入れ始めます。店主が図1が印刷された紙袋を取る様子をクローズアップし、客に渡す手元をクローズアップで展示します。 | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/052-fried-chicken-queue-paper-bag/Video1.mp4" controls width="300"></video> <img src="https://r2.getseedance.com/seedance-cases/052-fried-chicken-queue-paper-bag/Image1.png" alt="Image1.png" width="300"></div> |
 
 **Result:**
 
@@ -548,7 +548,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| ポスターの女性が次々と衣装を変えていきます。服装は@画像1@画像2のスタイルを参考にし、手には@画像3のバッグを提げています。ビデオのリズムは@動画を参考にしてください。 | <video src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image4.png" alt="Image4.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image1.png" alt="Image1.png" width="320"> |
+| ポスターの女性が次々と衣装を変えていきます。服装は@画像1@画像2のスタイルを参考にし、手には@画像3のバッグを提げています。ビデオのリズムは@動画を参考にしてください。 | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Video1.mp4" controls width="150"></video> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -558,7 +558,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @画像1@画像2@画像3@画像4@画像5@画像6@画像7の画像を、@動画内のキーフレーム位置と全体的なリズムに合わせてタイミングよく配置し、画面内の人物により豊かな躍動感を与えるとともに、全体的な画面スタイルをより夢幻的でダイナミックなものに仕上げてください。音楽や画面のニーズに応じて、参考画像の構図を適宜変更し、光と影の変化を追加・調整することが可能です。 | <video src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image6.png" alt="Image6.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image5.png" alt="Image5.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image4.png" alt="Image4.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image1.png" alt="Image1.png" width="320"> |
+| @画像1@画像2@画像3@画像4@画像5@画像6@画像7の画像を、@動画内のキーフレーム位置と全体的なリズムに合わせてタイミングよく配置し、画面内の人物により豊かな躍動感を与えるとともに、全体的な画面スタイルをより夢幻的でダイナミックなものに仕上げてください。音楽や画面のニーズに応じて、参考画像の構図を適宜変更し、光と影の変化を追加・調整することが可能です。 | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Video1.mp4" controls width="150"></video> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image6.png" alt="Image6.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image5.png" alt="Image5.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -568,7 +568,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @画像1@画像2@画像3@画像4@画像5@画像6の風光場面写真を使用し、@動画の画面リズム、場面転換時の画面スタイル及び音楽リズムを参考に、カードタイミングを合わせてください | <video src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image6.png" alt="Image6.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image5.png" alt="Image5.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image4.png" alt="Image4.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image1.png" alt="Image1.png" width="320"> |
+| @画像1@画像2@画像3@画像4@画像5@画像6の風光場面写真を使用し、@動画の画面リズム、場面転換時の画面スタイル及び音楽リズムを参考に、カードタイミングを合わせてください | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Video1.mp4" controls width="150"></video> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image6.png" alt="Image6.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image5.png" alt="Image5.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -588,7 +588,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @画像1の女性は鏡の前に立ち、鏡の中の自分を見つめる。その姿勢は@画像2を参考にし、しばらく考え込んだ後突然感情的に叫び出し、鏡を掴む動作やその崩壊した叫びの感情と表情は@動画1を完全に参考にしてください。 | <video src="https://r2.getseedance.com/seedance-cases/057-mirror-breakdown-emotional-scene/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/057-mirror-breakdown-emotional-scene/Image1.png" alt="Image1.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/057-mirror-breakdown-emotional-scene/Image2.png" alt="Image2.png" width="320"> |
+| @画像1の女性は鏡の前に立ち、鏡の中の自分を見つめる。その姿勢は@画像2を参考にし、しばらく考え込んだ後突然感情的に叫び出し、鏡を掴む動作やその崩壊した叫びの感情と表情は@動画1を完全に参考にしてください。 | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/057-mirror-breakdown-emotional-scene/Video1.mp4" controls width="200"></video> <img src="https://r2.getseedance.com/seedance-cases/057-mirror-breakdown-emotional-scene/Image1.png" alt="Image1.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/057-mirror-breakdown-emotional-scene/Image2.png" alt="Image2.png" width="200"></div> |
 
 **Result:**
 
@@ -598,7 +598,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| これはレンジフードの広告です。@画像1を最初のフレームとし、女性がエレガントに料理をしていて煙がありません。カメラは右に素早くパンし、@画像2の男性が汗だくで顔を真っ赤にして料理をし、煙がどっと湧いている様子を撮影します。その後、カメラは左にパンして@画像1のテーブル上にあるレンジフードへクローズアップします。レンジフードは@画像4を参考とし、猛烈に排気しています。 | <img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image1.png" alt="Image1.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image4.png" alt="Image4.png" width="320"> |
+| これはレンジフードの広告です。@画像1を最初のフレームとし、女性がエレガントに料理をしていて煙がありません。カメラは右に素早くパンし、@画像2の男性が汗だくで顔を真っ赤にして料理をし、煙がどっと湧いている様子を撮影します。その後、カメラは左にパンして@画像1のテーブル上にあるレンジフードへクローズアップします。レンジフードは@画像4を参考とし、猛烈に排気しています。 | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image1.png" alt="Image1.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image4.png" alt="Image4.png" width="150"></div> |
 
 **Result:**
 
@@ -608,7 +608,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @画像1を画面の最初のフレームとし、カメラを回転させながらクローズアップし、人物が突然頭を上げる。人物の顔立ちは@画像2を参考にし、大きな声で咆哮を始める。表情は@画像3を参考に、興奮した感じに少しコメディックな要素を加える。その後、人物の体が@画像4を参考に熊に変身する。 | <img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Image1.png" alt="Image1.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Image4.png" alt="Image4.png" width="320"> |
+| @画像1を画面の最初のフレームとし、カメラを回転させながらクローズアップし、人物が突然頭を上げる。人物の顔立ちは@画像2を参考にし、大きな声で咆哮を始める。表情は@画像3を参考に、興奮した感じに少しコメディックな要素を加える。その後、人物の体が@画像4を参考に熊に変身する。 | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Image1.png" alt="Image1.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Image4.png" alt="Image4.png" width="150"></div> |
 
 **Result:**
 

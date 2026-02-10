@@ -108,7 +108,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 对@图片2的包包进行商业化的摄像展示，包包的侧面参考@图片1，包包的表面材质参考@图片3，要求将包包的细节均有所展示，背景音恢宏大气， | <img src="https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Image1.png" alt="Image1.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Image3.png" alt="Image3.png" width="320"> |
+| 对@图片2的包包进行商业化的摄像展示，包包的侧面参考@图片1，包包的表面材质参考@图片3，要求将包包的细节均有所展示，背景音恢宏大气， | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Image1.png" alt="Image1.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Image2.png" alt="Image2.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Image3.png" alt="Image3.png" width="200"></div> |
 
 **Result:**
 
@@ -118,7 +118,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 把@图片1作为画面的首帧图，第一人称视角，参考@视频1的运镜效果，上方场景参考@图片2，左边场景参考@图片3，右边场景参考@图片4。 | <img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image1.png" alt="Image1.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image4.png" alt="Image4.png" width="320"> |
+| 把@图片1作为画面的首帧图，第一人称视角，参考@视频1的运镜效果，上方场景参考@图片2，左边场景参考@图片3，右边场景参考@图片4。 | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image1.png" alt="Image1.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image4.png" alt="Image4.png" width="150"></div> |
 
 **Result:**
 
@@ -128,7 +128,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 参考@图1的男人形象，他在@图2的电梯中，完全参考@视频1的所有运镜效果还有主角的面部表情，主角在惊恐时希区柯克变焦，然后几个环绕镜头展示电梯内视角，电梯门打开，跟随镜头走出电梯，电梯外场景参考@图片3，男人环顾四周，参考@视频1用机械臂多角度跟随人物的视线 | <video src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image1.png" alt="Image1.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image3.png" alt="Image3.png" width="320"> |
+| 参考@图1的男人形象，他在@图2的电梯中，完全参考@视频1的所有运镜效果还有主角的面部表情，主角在惊恐时希区柯克变焦，然后几个环绕镜头展示电梯内视角，电梯门打开，跟随镜头走出电梯，电梯外场景参考@图片3，男人环顾四周，参考@视频1用机械臂多角度跟随人物的视线 | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Video1.mp4" controls width="150"></video> <img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image1.png" alt="Image1.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image3.png" alt="Image3.png" width="150"></div> |
 
 **Result:**
 
@@ -138,7 +138,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 参考@图1的男人形象，他在@图2的走廊中，完全参考@视频1的所有运镜效果，还有主角的面部表情，镜头跟随主角在@图2拐角奔跑，然后在@图3的长廊里，镜头从背面的跟随视角，通过低视角环绕到主角正面；镜头再右摇90度拍摄@图片4的分叉路口，急停后右摇180度，怼脸拍摄主角正面：主角气喘吁吁，镜头跟随主角的视角环顾四周，参考@视频1里急速的左右环绕运镜展示场景，后拉到@图片5的场景，继续跟拍主角奔跑的侧面视角 | <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image5.png" alt="Image5.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image4.png" alt="Image4.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image1.png" alt="Image1.png" width="320"> |
+| 参考@图1的男人形象，他在@图2的走廊中，完全参考@视频1的所有运镜效果，还有主角的面部表情，镜头跟随主角在@图2拐角奔跑，然后在@图3的长廊里，镜头从背面的跟随视角，通过低视角环绕到主角正面；镜头再右摇90度拍摄@图片4的分叉路口，急停后右摇180度，怼脸拍摄主角正面：主角气喘吁吁，镜头跟随主角的视角环顾四周，参考@视频1里急速的左右环绕运镜展示场景，后拉到@图片5的场景，继续跟拍主角奔跑的侧面视角 | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image5.png" alt="Image5.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -148,7 +148,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @图片1的平板电脑作为主体，运镜参考@视频1，推近到屏幕的特写，镜头旋转后平板反转展示全貌，屏幕中的数据流一直在变化，周围的环境逐渐变成科幻风格的数据空间 | <video src="https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Image1.png" alt="Image1.png" width="320"> |
+| @图片1的平板电脑作为主体，运镜参考@视频1，推近到屏幕的特写，镜头旋转后平板反转展示全貌，屏幕中的数据流一直在变化，周围的环境逐渐变成科幻风格的数据空间 | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Video1.mp4" controls width="300"></video> <img src="https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Image1.png" alt="Image1.png" width="300"></div> |
 
 **Result:**
 
@@ -168,7 +168,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 参考@图1@图2长枪角色，@图3@图4双刀角色，模仿@视频1的动作，在@图5的枫叶林中打斗 | <video src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image5.png" alt="Image5.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image4.png" alt="Image4.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image1.png" alt="Image1.png" width="320"> |
+| 参考@图1@图2长枪角色，@图3@图4双刀角色，模仿@视频1的动作，在@图5的枫叶林中打斗 | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Video1.mp4" controls width="150"></video> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image5.png" alt="Image5.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -178,7 +178,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 参考视频1的人物动作，参考视频2的环绕运镜镜头语言，生成角色1和角色2的打斗场面，打斗发生在星夜中，打斗的过程中有白色灰尘扬起，打斗场面非常华丽，气氛十分紧张。 | <video src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Video1.mp4" controls width="320"></video> <video src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Video2.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Image1.png" alt="Image1.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Image2.png" alt="Image2.png" width="320"> |
+| 参考视频1的人物动作，参考视频2的环绕运镜镜头语言，生成角色1和角色2的打斗场面，打斗发生在星夜中，打斗的过程中有白色灰尘扬起，打斗场面非常华丽，气氛十分紧张。 | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Video1.mp4" controls width="150"></video> <video src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Video2.mp4" controls width="150"></video> <img src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Image1.png" alt="Image1.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Image2.png" alt="Image2.png" width="150"></div> |
 
 **Result:**
 
@@ -188,7 +188,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 参考视频1的运镜、画面切换节奏，拿图片1的红色超跑进行复刻。 | <video src="https://r2.getseedance.com/seedance-cases/017-red-supercar-showcase/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/017-red-supercar-showcase/Image1.png" alt="Image1.png" width="320"> |
+| 参考视频1的运镜、画面切换节奏，拿图片1的红色超跑进行复刻。 | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/017-red-supercar-showcase/Video1.mp4" controls width="300"></video> <img src="https://r2.getseedance.com/seedance-cases/017-red-supercar-showcase/Image1.png" alt="Image1.png" width="300"></div> |
 
 **Result:**
 
@@ -198,7 +198,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 将@视频1的人物换成@图片1，@图片1为首帧，人物带上虚拟科幻眼镜，参考@视频1的运镜，及近的环绕镜头，从第三人称视角变成人物的主观视角，在AI虚拟眼镜中穿梭，来到@图片2的深邃的蓝色宇宙，出现几架飞船穿梭向远方，镜头跟随飞船穿梭到@图片3的像素世界，镜头低空飞过像素的山林世界，里面的树木生长形式出现，随后视角仰拍，急速穿梭到@图片4的浅绿色纹理的星球，镜头穿梭并掠过星球表面 | <video src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image4.png" alt="Image4.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image1.png" alt="Image1.png" width="320"> |
+| 将@视频1的人物换成@图片1，@图片1为首帧，人物带上虚拟科幻眼镜，参考@视频1的运镜，及近的环绕镜头，从第三人称视角变成人物的主观视角，在AI虚拟眼镜中穿梭，来到@图片2的深邃的蓝色宇宙，出现几架飞船穿梭向远方，镜头跟随飞船穿梭到@图片3的像素世界，镜头低空飞过像素的山林世界，里面的树木生长形式出现，随后视角仰拍，急速穿梭到@图片4的浅绿色纹理的星球，镜头穿梭并掠过星球表面 | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Video1.mp4" controls width="150"></video> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -208,7 +208,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 参考第一张图片里模特的五官长相。模特分别穿着第2-6张参考图里的服装凑近镜头，做出调皮、冷酷、可爱、惊讶、耍帅的造型，每一个造型穿着不同服装，每次更换，画面伴随会切镜，参考视频的里鱼眼镜头效果、重影闪烁的炫影画面效果， | <video src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image6.png" alt="Image6.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image5.png" alt="Image5.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image4.png" alt="Image4.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image1.png" alt="Image1.png" width="320"> |
+| 参考第一张图片里模特的五官长相。模特分别穿着第2-6张参考图里的服装凑近镜头，做出调皮、冷酷、可爱、惊讶、耍帅的造型，每一个造型穿着不同服装，每次更换，画面伴随会切镜，参考视频的里鱼眼镜头效果、重影闪烁的炫影画面效果， | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Video1.mp4" controls width="150"></video> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image6.png" alt="Image6.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image5.png" alt="Image5.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -218,7 +218,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 参考视频的广告创意，用提供的羽绒服图片，并参考鹅绒图片、天鹅图片，搭配以下广告词“这是根鹅绒，这是暖天鹅，这是能穿的极地天鹅绒羽绒服，新年穿得暖，生活过得暖”，生成新的羽绒服广告视频。 | <video src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Image1.png" alt="Image1.png" width="320"> |
+| 参考视频的广告创意，用提供的羽绒服图片，并参考鹅绒图片、天鹅图片，搭配以下广告词“这是根鹅绒，这是暖天鹅，这是能穿的极地天鹅绒羽绒服，新年穿得暖，生活过得暖”，生成新的羽绒服广告视频。 | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Video1.mp4" controls width="150"></video> <img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -238,7 +238,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 将@视频1的首帧人物替换成@图片1，完全@参考视频1的特效和动作，手里的花蕊长出玫瑰花瓣，裂纹在脸部向上延伸，逐渐被杂草覆盖，人物双手拂过脸部，杂草变成粒子消散，最后变成@图片2的长相 | <video src="https://r2.getseedance.com/seedance-cases/022-rose-petal-face-transformation/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/022-rose-petal-face-transformation/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/022-rose-petal-face-transformation/Image1.png" alt="Image1.png" width="320"> |
+| 将@视频1的首帧人物替换成@图片1，完全@参考视频1的特效和动作，手里的花蕊长出玫瑰花瓣，裂纹在脸部向上延伸，逐渐被杂草覆盖，人物双手拂过脸部，杂草变成粒子消散，最后变成@图片2的长相 | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/022-rose-petal-face-transformation/Video1.mp4" controls width="200"></video> <img src="https://r2.getseedance.com/seedance-cases/022-rose-petal-face-transformation/Image2.png" alt="Image2.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/022-rose-petal-face-transformation/Image1.png" alt="Image1.png" width="200"></div> |
 
 **Result:**
 
@@ -248,7 +248,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 由@图片1的天花板开始，参考@视频1的拼图破碎效果进行转场，“BELIEVE”字体替换成“Seedance”，参考@图2的字体 | <img src="https://r2.getseedance.com/seedance-cases/023-seedance-logo-puzzle-break/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/023-seedance-logo-puzzle-break/Image1.png" alt="Image1.png" width="320"> |
+| 由@图片1的天花板开始，参考@视频1的拼图破碎效果进行转场，“BELIEVE”字体替换成“Seedance”，参考@图2的字体 | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/023-seedance-logo-puzzle-break/Image2.png" alt="Image2.png" width="300"> <img src="https://r2.getseedance.com/seedance-cases/023-seedance-logo-puzzle-break/Image1.png" alt="Image1.png" width="300"></div> |
 
 **Result:**
 
@@ -278,7 +278,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 将@图1以从左到右从上到下的顺序进行漫画演绎，保持人物说的台词与图片上的一致，分镜切换以及重点的情节演绎加入特殊音效，整体风格诙谐幽默；演绎方式参考@视频1 | <video src="https://r2.getseedance.com/seedance-cases/026-comic-strip-humorous-narration/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/026-comic-strip-humorous-narration/Image1.png" alt="Image1.png" width="320"> |
+| 将@图1以从左到右从上到下的顺序进行漫画演绎，保持人物说的台词与图片上的一致，分镜切换以及重点的情节演绎加入特殊音效，整体风格诙谐幽默；演绎方式参考@视频1 | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/026-comic-strip-humorous-narration/Video1.mp4" controls width="300"></video> <img src="https://r2.getseedance.com/seedance-cases/026-comic-strip-humorous-narration/Image1.png" alt="Image1.png" width="300"></div> |
 
 **Result:**
 
@@ -298,7 +298,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 参考视频1的音频，根据图1、图2、图3、图4、图5为灵感，发散出一条情绪向的视频。背景音乐参考@视频1 | <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image5.png" alt="Image5.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image4.png" alt="Image4.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image1.png" alt="Image1.png" width="320"> |
+| 参考视频1的音频，根据图1、图2、图3、图4、图5为灵感，发散出一条情绪向的视频。背景音乐参考@视频1 | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image5.png" alt="Image5.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -308,7 +308,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 延长15s视频，参考@图片1、@图片2的驴骑摩托车的形象，补充一段脑洞广告 | <img src="https://r2.getseedance.com/seedance-cases/029-donkey-motorcycle-creative-ad/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/029-donkey-motorcycle-creative-ad/Image1.png" alt="Image1.png" width="320"> |
+| 延长15s视频，参考@图片1、@图片2的驴骑摩托车的形象，补充一段脑洞广告 | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/029-donkey-motorcycle-creative-ad/Image2.png" alt="Image2.png" width="300"> <img src="https://r2.getseedance.com/seedance-cases/029-donkey-motorcycle-creative-ad/Image1.png" alt="Image1.png" width="300"></div> |
 
 **Result:**
 
@@ -318,7 +318,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 将视频延长6s，出现电吉他的激昂音乐，视频中间出现“JUST DO IT”的广告字体后逐渐淡化，镜头上移到天花板，一个健硕的男人拉着吊环，上半身穿着@图1的紧身健身服，背面印有@图2的“Fitness”logo，男人用健硕的上肢拉上吊环，随后视频中间出现“DO SOME SPORT”的广告结束字体。 | <video src="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Image1.png" alt="Image1.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Image2.png" alt="Image2.png" width="320"> |
+| 将视频延长6s，出现电吉他的激昂音乐，视频中间出现“JUST DO IT”的广告字体后逐渐淡化，镜头上移到天花板，一个健硕的男人拉着吊环，上半身穿着@图1的紧身健身服，背面印有@图2的“Fitness”logo，男人用健硕的上肢拉上吊环，随后视频中间出现“DO SOME SPORT”的广告结束字体。 | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Video1.mp4" controls width="200"></video> <img src="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Image1.png" alt="Image1.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Image2.png" alt="Image2.png" width="200"></div> |
 
 **Result:**
 
@@ -348,7 +348,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 固定镜头，中央鱼眼镜头透过圆形孔洞向下窥视，参考视频1的鱼眼镜头，让@视频2中的马看向鱼眼镜头，参考@视频1中的说话动作，背景BGM参考@视频3中的音效。 | <video src="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Video1.mp4" controls width="320"></video> <video src="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Video2.mp4" controls width="320"></video> <video src="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Video3.mp4" controls width="320"></video> |
+| 固定镜头，中央鱼眼镜头透过圆形孔洞向下窥视，参考视频1的鱼眼镜头，让@视频2中的马看向鱼眼镜头，参考@视频1中的说话动作，背景BGM参考@视频3中的音效。 | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Video1.mp4" controls width="200"></video> <video src="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Video2.mp4" controls width="200"></video> <video src="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Video3.mp4" controls width="200"></video></div> |
 
 **Result:**
 
@@ -358,7 +358,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 根据提供的写字楼宣传照，生成一段15秒电影级写实风格的地产纪录片，采用2.35:1宽银幕，24fps，细腻的画面风格，其中旁白的音色参考@视频1，拍摄 “写字楼的生态”，呈现楼内不同企业的运作，结合旁白阐述写字楼如何成为一个充满活力的商业生态系统. | <video src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image1.png" alt="Image1.png" width="320"> |
+| 根据提供的写字楼宣传照，生成一段15秒电影级写实风格的地产纪录片，采用2.35:1宽银幕，24fps，细腻的画面风格，其中旁白的音色参考@视频1，拍摄 “写字楼的生态”，呈现楼内不同企业的运作，结合旁白阐述写字楼如何成为一个充满活力的商业生态系统. | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Video1.mp4" controls width="150"></video> <img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -418,7 +418,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 0-3秒：开头闹钟响起来，画面朦胧中出现画面1； 3-10秒：快速摇镜头，转向对面特写男人面部，男人无奈的叫女生起床，语气和音色参考@视频1； 10-12秒：女生撅着嘴躲进被子里面； 12-15秒：切换到男主全身，他叹着气说：”真拿你没办法！“ | <video src="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Image1.png" alt="Image1.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Image2.png" alt="Image2.png" width="320"> |
+| 0-3秒：开头闹钟响起来，画面朦胧中出现画面1； 3-10秒：快速摇镜头，转向对面特写男人面部，男人无奈的叫女生起床，语气和音色参考@视频1； 10-12秒：女生撅着嘴躲进被子里面； 12-15秒：切换到男主全身，他叹着气说：”真拿你没办法！“ | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Video1.mp4" controls width="200"></video> <img src="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Image1.png" alt="Image1.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Image2.png" alt="Image2.png" width="200"></div> |
 
 **Result:**
 
@@ -428,7 +428,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @图片1的猴子走向奶茶店柜台，镜头跟随在他身后，一位@图片2的比熊服务员正在吧台处擦拭制作工具，猴子向服务员用四川口音点单：“幺妹儿，霸王别姬有得没得？” | <img src="https://r2.getseedance.com/seedance-cases/041-monkey-bubble-tea-sichuan-order/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/041-monkey-bubble-tea-sichuan-order/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/041-monkey-bubble-tea-sichuan-order/Image1.png" alt="Image1.png" width="320"> |
+| @图片1的猴子走向奶茶店柜台，镜头跟随在他身后，一位@图片2的比熊服务员正在吧台处擦拭制作工具，猴子向服务员用四川口音点单：“幺妹儿，霸王别姬有得没得？” | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/041-monkey-bubble-tea-sichuan-order/Image3.png" alt="Image3.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/041-monkey-bubble-tea-sichuan-order/Image2.png" alt="Image2.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/041-monkey-bubble-tea-sichuan-order/Image1.png" alt="Image1.png" width="200"></div> |
 
 **Result:**
 
@@ -448,7 +448,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @图片1@图片2@图片3@图片4@图片5，一镜到底的追踪镜头，从街头跟随跑步者上楼梯、穿过走廊、进入屋顶，最终俯瞰城市。 | <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image5.png" alt="Image5.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image4.png" alt="Image4.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image1.png" alt="Image1.png" width="320"> |
+| @图片1@图片2@图片3@图片4@图片5，一镜到底的追踪镜头，从街头跟随跑步者上楼梯、穿过走廊、进入屋顶，最终俯瞰城市。 | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image5.png" alt="Image5.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -458,7 +458,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 以@图片1为首帧，画面放大至飞机舷窗外，一团团云朵缓缓飘至画面中，其中一朵为彩色糖豆点缀的云朵，始终在画面中居中，然后缓缓变形为@图片2的冰淇淋，镜头推远回到机舱内，坐在窗边的@图片3伸手从窗外拿进冰淇淋，吃了一口，嘴巴上沾满奶油，脸上洋溢出甜蜜的笑容，此时视频配音为@视频1. | <img src="https://r2.getseedance.com/seedance-cases/044-airplane-cloud-ice-cream-magic/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/044-airplane-cloud-ice-cream-magic/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/044-airplane-cloud-ice-cream-magic/Image1.png" alt="Image1.png" width="320"> |
+| 以@图片1为首帧，画面放大至飞机舷窗外，一团团云朵缓缓飘至画面中，其中一朵为彩色糖豆点缀的云朵，始终在画面中居中，然后缓缓变形为@图片2的冰淇淋，镜头推远回到机舱内，坐在窗边的@图片3伸手从窗外拿进冰淇淋，吃了一口，嘴巴上沾满奶油，脸上洋溢出甜蜜的笑容，此时视频配音为@视频1. | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/044-airplane-cloud-ice-cream-magic/Image3.png" alt="Image3.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/044-airplane-cloud-ice-cream-magic/Image2.png" alt="Image2.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/044-airplane-cloud-ice-cream-magic/Image1.png" alt="Image1.png" width="200"></div> |
 
 **Result:**
 
@@ -468,7 +468,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 谍战片风格，@图片1作为首帧画面，镜头正面跟拍穿着红风衣的女特工向前走，镜头全景跟随，不断有路人遮挡红衣女子，走到一个拐角处，参考@图片2的拐角建筑，固定镜头红衣女子离开画面，走在拐角处消失，一个戴面具的女孩在拐角处躲着恶狠狠的盯着她，面具女孩形象参考@图片3，只参考形象，女孩站在拐角处。镜头往前摇向红衣女特工，她走进一座豪宅消失不见了，豪宅参考@图片4。全程不要切镜头，一镜到底。 | <img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image4.png" alt="Image4.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image1.png" alt="Image1.png" width="320"> |
+| 谍战片风格，@图片1作为首帧画面，镜头正面跟拍穿着红风衣的女特工向前走，镜头全景跟随，不断有路人遮挡红衣女子，走到一个拐角处，参考@图片2的拐角建筑，固定镜头红衣女子离开画面，走在拐角处消失，一个戴面具的女孩在拐角处躲着恶狠狠的盯着她，面具女孩形象参考@图片3，只参考形象，女孩站在拐角处。镜头往前摇向红衣女特工，她走进一座豪宅消失不见了，豪宅参考@图片4。全程不要切镜头，一镜到底。 | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -478,7 +478,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 根据@图片1外景的镜头，第一人称主观视角快推镜头到木屋内的环境场景近景，一只小鹿@图片2和一只羊@图片3在围炉旁喝茶聊天，镜头推进特写茶杯的样式参考@图片4. | <img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Image4.png" alt="Image4.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Image1.png" alt="Image1.png" width="320"> |
+| 根据@图片1外景的镜头，第一人称主观视角快推镜头到木屋内的环境场景近景，一只小鹿@图片2和一只羊@图片3在围炉旁喝茶聊天，镜头推进特写茶杯的样式参考@图片4. | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -488,7 +488,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @图片1@图片2@图片3@图片4@图片5，主观视角一镜到底的惊险过山车的镜头，过山车的速度越来越快。 | <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image5.png" alt="Image5.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image4.png" alt="Image4.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image1.png" alt="Image1.png" width="320"> |
+| @图片1@图片2@图片3@图片4@图片5，主观视角一镜到底的惊险过山车的镜头，过山车的速度越来越快。 | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image5.png" alt="Image5.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -518,7 +518,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 视频1中的女主唱换成图片1的男主唱，动作完全模仿原视频，不要出现切镜，乐队演唱音乐。 | <video src="https://r2.getseedance.com/seedance-cases/050-band-performance-singer-replace/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/050-band-performance-singer-replace/Image1.png" alt="Image1.png" width="320"> |
+| 视频1中的女主唱换成图片1的男主唱，动作完全模仿原视频，不要出现切镜，乐队演唱音乐。 | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/050-band-performance-singer-replace/Video1.mp4" controls width="300"></video> <img src="https://r2.getseedance.com/seedance-cases/050-band-performance-singer-replace/Image1.png" alt="Image1.png" width="300"></div> |
 
 **Result:**
 
@@ -528,7 +528,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 将视频1女人发型变成红色长发，图片1中的大白鲨缓缓浮出半个脑袋，在她身后。 | <video src="https://r2.getseedance.com/seedance-cases/051-red-hair-shark-behind-scene/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/051-red-hair-shark-behind-scene/Image1.png" alt="Image1.png" width="320"> |
+| 将视频1女人发型变成红色长发，图片1中的大白鲨缓缓浮出半个脑袋，在她身后。 | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/051-red-hair-shark-behind-scene/Video1.mp4" controls width="300"></video> <img src="https://r2.getseedance.com/seedance-cases/051-red-hair-shark-behind-scene/Image1.png" alt="Image1.png" width="300"></div> |
 
 **Result:**
 
@@ -538,7 +538,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 视频1镜头右摇，炸鸡老板忙碌地将炸鸡递给排队的客户，用普通话说“做完他的，做你的，大家文明排队。”一说完，就去拿纸袋子去装炸鸡。特写展示老板拿印有图1的纸袋子，特写展示递给客户的手部特写。 | <video src="https://r2.getseedance.com/seedance-cases/052-fried-chicken-queue-paper-bag/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/052-fried-chicken-queue-paper-bag/Image1.png" alt="Image1.png" width="320"> |
+| 视频1镜头右摇，炸鸡老板忙碌地将炸鸡递给排队的客户，用普通话说“做完他的，做你的，大家文明排队。”一说完，就去拿纸袋子去装炸鸡。特写展示老板拿印有图1的纸袋子，特写展示递给客户的手部特写。 | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/052-fried-chicken-queue-paper-bag/Video1.mp4" controls width="300"></video> <img src="https://r2.getseedance.com/seedance-cases/052-fried-chicken-queue-paper-bag/Image1.png" alt="Image1.png" width="300"></div> |
 
 **Result:**
 
@@ -548,7 +548,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 海报中的女生在不停的换装，服装参考@图片1@图片2的样式，手中提着@图片3的包，视频节奏参考@视频 | <video src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image4.png" alt="Image4.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image1.png" alt="Image1.png" width="320"> |
+| 海报中的女生在不停的换装，服装参考@图片1@图片2的样式，手中提着@图片3的包，视频节奏参考@视频 | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Video1.mp4" controls width="150"></video> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -558,7 +558,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @图片1@图片2@图片3@图片4@图片5@图片6@图片7中的图片根据@视频中的画面关键帧的位置和整体节奏进行卡点，画面中的人物更有动感，整体画面风格更梦幻，画面张力强，可根据音乐及画面需求自行改变参考图的景别，及补充画面的光影变化 | <video src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image6.png" alt="Image6.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image5.png" alt="Image5.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image4.png" alt="Image4.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image1.png" alt="Image1.png" width="320"> |
+| @图片1@图片2@图片3@图片4@图片5@图片6@图片7中的图片根据@视频中的画面关键帧的位置和整体节奏进行卡点，画面中的人物更有动感，整体画面风格更梦幻，画面张力强，可根据音乐及画面需求自行改变参考图的景别，及补充画面的光影变化 | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Video1.mp4" controls width="150"></video> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image6.png" alt="Image6.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image5.png" alt="Image5.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -568,7 +568,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @图片1@图片2@图片3@图片4@图片5@图片6的风光场景图，参考@视频中的画面节奏，转场间画面风格及音乐节奏进行卡点 | <video src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image6.png" alt="Image6.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image5.png" alt="Image5.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image4.png" alt="Image4.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image1.png" alt="Image1.png" width="320"> |
+| @图片1@图片2@图片3@图片4@图片5@图片6的风光场景图，参考@视频中的画面节奏，转场间画面风格及音乐节奏进行卡点 | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Video1.mp4" controls width="150"></video> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image6.png" alt="Image6.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image5.png" alt="Image5.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image4.png" alt="Image4.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image1.png" alt="Image1.png" width="150"></div> |
 
 **Result:**
 
@@ -588,7 +588,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @图片1的女子走到镜子前，看着镜子里面的自己，姿势参考@图片2，沉思了一会突然开始崩溃大叫，抓镜子的动作崩溃大叫的情绪和表情完全参考@视频1。 | <video src="https://r2.getseedance.com/seedance-cases/057-mirror-breakdown-emotional-scene/Video1.mp4" controls width="320"></video> <img src="https://r2.getseedance.com/seedance-cases/057-mirror-breakdown-emotional-scene/Image1.png" alt="Image1.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/057-mirror-breakdown-emotional-scene/Image2.png" alt="Image2.png" width="320"> |
+| @图片1的女子走到镜子前，看着镜子里面的自己，姿势参考@图片2，沉思了一会突然开始崩溃大叫，抓镜子的动作崩溃大叫的情绪和表情完全参考@视频1。 | <div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/057-mirror-breakdown-emotional-scene/Video1.mp4" controls width="200"></video> <img src="https://r2.getseedance.com/seedance-cases/057-mirror-breakdown-emotional-scene/Image1.png" alt="Image1.png" width="200"> <img src="https://r2.getseedance.com/seedance-cases/057-mirror-breakdown-emotional-scene/Image2.png" alt="Image2.png" width="200"></div> |
 
 **Result:**
 
@@ -598,7 +598,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| 这是一个油烟机广告，@图片1作为首帧画面，女人在优雅的做饭，没有烟雾，镜头快速向右边摇动，拍摄@图片2男人满头大汗面红耳赤在做饭，浓烟滚滚，镜头向左边摇动推进拍摄@图片1桌面上的一个油烟机，油烟机参考@图片4，油烟机在疯狂抽烟。 | <img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image1.png" alt="Image1.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image4.png" alt="Image4.png" width="320"> |
+| 这是一个油烟机广告，@图片1作为首帧画面，女人在优雅的做饭，没有烟雾，镜头快速向右边摇动，拍摄@图片2男人满头大汗面红耳赤在做饭，浓烟滚滚，镜头向左边摇动推进拍摄@图片1桌面上的一个油烟机，油烟机参考@图片4，油烟机在疯狂抽烟。 | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image1.png" alt="Image1.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image4.png" alt="Image4.png" width="150"></div> |
 
 **Result:**
 
@@ -608,7 +608,7 @@ Total: **59** cases
 
 | Prompt | Input |
 |--------|-------|
-| @图片1作为画面的首帧图，镜头旋转推近，人物突然抬头，人物面部长相参考@图片2，开始大声咆哮，激动带有一些喜剧色彩，参考@图片3的表情神态。然后人物身体变身成为一只熊，参考@图片4.。 | <img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Image1.png" alt="Image1.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Image2.png" alt="Image2.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Image3.png" alt="Image3.png" width="320"> <img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Image4.png" alt="Image4.png" width="320"> |
+| @图片1作为画面的首帧图，镜头旋转推近，人物突然抬头，人物面部长相参考@图片2，开始大声咆哮，激动带有一些喜剧色彩，参考@图片3的表情神态。然后人物身体变身成为一只熊，参考@图片4.。 | <div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Image1.png" alt="Image1.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Image2.png" alt="Image2.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Image3.png" alt="Image3.png" width="150"> <img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Image4.png" alt="Image4.png" width="150"></div> |
 
 **Result:**
 
