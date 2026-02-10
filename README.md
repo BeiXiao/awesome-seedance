@@ -32,11 +32,11 @@ The girl is gracefully hanging clothes to dry, and after finishing, she takes an
 
 **Input:**
 
-<img src="https://r2.getseedance.com/seedance-cases/001-girl-hanging-laundry/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;">
+<img src="https://r2.getseedance.com/seedance-cases/001-girl-hanging-laundry/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;">
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/001-girl-hanging-laundry/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/001-girl-hanging-laundry/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/001-girl-hanging-laundry/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 002-painting-character-steals-coke
 
@@ -44,11 +44,11 @@ In the painting, the figure wears a guilty expression, glances left and right, l
 
 **Input:**
 
-<img src="https://r2.getseedance.com/seedance-cases/002-painting-character-steals-coke/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;">
+<img src="https://r2.getseedance.com/seedance-cases/002-painting-character-steals-coke/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;">
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/002-painting-character-steals-coke/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/002-painting-character-steals-coke/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/002-painting-character-steals-coke/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 003-victorian-london-steam-carriage
 
@@ -56,11 +56,11 @@ The camera pulls back slightly to reveal a panoramic view of the street and foll
 
 **Input:**
 
-<img src="https://r2.getseedance.com/seedance-cases/003-victorian-london-steam-carriage/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;">
+<img src="https://r2.getseedance.com/seedance-cases/003-victorian-london-steam-carriage/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;">
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/003-victorian-london-steam-carriage/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/003-victorian-london-steam-carriage/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/003-victorian-london-steam-carriage/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 004-chase-scene-fruit-stall
 
@@ -68,11 +68,11 @@ The camera follows the man in black as he flees rapidly, with a group of people 
 
 **Input:**
 
-<img src="https://r2.getseedance.com/seedance-cases/004-chase-scene-fruit-stall/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;">
+<img src="https://r2.getseedance.com/seedance-cases/004-chase-scene-fruit-stall/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;">
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/004-chase-scene-fruit-stall/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/004-chase-scene-fruit-stall/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/004-chase-scene-fruit-stall/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 005-father-returns-home-daughter
 
@@ -80,11 +80,11 @@ After work, a man walks wearily down the corridor, his steps slowing until he pa
 
 **Input:**
 
-<img src="https://r2.getseedance.com/seedance-cases/005-father-returns-home-daughter/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;">
+<img src="https://r2.getseedance.com/seedance-cases/005-father-returns-home-daughter/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;">
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/005-father-returns-home-daughter/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/005-father-returns-home-daughter/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/005-father-returns-home-daughter/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 006-opera-actress-stage-performance
 
@@ -92,11 +92,11 @@ Replace the female character in @Video1 with a traditional Chinese opera huadan,
 
 **Input:**
 
-<video src="https://r2.getseedance.com/seedance-cases/006-opera-actress-stage-performance/Video1.mp4" controls height="200" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/006-opera-actress-stage-performance/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/006-opera-actress-stage-performance/Video1.thumb.jpg" alt="Video1.mp4" height="200" style="object-fit: contain;"></a>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/006-opera-actress-stage-performance/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/006-opera-actress-stage-performance/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/006-opera-actress-stage-performance/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 007-one-shot-chess-beach-journey
 
@@ -104,11 +104,11 @@ Refer to all transitions and camera movements in @Video1, using a one-take shot.
 
 **Input:**
 
-<video src="https://r2.getseedance.com/seedance-cases/007-one-shot-chess-beach-journey/Video1.mp4" controls height="200" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/007-one-shot-chess-beach-journey/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/007-one-shot-chess-beach-journey/Video1.thumb.jpg" alt="Video1.mp4" height="200" style="object-fit: contain;"></a>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/007-one-shot-chess-beach-journey/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/007-one-shot-chess-beach-journey/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/007-one-shot-chess-beach-journey/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 008-cheri-bow-tie-showcase
 
@@ -119,11 +119,11 @@ Refer to all transitions and camera movements in @Video1, using a one-take shot.
 
 **Input:**
 
-<img src="https://r2.getseedance.com/seedance-cases/008-cheri-bow-tie-showcase/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;">
+<img src="https://r2.getseedance.com/seedance-cases/008-cheri-bow-tie-showcase/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;">
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/008-cheri-bow-tie-showcase/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/008-cheri-bow-tie-showcase/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/008-cheri-bow-tie-showcase/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 009-handbag-commercial-showcase
 
@@ -131,11 +131,11 @@ Create a commercial photography showcase for @Image2 bag, with the side of the b
 
 **Input:**
 
-<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Image2.png" alt="Image2.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Image3.png" alt="Image3.png" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Image3.webp" alt="Image3.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 010-first-person-multi-scene-reference
 
@@ -143,11 +143,11 @@ Use @Image1 as the first frame of the screen, adopt a first-person perspective, 
 
 **Input:**
 
-<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image2.png" alt="Image2.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image3.png" alt="Image3.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image4.png" alt="Image4.png" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image3.webp" alt="Image3.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image4.webp" alt="Image4.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 011-elevator-horror-hitchcock-zoom
 
@@ -155,11 +155,11 @@ Refer to the male image in @Image1. He is in the elevator from @Image2. Fully ad
 
 **Input:**
 
-<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Video1.mp4" controls height="200" style="object-fit: contain;"></video> <img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image2.png" alt="Image2.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image3.png" alt="Image3.png" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Video1.thumb.jpg" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image3.webp" alt="Image3.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 012-corridor-chase-multi-angle
 
@@ -167,11 +167,11 @@ Referencing the male figure in @Image1, place him in the corridor of @Image2. Fu
 
 **Input:**
 
-<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image5.png" alt="Image5.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image4.png" alt="Image4.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image3.png" alt="Image3.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image2.png" alt="Image2.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image5.webp" alt="Image5.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image4.webp" alt="Image4.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image3.webp" alt="Image3.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Result1.mp4" controls height="320" style="object-fit: contain;"></video> <video src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Result2.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a> <a href="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Result2.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Result2.thumb.jpg" alt="Result2.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 013-tablet-sci-fi-data-space
 
@@ -179,11 +179,11 @@ With the tablet in @Image1 as the main subject, using the camera movement from @
 
 **Input:**
 
-<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Video1.mp4" controls height="200" style="object-fit: contain;"></video> <img src="https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Video1.thumb.jpg" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <img src="https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 014-dancer-stage-performance
 
@@ -191,11 +191,11 @@ Take the female star in @Image1 as the main subject, reference the camera moveme
 
 **Input:**
 
-<img src="https://r2.getseedance.com/seedance-cases/014-dancer-stage-performance/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;">
+<img src="https://r2.getseedance.com/seedance-cases/014-dancer-stage-performance/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;">
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/014-dancer-stage-performance/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/014-dancer-stage-performance/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/014-dancer-stage-performance/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 015-maple-forest-combat-scene
 
@@ -203,11 +203,11 @@ Refer to the spear-wielding characters in @Image1 and @Image2, and the dual-wiel
 
 **Input:**
 
-<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Video1.mp4" controls height="200" style="object-fit: contain;"></video> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image5.png" alt="Image5.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image4.png" alt="Image4.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image3.png" alt="Image3.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image2.png" alt="Image2.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Video1.thumb.jpg" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image5.webp" alt="Image5.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image4.webp" alt="Image4.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image3.webp" alt="Image3.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/015-maple-forest-combat-scene/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 016-starry-night-combat-duo
 
@@ -215,11 +215,11 @@ Generate a fight scene between Character 1 and Character 2 by referencing the ch
 
 **Input:**
 
-<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Video1.mp4" controls height="200" style="object-fit: contain;"></video> <video src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Video2.mp4" controls height="200" style="object-fit: contain;"></video> <img src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Image2.png" alt="Image2.png" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Video1.thumb.jpg" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <a href="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Video2.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Video2.thumb.jpg" alt="Video2.mp4" height="200" style="object-fit: contain;"></a> <img src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 017-red-supercar-showcase
 
@@ -229,11 +229,11 @@ Please replicate the red supercar in Picture 1, referencing the camera movements
 
 **Input:**
 
-<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/017-red-supercar-showcase/Video1.mp4" controls height="200" style="object-fit: contain;"></video> <img src="https://r2.getseedance.com/seedance-cases/017-red-supercar-showcase/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/017-red-supercar-showcase/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/017-red-supercar-showcase/Video1.thumb.jpg" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <img src="https://r2.getseedance.com/seedance-cases/017-red-supercar-showcase/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/017-red-supercar-showcase/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/017-red-supercar-showcase/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/017-red-supercar-showcase/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 018-vr-glasses-cosmic-journey
 
@@ -241,11 +241,11 @@ Replace the character in @Video1 with @Image1, where @Image1 serves as the openi
 
 **Input:**
 
-<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Video1.mp4" controls height="200" style="object-fit: contain;"></video> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image4.png" alt="Image4.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image3.png" alt="Image3.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image2.png" alt="Image2.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Video1.thumb.jpg" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image4.webp" alt="Image4.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image3.webp" alt="Image3.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/018-vr-glasses-cosmic-journey/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 019-fashion-model-multi-outfit
 
@@ -253,11 +253,11 @@ Reference the facial features of the model in the first image. The model wears t
 
 **Input:**
 
-<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Video1.mp4" controls height="200" style="object-fit: contain;"></video> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image6.png" alt="Image6.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image5.png" alt="Image5.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image4.png" alt="Image4.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image3.png" alt="Image3.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image2.png" alt="Image2.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Video1.thumb.jpg" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image6.webp" alt="Image6.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image5.webp" alt="Image5.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image4.webp" alt="Image4.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image3.webp" alt="Image3.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/019-fashion-model-multi-outfit/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 020-down-jacket-goose-feather-ad
 
@@ -265,11 +265,11 @@ Referencing the advertising creative of the video, using the provided down jacke
 
 **Input:**
 
-<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Video1.mp4" controls height="200" style="object-fit: contain;"></video> <img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Image3.png" alt="Image3.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Image2.png" alt="Image2.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Video1.thumb.jpg" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Image3.webp" alt="Image3.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/020-down-jacket-goose-feather-ad/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 021-ink-style-tai-chi-performance
 
@@ -277,11 +277,11 @@ Black and white ink painting style, refer to the character in Image 1 and the sp
 
 **Input:**
 
-<img src="https://r2.getseedance.com/seedance-cases/021-ink-style-tai-chi-performance/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;">
+<img src="https://r2.getseedance.com/seedance-cases/021-ink-style-tai-chi-performance/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;">
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/021-ink-style-tai-chi-performance/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/021-ink-style-tai-chi-performance/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/021-ink-style-tai-chi-performance/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 022-rose-petal-face-transformation
 
@@ -289,11 +289,11 @@ Replace the first frame character of @Video1 with @Image1, completely referencin
 
 **Input:**
 
-<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/022-rose-petal-face-transformation/Video1.mp4" controls height="200" style="object-fit: contain;"></video> <img src="https://r2.getseedance.com/seedance-cases/022-rose-petal-face-transformation/Image2.png" alt="Image2.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/022-rose-petal-face-transformation/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/022-rose-petal-face-transformation/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/022-rose-petal-face-transformation/Video1.thumb.jpg" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <img src="https://r2.getseedance.com/seedance-cases/022-rose-petal-face-transformation/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/022-rose-petal-face-transformation/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/022-rose-petal-face-transformation/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/022-rose-petal-face-transformation/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/022-rose-petal-face-transformation/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 023-seedance-logo-puzzle-break
 
@@ -301,11 +301,11 @@ Start with the ceiling in @Image1, transition using the puzzle破碎 effect from
 
 **Input:**
 
-<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/023-seedance-logo-puzzle-break/Image2.png" alt="Image2.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/023-seedance-logo-puzzle-break/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/023-seedance-logo-puzzle-break/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/023-seedance-logo-puzzle-break/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/023-seedance-logo-puzzle-break/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/023-seedance-logo-puzzle-break/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/023-seedance-logo-puzzle-break/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 024-golden-sand-particle-title
 
@@ -313,11 +313,11 @@ Start with a black screen. Refer to the particle effects and materials in Video 
 
 **Input:**
 
-<img src="https://r2.getseedance.com/seedance-cases/024-golden-sand-particle-title/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;">
+<img src="https://r2.getseedance.com/seedance-cases/024-golden-sand-particle-title/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;">
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/024-golden-sand-particle-title/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/024-golden-sand-particle-title/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/024-golden-sand-particle-title/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 025-abstract-noodle-eating-scene
 
@@ -325,11 +325,11 @@ Start with a black screen. Refer to the particle effects and materials in Video 
 
 **Input:**
 
-<img src="https://r2.getseedance.com/seedance-cases/025-abstract-noodle-eating-scene/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;">
+<img src="https://r2.getseedance.com/seedance-cases/025-abstract-noodle-eating-scene/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;">
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/025-abstract-noodle-eating-scene/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/025-abstract-noodle-eating-scene/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/025-abstract-noodle-eating-scene/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 026-comic-strip-humorous-narration
 
@@ -337,11 +337,11 @@ Translate @Image1 into a comic演绎 in a left-to-right, top-to-bottom sequence,
 
 **Input:**
 
-<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/026-comic-strip-humorous-narration/Video1.mp4" controls height="200" style="object-fit: contain;"></video> <img src="https://r2.getseedance.com/seedance-cases/026-comic-strip-humorous-narration/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/026-comic-strip-humorous-narration/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/026-comic-strip-humorous-narration/Video1.thumb.jpg" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <img src="https://r2.getseedance.com/seedance-cases/026-comic-strip-humorous-narration/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/026-comic-strip-humorous-narration/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/026-comic-strip-humorous-narration/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/026-comic-strip-humorous-narration/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 027-childhood-seasons-healing-intro
 
@@ -349,11 +349,11 @@ Refer to the shot list of the feature film in @Image1, and create a 15-second he
 
 **Input:**
 
-<img src="https://r2.getseedance.com/seedance-cases/027-childhood-seasons-healing-intro/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;">
+<img src="https://r2.getseedance.com/seedance-cases/027-childhood-seasons-healing-intro/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;">
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/027-childhood-seasons-healing-intro/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/027-childhood-seasons-healing-intro/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/027-childhood-seasons-healing-intro/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 028-emotional-music-inspired-visual
 
@@ -361,11 +361,11 @@ Drawing inspiration from Figure 1, Figure 2, Figure 3, Figure 4 and Figure 5, de
 
 **Input:**
 
-<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image5.png" alt="Image5.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image4.png" alt="Image4.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image3.png" alt="Image3.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image2.png" alt="Image2.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image5.webp" alt="Image5.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image4.webp" alt="Image4.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image3.webp" alt="Image3.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 029-donkey-motorcycle-creative-ad
 
@@ -376,11 +376,11 @@ Scene 3: Set against a雪山 background, the donkey rides the motorcycle off a h
 
 **Input:**
 
-<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/029-donkey-motorcycle-creative-ad/Image2.png" alt="Image2.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/029-donkey-motorcycle-creative-ad/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/029-donkey-motorcycle-creative-ad/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/029-donkey-motorcycle-creative-ad/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/029-donkey-motorcycle-creative-ad/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/029-donkey-motorcycle-creative-ad/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/029-donkey-motorcycle-creative-ad/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 030-fitness-motivational-training
 
@@ -388,11 +388,11 @@ Extend the video by 6 seconds, featuring激昂电吉他音乐. In the middle of 
 
 **Input:**
 
-<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Video1.mp4" controls height="200" style="object-fit: contain;"></video> <img src="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Image2.png" alt="Image2.png" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Video1.thumb.jpg" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <img src="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 031-lucky-coffee-breakfast-ad
 
@@ -400,11 +400,11 @@ Extend @Video1 by 15 seconds. 1-5 seconds: Light and shadow glide gently across 
 
 **Input:**
 
-<video src="https://r2.getseedance.com/seedance-cases/031-lucky-coffee-breakfast-ad/Video1.mp4" controls height="200" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/031-lucky-coffee-breakfast-ad/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/031-lucky-coffee-breakfast-ad/Video1.thumb.jpg" alt="Video1.mp4" height="200" style="object-fit: contain;"></a>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/031-lucky-coffee-breakfast-ad/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/031-lucky-coffee-breakfast-ad/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/031-lucky-coffee-breakfast-ad/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 032-skateboard-sunflower-street-scene
 
@@ -412,11 +412,11 @@ Extend 10 seconds forward. In the warm afternoon light, the camera starts with t
 
 **Input:**
 
-<video src="https://r2.getseedance.com/seedance-cases/032-skateboard-sunflower-street-scene/Video1.mp4" controls height="200" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/032-skateboard-sunflower-street-scene/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/032-skateboard-sunflower-street-scene/Video1.thumb.jpg" alt="Video1.mp4" height="200" style="object-fit: contain;"></a>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/032-skateboard-sunflower-street-scene/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/032-skateboard-sunflower-street-scene/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/032-skateboard-sunflower-street-scene/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 033-fisheye-horse-talking-scene
 
@@ -424,11 +424,11 @@ Fixed camera angle, with a central fisheye lens peeking downward through a circu
 
 **Input:**
 
-<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Video1.mp4" controls height="200" style="object-fit: contain;"></video> <video src="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Video2.mp4" controls height="200" style="object-fit: contain;"></video> <video src="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Video3.mp4" controls height="200" style="object-fit: contain;"></video></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Video1.thumb.jpg" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <a href="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Video2.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Video2.thumb.jpg" alt="Video2.mp4" height="200" style="object-fit: contain;"></a> <a href="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Video3.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Video3.thumb.jpg" alt="Video3.mp4" height="200" style="object-fit: contain;"></a></div>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/033-fisheye-horse-talking-scene/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 034-office-building-ecosystem-doc
 
@@ -436,11 +436,11 @@ Based on the provided office building promotional photos, create a 15-second cin
 
 **Input:**
 
-<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Video1.mp4" controls height="200" style="object-fit: contain;"></video> <img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image3.png" alt="Image3.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image2.png" alt="Image2.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Video1.thumb.jpg" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image3.webp" alt="Image3.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 035-cat-dog-talk-show-dialogue
 
@@ -448,11 +448,11 @@ A segment of complaint dialogue from "Cat and Dog Complaint Room" that's rich in
 
 **Input:**
 
-<img src="https://r2.getseedance.com/seedance-cases/035-cat-dog-talk-show-dialogue/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;">
+<img src="https://r2.getseedance.com/seedance-cases/035-cat-dog-talk-show-dialogue/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;">
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/035-cat-dog-talk-show-dialogue/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/035-cat-dog-talk-show-dialogue/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/035-cat-dog-talk-show-dialogue/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 036-yuju-opera-zha-mei-case
 
@@ -460,11 +460,11 @@ The accompaniment of the pre-Qianqiao section of the Yu Opera "The Case of Execu
 
 **Input:**
 
-<img src="https://r2.getseedance.com/seedance-cases/036-yuju-opera-zha-mei-case/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;">
+<img src="https://r2.getseedance.com/seedance-cases/036-yuju-opera-zha-mei-case/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;">
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/036-yuju-opera-zha-mei-case/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/036-yuju-opera-zha-mei-case/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/036-yuju-opera-zha-mei-case/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 037-cliff-road-vintage-car-mv
 
@@ -472,11 +472,11 @@ Generate a 15-second MV video. Keywords: stable composition / gentle push-pull /
 
 **Input:**
 
-<img src="https://r2.getseedance.com/seedance-cases/037-cliff-road-vintage-car-mv/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;">
+<img src="https://r2.getseedance.com/seedance-cases/037-cliff-road-vintage-car-mv/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;">
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/037-cliff-road-vintage-car-mv/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/037-cliff-road-vintage-car-mv/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/037-cliff-road-vintage-car-mv/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 038-family-dance-celebration-scene
 
@@ -484,11 +484,11 @@ In the center of the scene, the hat-wearing girl gently sings, "I'm so proud of 
 
 **Input:**
 
-<img src="https://r2.getseedance.com/seedance-cases/038-family-dance-celebration-scene/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;">
+<img src="https://r2.getseedance.com/seedance-cases/038-family-dance-celebration-scene/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;">
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/038-family-dance-celebration-scene/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/038-family-dance-celebration-scene/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/038-family-dance-celebration-scene/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 039-tactical-team-raid-preparation
 
@@ -496,11 +496,11 @@ Fixed shot. A standing壮汉 (Captain) raises his fist and挥臂, saying in Span
 
 **Input:**
 
-<img src="https://r2.getseedance.com/seedance-cases/039-tactical-team-raid-preparation/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;">
+<img src="https://r2.getseedance.com/seedance-cases/039-tactical-team-raid-preparation/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;">
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/039-tactical-team-raid-preparation/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/039-tactical-team-raid-preparation/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/039-tactical-team-raid-preparation/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 040-morning-wake-up-bedroom-scene
 
@@ -508,11 +508,11 @@ Fixed shot. A standing壮汉 (Captain) raises his fist and挥臂, saying in Span
 
 **Input:**
 
-<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Video1.mp4" controls height="200" style="object-fit: contain;"></video> <img src="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Image2.png" alt="Image2.png" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Video1.thumb.jpg" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <img src="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 041-monkey-bubble-tea-sichuan-order
 
@@ -528,11 +528,11 @@ He scratches his head and mutters, "No big deal...? But I do have an issue! My g
 
 **Input:**
 
-<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/041-monkey-bubble-tea-sichuan-order/Image3.png" alt="Image3.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/041-monkey-bubble-tea-sichuan-order/Image2.png" alt="Image2.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/041-monkey-bubble-tea-sichuan-order/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/041-monkey-bubble-tea-sichuan-order/Image3.webp" alt="Image3.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/041-monkey-bubble-tea-sichuan-order/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/041-monkey-bubble-tea-sichuan-order/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/041-monkey-bubble-tea-sichuan-order/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/041-monkey-bubble-tea-sichuan-order/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/041-monkey-bubble-tea-sichuan-order/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 042-journey-west-fan-borrowing-story
 
@@ -540,11 +540,11 @@ Present the content in image 1 in a popular science style and tone, which includ
 
 **Input:**
 
-<img src="https://r2.getseedance.com/seedance-cases/042-journey-west-fan-borrowing-story/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;">
+<img src="https://r2.getseedance.com/seedance-cases/042-journey-west-fan-borrowing-story/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;">
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/042-journey-west-fan-borrowing-story/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/042-journey-west-fan-borrowing-story/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/042-journey-west-fan-borrowing-story/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 043-one-shot-rooftop-running-chase
 
@@ -552,11 +552,11 @@ Present the content in image 1 in a popular science style and tone, which includ
 
 **Input:**
 
-<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image5.png" alt="Image5.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image4.png" alt="Image4.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image3.png" alt="Image3.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image2.png" alt="Image2.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image5.webp" alt="Image5.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image4.webp" alt="Image4.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image3.webp" alt="Image3.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/043-one-shot-rooftop-running-chase/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 044-airplane-cloud-ice-cream-magic
 
@@ -564,11 +564,11 @@ Beginning with @Image1 as the first frame, zoom in to the view outside the airpl
 
 **Input:**
 
-<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/044-airplane-cloud-ice-cream-magic/Image3.png" alt="Image3.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/044-airplane-cloud-ice-cream-magic/Image2.png" alt="Image2.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/044-airplane-cloud-ice-cream-magic/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/044-airplane-cloud-ice-cream-magic/Image3.webp" alt="Image3.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/044-airplane-cloud-ice-cream-magic/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/044-airplane-cloud-ice-cream-magic/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/044-airplane-cloud-ice-cream-magic/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/044-airplane-cloud-ice-cream-magic/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/044-airplane-cloud-ice-cream-magic/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 045-spy-thriller-red-coat-corner
 
@@ -576,11 +576,11 @@ Spy film style, @Image1 as the opening frame. The camera follows the female agen
 
 **Input:**
 
-<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image4.png" alt="Image4.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image3.png" alt="Image3.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image2.png" alt="Image2.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image4.webp" alt="Image4.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image3.webp" alt="Image3.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 046-deer-sheep-tea-cabin-scene
 
@@ -588,11 +588,11 @@ Based on the exterior shot in @Image1, use a first-person subjective视角 with 
 
 **Input:**
 
-<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Image4.png" alt="Image4.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Image3.png" alt="Image3.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Image2.png" alt="Image2.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Image4.webp" alt="Image4.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Image3.webp" alt="Image3.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/046-deer-sheep-tea-cabin-scene/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 047-first-person-roller-coaster-ride
 
@@ -600,11 +600,11 @@ Based on the exterior shot in @Image1, use a first-person subjective视角 with 
 
 **Input:**
 
-<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image5.png" alt="Image5.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image4.png" alt="Image4.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image3.png" alt="Image3.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image2.png" alt="Image2.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image5.webp" alt="Image5.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image4.webp" alt="Image4.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image3.webp" alt="Image3.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/047-first-person-roller-coaster-ride/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 048-bridge-betrayal-water-fall
 
@@ -612,11 +612,11 @@ Subvert the plot in @Video1: the man's eyes instantly turn from gentle to icy an
 
 **Input:**
 
-<video src="https://r2.getseedance.com/seedance-cases/048-bridge-betrayal-water-fall/Video1.mp4" controls height="200" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/048-bridge-betrayal-water-fall/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/048-bridge-betrayal-water-fall/Video1.thumb.jpg" alt="Video1.mp4" height="200" style="object-fit: contain;"></a>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/048-bridge-betrayal-water-fall/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/048-bridge-betrayal-water-fall/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/048-bridge-betrayal-water-fall/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 049-video-story-reversal-twist
 
@@ -629,11 +629,11 @@ Subvert the entire plot of @Video1
 
 **Input:**
 
-<video src="https://r2.getseedance.com/seedance-cases/049-video-story-reversal-twist/Video1.mp4" controls height="200" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/049-video-story-reversal-twist/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/049-video-story-reversal-twist/Video1.thumb.jpg" alt="Video1.mp4" height="200" style="object-fit: contain;"></a>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/049-video-story-reversal-twist/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/049-video-story-reversal-twist/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/049-video-story-reversal-twist/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 050-band-performance-singer-replace
 
@@ -641,11 +641,11 @@ Replace the female lead singer in Video 1 with the male lead singer from Picture
 
 **Input:**
 
-<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/050-band-performance-singer-replace/Video1.mp4" controls height="200" style="object-fit: contain;"></video> <img src="https://r2.getseedance.com/seedance-cases/050-band-performance-singer-replace/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/050-band-performance-singer-replace/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/050-band-performance-singer-replace/Video1.thumb.jpg" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <img src="https://r2.getseedance.com/seedance-cases/050-band-performance-singer-replace/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/050-band-performance-singer-replace/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/050-band-performance-singer-replace/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/050-band-performance-singer-replace/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 051-red-hair-shark-behind-scene
 
@@ -653,11 +653,11 @@ Change the woman's hairstyle in Video 1 to long red hair, and have the great whi
 
 **Input:**
 
-<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/051-red-hair-shark-behind-scene/Video1.mp4" controls height="200" style="object-fit: contain;"></video> <img src="https://r2.getseedance.com/seedance-cases/051-red-hair-shark-behind-scene/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/051-red-hair-shark-behind-scene/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/051-red-hair-shark-behind-scene/Video1.thumb.jpg" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <img src="https://r2.getseedance.com/seedance-cases/051-red-hair-shark-behind-scene/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/051-red-hair-shark-behind-scene/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/051-red-hair-shark-behind-scene/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/051-red-hair-shark-behind-scene/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 052-fried-chicken-queue-paper-bag
 
@@ -665,11 +665,11 @@ In Video 1, the camera pans right, showing the fried chicken shop owner busily h
 
 **Input:**
 
-<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/052-fried-chicken-queue-paper-bag/Video1.mp4" controls height="200" style="object-fit: contain;"></video> <img src="https://r2.getseedance.com/seedance-cases/052-fried-chicken-queue-paper-bag/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/052-fried-chicken-queue-paper-bag/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/052-fried-chicken-queue-paper-bag/Video1.thumb.jpg" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <img src="https://r2.getseedance.com/seedance-cases/052-fried-chicken-queue-paper-bag/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/052-fried-chicken-queue-paper-bag/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/052-fried-chicken-queue-paper-bag/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/052-fried-chicken-queue-paper-bag/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 053-fashion-model-outfit-switching
 
@@ -677,11 +677,11 @@ The girl in the poster is constantly changing outfits, with clothing styles refe
 
 **Input:**
 
-<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Video1.mp4" controls height="200" style="object-fit: contain;"></video> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image4.png" alt="Image4.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image3.png" alt="Image3.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image2.png" alt="Image2.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Video1.thumb.jpg" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image4.webp" alt="Image4.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image3.webp" alt="Image3.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/053-fashion-model-outfit-switching/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 054-music-beat-dreamy-character-dance
 
@@ -689,11 +689,11 @@ The girl in the poster is constantly changing outfits, with clothing styles refe
 
 **Input:**
 
-<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Video1.mp4" controls height="200" style="object-fit: contain;"></video> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image6.png" alt="Image6.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image5.png" alt="Image5.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image4.png" alt="Image4.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image3.png" alt="Image3.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image2.png" alt="Image2.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Video1.thumb.jpg" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image6.webp" alt="Image6.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image5.webp" alt="Image5.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image4.webp" alt="Image4.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image3.webp" alt="Image3.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/054-music-beat-dreamy-character-dance/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 055-landscape-music-beat-montage
 
@@ -701,11 +701,11 @@ The girl in the poster is constantly changing outfits, with clothing styles refe
 
 **Input:**
 
-<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Video1.mp4" controls height="200" style="object-fit: contain;"></video> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image6.png" alt="Image6.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image5.png" alt="Image5.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image4.png" alt="Image4.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image3.png" alt="Image3.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image2.png" alt="Image2.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Video1.thumb.jpg" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image6.webp" alt="Image6.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image5.webp" alt="Image5.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image4.webp" alt="Image4.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image3.webp" alt="Image3.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/055-landscape-music-beat-montage/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 056-chess-revenge-anime-battle
 
@@ -713,7 +713,7 @@ An 8-second intellectual game-style combat anime clip with a revenge theme. 0-3 
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/056-chess-revenge-anime-battle/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/056-chess-revenge-anime-battle/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/056-chess-revenge-anime-battle/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 057-mirror-breakdown-emotional-scene
 
@@ -721,11 +721,11 @@ The woman in @Image1 walks to the mirror, looks at herself in it with a posture 
 
 **Input:**
 
-<div style="white-space: nowrap;"><video src="https://r2.getseedance.com/seedance-cases/057-mirror-breakdown-emotional-scene/Video1.mp4" controls height="200" style="object-fit: contain;"></video> <img src="https://r2.getseedance.com/seedance-cases/057-mirror-breakdown-emotional-scene/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/057-mirror-breakdown-emotional-scene/Image2.png" alt="Image2.png" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><a href="https://r2.getseedance.com/seedance-cases/057-mirror-breakdown-emotional-scene/Video1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/057-mirror-breakdown-emotional-scene/Video1.thumb.jpg" alt="Video1.mp4" height="200" style="object-fit: contain;"></a> <img src="https://r2.getseedance.com/seedance-cases/057-mirror-breakdown-emotional-scene/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/057-mirror-breakdown-emotional-scene/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/057-mirror-breakdown-emotional-scene/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/057-mirror-breakdown-emotional-scene/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/057-mirror-breakdown-emotional-scene/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 058-range-hood-comparison-ad
 
@@ -733,11 +733,11 @@ This is a range hood advertisement. Take @Image1 as the opening frame, where a w
 
 **Input:**
 
-<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image2.png" alt="Image2.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image3.png" alt="Image3.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image4.png" alt="Image4.png" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image3.webp" alt="Image3.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image4.webp" alt="Image4.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 ### 059-person-to-bear-transformation
 
@@ -745,11 +745,11 @@ Use @Image1 as the first frame of the画面, with the camera rotating and pushin
 
 **Input:**
 
-<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Image1.png" alt="Image1.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Image2.png" alt="Image2.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Image3.png" alt="Image3.png" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Image4.png" alt="Image4.png" height="200" style="object-fit: contain;"></div>
+<div style="white-space: nowrap;"><img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Image1.webp" alt="Image1.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Image2.webp" alt="Image2.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Image3.webp" alt="Image3.webp" height="200" style="object-fit: contain;"> <img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Image4.webp" alt="Image4.webp" height="200" style="object-fit: contain;"></div>
 
 **Result:**
 
-<video src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Result1.mp4" controls height="320" style="object-fit: contain;"></video>
+<a href="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Result1.mp4" target="_blank" rel="noopener noreferrer"><img src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Result1.thumb.jpg" alt="Result1.mp4" height="320" style="object-fit: contain;"></a>
 
 
 ## License
