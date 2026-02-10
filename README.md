@@ -1,5 +1,8 @@
 # Awesome Seedance
 
+![Awesome](https://awesome.re/badge.svg)
+![Seedance](https://img.shields.io/badge/Seedance-2.0-blue)
+
 **Seedance 2.0** is a powerful multimodal video generation platform developed by ByteDance that supports image, video, audio, and text inputs. With advanced reference capabilities, you can precisely control composition, character details, camera movements, action rhythms, and creative effects. Seedance 2.0 enables smooth video extension and seamless scene transitions, allowing you to "continue filming" beyond just generation. Enhanced editing features support character replacement, deletion, and addition in existing videos. **Video creation is not just about generation—it's about controlling expression. Seedance 2.0 offers a truly controllable creative workflow.**
 
 This repository aims to curate and showcase high-quality Seedance 2.0 video generation cases, providing a comprehensive collection of prompts, inputs, and results to help users understand the platform's capabilities and inspire creative video generation. **This repository is updated daily with new cases.**
