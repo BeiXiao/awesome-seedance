@@ -7,10 +7,18 @@
 ## 语言
 
 - [English](README.md)
-- [简体中文](README.zh.md)（默认）
+- [简体中文](README.zh.md)
 - [繁體中文](README.zh_hant.md)
 - [日本語](README.ja.md)
 - [한국어](README.ko.md)
+
+## 贡献
+
+欢迎投稿！欢迎提交案例或提出 issues。
+
+请确保：
+
+- 提供公开可访问的链接（社媒链接、YouTube 等）
 
 ## Cases
 
@@ -606,16 +614,6 @@ Total: **59** cases
 
 <video src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Result1.mp4" controls width="320"></video>
 
-
-## 贡献
-
-欢迎投稿！欢迎提交案例或提出 issues。
-
-请确保：
-
-- 所有媒体文件已上传到 R2 存储
-- 提供了所有支持语言的提示词
-- 案例元数据完整且准确
 
 ## 许可
 

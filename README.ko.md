@@ -10,7 +10,15 @@
 - [简体中文](README.zh.md)
 - [繁體中文](README.zh_hant.md)
 - [日本語](README.ja.md)
-- [한국어](README.ko.md)（기본값）
+- [한국어](README.ko.md)
+
+## 기여
+
+기여를 환영합니다! 사례 제출이나 issue 생성에 자유롭게 참여해 주세요.
+
+다음을 확인해 주세요:
+
+- 공개적으로 접근 가능한 링크（소셜 미디어 링크、YouTube 등）를 제공해 주세요
 
 ## Cases
 
@@ -30,7 +38,7 @@ Total: **59** cases
 
 | Input | Prompt |
 |-------|--------|
-| ![Image1.png](https://r2.getseedance.com/seedance-cases/002-painting-character-steals-coke/Image1.png) | 그림 속 인물은 마음이 불안해한 표정을 지으며 눈을 좌우로 움직이며 그림틀 밖으로 몸을探出했다. 그는 빠르게 손을 그림틀 밖으로 뻗어 콜라를 들고一口 마셨더니 만족스러운 표정을 지었다. 그때 발자국 소리가 들려오자 그림 속 인물은 급히 콜라를 제자리에 놓았다. 이때 한 서부 카우보이가 컵에 든 콜라를拿起来走了。마지막으로 카메라가 앞으로 밀려画面은 천천히纯黑 배경이 되고，오직顶光만罐装 콜라를 비추었다.画面最下方에는 예술적인 자막과 나레이션이出现：“宜口可乐，不可不尝！” |
+| ![Image1.png](https://r2.getseedance.com/seedance-cases/002-painting-character-steals-coke/Image1.png) | 그림 속 인물은 마음이 불안해한 표정을 지으며 눈을 좌우로 움직이며 그림틀 밖으로 몸을내밀었다. 그는 빠르게 손을 그림틀 밖으로 뻗어 콜라를 들고 한 모금 마셨더니 만족스러운 표정을 지었다. 그때 발자국 소리가 들려오자 그림 속 인물은 급히 콜라를 제자리에 놓았다. 이때 한 서부 카우보이가 컵에 든 콜라를 집어 들고 걸어갔다. 마지막으로 카메라가 앞으로 밀려 화면은 천천히纯黑 배경이 되고, 오직顶光만罐装 콜라를 비추었다.画面最下方에는 예술적인 자막과 나레이션이出现：“宜口可乐，不可不尝！” |
 
 **Result:**
 
@@ -50,7 +58,7 @@ Total: **59** cases
 
 | Input | Prompt |
 |-------|--------|
-| ![Image1.png](https://r2.getseedance.com/seedance-cases/004-chase-scene-fruit-stall/Image1.png) | 카메라는 검은 옷을 입은 남자를 따라 빠르게 도망가는 모습을 촬영합니다. 뒤에는一群人이 쫓아오고 있으며, 카메라는 측면에서 따라가며 촬영합니다. 남자는 당황하여 길가의 과일摊을撞倒하고 일어나 다시 도망가며,人群의 당황한 소리가 들립니다. |
+| ![Image1.png](https://r2.getseedance.com/seedance-cases/004-chase-scene-fruit-stall/Image1.png) | 카메라는 검은 옷을 입은 남자를 따라 빠르게 도망가는 모습을 촬영합니다. 뒤에는한 무리의 사람들이 쫓아오고 있으며, 카메라는 측면에서 따라가며 촬영합니다. 남자는 당황하여 길가의 과일 가게를 넘어뜨리고 일어나 다시 도망가며,군중의 당황한 소리가 들립니다. |
 
 **Result:**
 
@@ -60,7 +68,7 @@ Total: **59** cases
 
 | Input | Prompt |
 |-------|--------|
-| ![Image1.png](https://r2.getseedance.com/seedance-cases/005-father-returns-home-daughter/Image1.png) | 남자@사진1 퇴근 후 피곤하게 복도를 걷다 걸음이 느려지고 마침내 집 문 앞에 멈춥니다. 얼굴을 크게 잡아特写镜头를 통해 남자가 숨을 깊게 들이쉬며 기분을 다잡고 부정적인 감정을 숨기고轻松해지는 모습을 보여줍니다. 그런 다음 열쇠를 찾아서 잠금장치에 넣고 집에 들어가면 작은 딸과 애완견이欢快하게 달려와 포옹으로 맞이합니다. 실내는非常温馨하며 전체 과정에 자연스러운 대화가 이어집니다. |
+| ![Image1.png](https://r2.getseedance.com/seedance-cases/005-father-returns-home-daughter/Image1.png) | 남자@사진1 퇴근 후 피곤하게 복도를 걷다 걸음이 느려지고 마침내 집 문 앞에 멈춥니다. 얼굴을 크게 잡아클로즈업 촬영을 통해 남자가 숨을 깊게 들이쉬며 기분을 다잡고 부정적인 감정을 숨기고편안해지는 모습을 보여줍니다. 그런 다음 열쇠를 찾아서 잠금장치에 넣고 집에 들어가면 작은 딸과 애완견이기쁘게 달려와 포옹으로 맞이합니다. 실내는매우 따뜻하며 전체 과정에 자연스러운 대화가 이어집니다. |
 
 **Result:**
 
@@ -70,7 +78,7 @@ Total: **59** cases
 
 | Input | Prompt |
 |-------|--------|
-| <video src="https://r2.getseedance.com/seedance-cases/006-opera-actress-stage-performance/Video1.mp4" controls width="320"></video> | @비디오1의 여성을 희극 화단으로 교체하고, 장면은 정교한 무대 위에 설정해 주세요. @비디오1의 카메라 운용과 전환 효과를 참고하여, 카메라로 인물의 동작을 매칭시키고 극致의 무대 미학을 구현하여 시각적 충격력을 강화해 주세요. |
+| <video src="https://r2.getseedance.com/seedance-cases/006-opera-actress-stage-performance/Video1.mp4" controls width="320"></video> | @비디오1의 여성을 희극 화단으로 교체하고, 장면은 정교한 무대 위에 설정해 주세요. @비디오1의 카메라 운용과 전환 효과를 참고하여, 카메라로 인물의 동작을 매칭시키고 극치의 무대 미학을 구현하여 시각적 충격력을 강화해 주세요. |
 
 **Result:**
 
@@ -80,7 +88,7 @@ Total: **59** cases
 
 | Input | Prompt |
 |-------|--------|
-| <video src="https://r2.getseedance.com/seedance-cases/007-one-shot-chess-beach-journey/Video1.mp4" controls width="320"></video> | @비디오1의 모든 전환과 카메라 움직임을 참고하여 원샷으로 촬영해주세요. 화면은 바둑판 위에서 시작하여 카메라가 왼쪽으로 이동해 노란 모래가 깔린 바닥을 보여준 후, 위로 올라가 모래滩을 보여주시길 바랍니다. 모래滩에는 발자국이 있고, 흰색 수트를 입은 여자가 점점 멀어지는데, 이어 카메라가 하늘에서 내려다보는 시점으로 전환되어 바닷물이 밀려오는 모습을 촬영해주세요(사람은 출현하지 않도록 해주시길 바랍니다). 자연스럽게 페이드 인/아웃 전환을 통해 밀려오는 파도가 흔들리는 커튼으로 변하고, 카메라를 멀리 떨어뜨려 여자의 얼굴特寫을 자연스럽게 보여주는 원샷 연출을 부탁드립니다. |
+| <video src="https://r2.getseedance.com/seedance-cases/007-one-shot-chess-beach-journey/Video1.mp4" controls width="320"></video> | @비디오1의 모든 전환과 카메라 움직임을 참고하여 원샷으로 촬영해주세요. 화면은 바둑판 위에서 시작하여 카메라가 왼쪽으로 이동해 노란 모래가 깔린 바닥을 보여준 후, 위로 올라가 모래사장을 보여주시길 바랍니다. 모래사장에는 발자국이 있고, 흰색 수트를 입은 여자가 점점 멀어지는데, 이어 카메라가 하늘에서 내려다보는 시점으로 전환되어 바닷물이 밀려오는 모습을 촬영해주세요(사람은 출현하지 않도록 해주시길 바랍니다). 자연스럽게 페이드 인/아웃 전환을 통해 밀려오는 파도가 흔들리는 커튼으로 변하고, 카메라를 멀리 떨어뜨려 여자의 얼굴 클로즈업을 자연스럽게 보여주는 원샷 연출을 부탁드립니다. |
 
 **Result:**
 
@@ -90,7 +98,7 @@ Total: **59** cases
 
 | Input | Prompt |
 |-------|--------|
-| ![Image1.png](https://r2.getseedance.com/seedance-cases/008-cheri-bow-tie-showcase/Image1.png) | 0-2초 화면: 빠른 4프레임 플래시 전환, 빨강, 분홍, 보라, 레오파드 무늬의 네 가지 보조개가 차례로 멈추며 새틴 광택과 "chéri" 브랜드 글자가特寫된다. 오프닝 멘트 "Chéri 자석 리본으로 무궁무진한 아름다움을 연출해 보세요!"  3-6초 화면: 은색 자석 버클이 "딸깍" 소리와 함께 붙었다가 살며시 당기면 분리되는 모습을特寫하여 부드러운 질감과 편리성을展示한다. 오프닝 멘트 "단 1초 만에 잠그고, 최고의 스타일을 완성하세요!"  7-12초 화면:佩戴 장면을 빠르게 전환: 와인 레드款을 코트 칼라에别우면 출근 분위기가 물씬 풍기고; 분홍款을 마马尾에 묶으면 상큼한 걸출街 look; 보라款을 가방 끈에 묶으면 소품 감각이 살아나고; 레오파드款을 양복 칼라에挂면 당돌한 매력이 폭발한다. 오프닝 멘트 "코트, 가방, 헤어 액세서리까지, 다재다능하고 개성 넘치는 스타일을 완성하세요!"  13-15초 화면: 네 가지 보조개를 나란히陈列하고, 브랜드명 "chéri, 당신에게 즉각적인 아름다움을 선사합니다!"가 나타난다. |
+| ![Image1.png](https://r2.getseedance.com/seedance-cases/008-cheri-bow-tie-showcase/Image1.png) | 0-2초 화면: 빠른 4프레임 플래시 전환, 빨강, 분홍, 보라, 레오파드 무늬의 네 가지 보조개가 차례로 멈추며 새틴 광택과 "chéri" 브랜드 글자가클로즈업된다. 오프닝 멘트 "Chéri 자석 리본으로 무궁무진한 아름다움을 연출해 보세요!"  3-6초 화면: 은색 자석 버클이 "딸깍" 소리와 함께 붙었다가 살며시 당기면 분리되는 모습을클로즈업하여 부드러운 질감과 편리성을보여준다. 오프닝 멘트 "단 1초 만에 잠그고, 최고의 스타일을 완성하세요!"  7-12초 화면:착용 장면을 빠르게 전환: 와인 레드 스타일을 코트 칼라에 꽂으면 출근 분위기가 물씬 풍기고; 분홍 스타일을 포니테일에 묶으면 상큼한 거리 룩; 보라 스타일을 가방 끈에 묶으면 소품 감각이 살아나고; 레오파드 스타일을 양복 칼라에 걸면 당돌한 매력이 폭발한다. 오프닝 멘트 "코트, 가방, 헤어 액세서리까지, 다재다능하고 개성 넘치는 스타일을 완성하세요!"  13-15초 화면: 네 가지 보조개를 나란히 진열하고, 브랜드명 "chéri, 당신에게 즉각적인 아름다움을 선사합니다!"가 나타난다. |
 
 **Result:**
 
@@ -100,7 +108,7 @@ Total: **59** cases
 
 | Input | Prompt |
 |-------|--------|
-| ![Image1.png](https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Image1.png) ![Image2.png](https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Image2.png) ![Image3.png](https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Image3.png) | @사진2의 가방을 상업적인 촬영으로展示하되, 가방의 측면은 @사진1을 참고하고 표면 재질은 @사진3을 참고합니다. 가방의 디테일이 모두 잘 드러나도록 촬영하며, 배경 음악은 웅장하고大气하게 설정해주세요. |
+| ![Image1.png](https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Image1.png) ![Image2.png](https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Image2.png) ![Image3.png](https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Image3.png) | @사진2의 가방을 상업적인 촬영으로 전시하되, 가방의 측면은 @사진1을 참고하고 표면 재질은 @사진3을 참고합니다. 가방의 디테일이 모두 잘 드러나도록 촬영하며, 배경 음악은 웅장하고 장엄하게 설정해주세요. |
 
 **Result:**
 
@@ -120,7 +128,7 @@ Total: **59** cases
 
 | Input | Prompt |
 |-------|--------|
-| <video src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Video1.mp4" controls width="320"></video> ![Image1.png](https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image1.png) ![Image2.png](https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image2.png) ![Image3.png](https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image3.png) | @그림1의 남자 이미지를 참고하여, 그는 @그림2의 엘리베이터 안에 있습니다. @비디오1의 모든 카메라 운영 효과와 주인공의 표정을 완벽히 참고해주세요. 주인공이 공포를 느낄 때는 히치콕 줌을 사용하고, 그 다음으로 엘리베이터 내부 시점을 보여주는 몇 개의 환형镜头를 촬영합니다. 엘리베이터 문이 열리면, 추적镜头으로 엘리베이터 밖으로 나오고, 엘리베이터 외부 장면은 @그림3을 참고합니다. 남자가 주변을 둘러보며, @비디오1처럼 로봇암을 사용하여 다양한 각도로 인물의 시선을 추적해주세요. |
+| <video src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Video1.mp4" controls width="320"></video> ![Image1.png](https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image1.png) ![Image2.png](https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image2.png) ![Image3.png](https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image3.png) | @그림1의 남자 이미지를 참고하여, 그는 @그림2의 엘리베이터 안에 있습니다. @비디오1의 모든 카메라 운영 효과와 주인공의 표정을 완벽히 참고해주세요. 주인공이 공포를 느낄 때는 히치콕 줌을 사용하고, 그 다음으로 엘리베이터 내부 시점을 보여주는 몇 개의 환형 촬영을 합니다. 엘리베이터 문이 열리면, 추적 촬영으로 엘리베이터 밖으로 나오고, 엘리베이터 외부 장면은 @그림3을 참고합니다. 남자가 주변을 둘러보며, @비디오1처럼 로봇암을 사용하여 다양한 각도로 인물의 시선을 추적해주세요. |
 
 **Result:**
 
@@ -130,7 +138,7 @@ Total: **59** cases
 
 | Input | Prompt |
 |-------|--------|
-| ![Image5.png](https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image5.png) ![Image4.png](https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image4.png) ![Image3.png](https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image3.png) ![Image2.png](https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image2.png) ![Image1.png](https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image1.png) | @그림1의 남자 이미지를 참고하여, 그는 @그림2의 복도에 있으며 @비디오1의 모든 카메라 움직임 효과와 주인공의 표정을 완벽하게 참고합니다. 카메라는 주인공을 따라 @그림2의 코너에서 달리다가 @그림3의 긴 복도에서는 카메라가背面에서 따라가는 시점에서 낮은 각도로 주인공正面으로 돌아옵니다. 카메라는 다시 90도 오른쪽으로 흔들어 @그림4의 분기점을 촬영하고, 갑자기 멈춘 후 180도 오른쪽으로 흔들어 주인공正面을 가까이 촬영합니다. 주인공은 숨차게 숨을 쉬고, 카메라는 주인공의 시점을 따라 주변을 둘러보며 @비디오1의 빠른 좌우 회전 카메라 움직임으로 장면을 표현한 후 @그림5의 장면으로 후퇴하고, 계속 주인공이 달리는 측면 시점을 따라 촬영합니다. |
+| ![Image5.png](https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image5.png) ![Image4.png](https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image4.png) ![Image3.png](https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image3.png) ![Image2.png](https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image2.png) ![Image1.png](https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image1.png) | @그림1의 남자 이미지를 참고하여, 그는 @그림2의 복도에 있으며 @비디오1의 모든 카메라 움직임 효과와 주인공의 표정을 완벽하게 참고합니다. 카메라는 주인공을 따라 @그림2의 코너에서 달리다가 @그림3의 긴 복도에서는 카메라가뒤에서 따라가는 시점에서 낮은 각도로 주인공 정면으로 돌아옵니다. 카메라는 다시 90도 오른쪽으로 흔들어 @그림4의 분기점을 촬영하고, 갑자기 멈춘 후 180도 오른쪽으로 흔들어 주인공 정면을 가까이 촬영합니다. 주인공은 숨차게 숨을 쉬고, 카메라는 주인공의 시점을 따라 주변을 둘러보며 @비디오1의 빠른 좌우 회전 카메라 움직임으로 장면을 표현한 후 @그림5의 장면으로 후퇴하고, 계속 주인공이 달리는 측면 시점을 따라 촬영합니다. |
 
 **Result:**
 
@@ -140,7 +148,7 @@ Total: **59** cases
 
 | Input | Prompt |
 |-------|--------|
-| <video src="https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Video1.mp4" controls width="320"></video> ![Image1.png](https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Image1.png) | @이미지1의 태블릿을 주체로 하고, @비디오1의 카메라 움직임을 참고하여 화면特写으로 밀착한 후,镜头를 회전시키고 태블릿을 뒤집어 전체 모습을 보여주세요. 화면 속 데이터 흐름은 계속 변화하며 주변 환경은 점차 과학소설 스타일의 데이터 공간으로 변해가야 합니다. |
+| <video src="https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Video1.mp4" controls width="320"></video> ![Image1.png](https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Image1.png) | @이미지1의 태블릿을 주체로 하고, @비디오1의 카메라 움직임을 참고하여 화면 클로즈업으로 밀착한 후, 카메라를 회전시키고 태블릿을 뒤집어 전체 모습을 보여주세요. 화면 속 데이터 흐름은 계속 변화하며 주변 환경은 점차 과학소설 스타일의 데이터 공간으로 변해가야 합니다. |
 
 **Result:**
 
@@ -170,7 +178,7 @@ Total: **59** cases
 
 | Input | Prompt |
 |-------|--------|
-| <video src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Video1.mp4" controls width="320"></video> <video src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Video2.mp4" controls width="320"></video> ![Image1.png](https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Image1.png) ![Image2.png](https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Image2.png) | 비디오 1의 인물 동작을 참고하고, 비디오 2의 서클 움직임 카메라 연출을 참고하여 캐릭터1과 캐릭터2의打斗 장면을 생성해주세요.打斗는 별이 빛나는 밤에 발생하며,打斗 과정에서 흰 먼지가 날려지고,打斗 장면은 매우 화려하며 분위기는 매우 긴박합니다. |
+| <video src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Video1.mp4" controls width="320"></video> <video src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Video2.mp4" controls width="320"></video> ![Image1.png](https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Image1.png) ![Image2.png](https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Image2.png) | 비디오 1의 인물 동작을 참고하고, 비디오 2의 서클 움직임 카메라 연출을 참고하여 캐릭터1과 캐릭터2의싸움 장면을 생성해주세요. 싸움이 별이 빛나는 밤에 발생하며, 싸움 과정에서 흰 먼지가 날려지고, 싸움 장면은 매우 화려하며 분위기는 매우 긴박합니다. |
 
 **Result:**
 
@@ -606,16 +614,6 @@ Total: **59** cases
 
 <video src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Result1.mp4" controls width="320"></video>
 
-
-## 기여
-
-기여를 환영합니다! 사례 제출이나 issue 생성에 자유롭게 참여해 주세요.
-
-다음을 확인해 주세요:
-
-- 모든 미디어 파일이 R2 스토리지에 업로드되어 있는지
-- 지원되는 모든 언어로 프롬프트가 제공되는지
-- 사례 메타데이터가 완전하고 정확한지
 
 ## 라이선스
 

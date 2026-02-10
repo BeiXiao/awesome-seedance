@@ -14,6 +14,14 @@ A curated collection of Seedance video generation cases and prompts.
 - [日本語](README.ja.md)
 - [한국어](README.ko.md)
 
+## Contributing
+
+Contributions are welcome! Please feel free to submit cases or open issues.
+
+Please ensure that:
+
+- Provide publicly accessible links (social media links, YouTube, etc.) for your submissions
+
 ## Cases
 
 Total: **59** cases
@@ -32,7 +40,7 @@ Total: **59** cases
 
 | Input | Prompt |
 |-------|--------|
-| ![Image1.png](https://r2.getseedance.com/seedance-cases/002-painting-character-steals-coke/Image1.png) | In the painting, the figure wears a guilty expression, glances left and right, leans out of the frame, quickly stretches a hand outside to pick up a cola and takes a sip, then shows a look of contentment. Just then, footsteps are heard. The figure in the painting hastily puts the cola back in place. At this moment, a cowboy picks up the cola from the cup and walks away. Finally, the camera pushes forward, the画面 gradually fades to a pure black background with only a can of cola illuminated by a spotlight from above. At the bottom of the frame, artistic subtitles and a voiceover appear: "Yikou Cola, a must-try!" |
+| ![Image1.png](https://r2.getseedance.com/seedance-cases/002-painting-character-steals-coke/Image1.png) | In the painting, the figure wears a guilty expression, glances left and right, leans out of the frame, quickly stretches a hand outside to pick up a cola and takes a sip, then shows a look of contentment. Just then, footsteps are heard. The figure in the painting hastily puts the cola back in place. At this moment, a cowboy picks up the cola from the cup and walks away. Finally, the camera pushes forward, the screen gradually fades to a pure black background with only a can of cola illuminated by a spotlight from above. At the bottom of the frame, artistic subtitles and a voiceover appear: "Yikou Cola, a must-try!" |
 
 **Result:**
 
@@ -52,7 +60,7 @@ Total: **59** cases
 
 | Input | Prompt |
 |-------|--------|
-| ![Image1.png](https://r2.getseedance.com/seedance-cases/004-chase-scene-fruit-stall/Image1.png) | The camera follows the man in black as he flees rapidly, with a group of people chasing behind. The shot shifts to a side tracking angle, capturing him惊慌地 knocking over a roadside fruit stall before scrambling up to continue his escape, accompanied by the chaotic sounds of the crowd. |
+| ![Image1.png](https://r2.getseedance.com/seedance-cases/004-chase-scene-fruit-stall/Image1.png) | The camera follows the man in black as he flees rapidly, with a group of people chasing behind. The shot shifts to a side tracking angle, capturing himpanicked, knocking over a roadside fruit stall before scrambling up to continue his escape, accompanied by the chaotic sounds of the crowd. |
 
 **Result:**
 
@@ -62,7 +70,7 @@ Total: **59** cases
 
 | Input | Prompt |
 |-------|--------|
-| ![Image1.png](https://r2.getseedance.com/seedance-cases/005-father-returns-home-daughter/Image1.png) | After work, a man walks wearily down the corridor, his steps slowing until he pauses at his doorstep. A close-up shot captures him taking a deep breath, adjusting his mood, and setting aside his negative emotions to appear relaxed. This is followed by a close-up of him fumbling for his keys, inserting them into the lock, and entering the house. Inside, his young daughter and a pet dog run over欢快地 to greet and hug him, creating a warm and cozy atmosphere. The entire process features natural dialogue. |
+| ![Image1.png](https://r2.getseedance.com/seedance-cases/005-father-returns-home-daughter/Image1.png) | After work, a man walks wearily down the corridor, his steps slowing until he pauses at his doorstep. A close-up shot captures him taking a deep breath, adjusting his mood, and setting aside his negative emotions to appear relaxed. This is followed by a close-up of him fumbling for his keys, inserting them into the lock, and entering the house. Inside, his young daughter and a pet dog run over joyfully to greet and hug him, creating a warm and cozy atmosphere. The entire process features natural dialogue. |
 
 **Result:**
 
@@ -72,7 +80,7 @@ Total: **59** cases
 
 | Input | Prompt |
 |-------|--------|
-| <video src="https://r2.getseedance.com/seedance-cases/006-opera-actress-stage-performance/Video1.mp4" controls width="320"></video> | Replace the female character in @Video 1 with a traditional Chinese opera huadan, set on an exquisitely designed stage. Reference the camera movement and transition effects from @Video 1, utilize镜头 work to match the character's movements, and enhance visual impact through the ultimate stage aesthetics. |
+| <video src="https://r2.getseedance.com/seedance-cases/006-opera-actress-stage-performance/Video1.mp4" controls width="320"></video> | Replace the female character in @Video1 with a traditional Chinese opera huadan, set on an exquisitely designed stage. Reference the camera movement and transition effects from @Video1, utilize camera work to match the character's movements, and enhance visual impact through the ultimate stage aesthetics. |
 
 **Result:**
 
@@ -82,7 +90,7 @@ Total: **59** cases
 
 | Input | Prompt |
 |-------|--------|
-| <video src="https://r2.getseedance.com/seedance-cases/007-one-shot-chess-beach-journey/Video1.mp4" controls width="320"></video> | Refer to all transitions and camera movements in @Video 1, using a one-take shot. The scene starts with a chessboard, then the camera pans left to reveal yellow gravel on the floor,接着 tilts up to a sandy beach where footprints are visible. A girl dressed in plain white clothing walks gradually away along the shore. The camera then cuts to an aerial top-down view, showing seawater gently washing the shore (no characters should appear). With a seamless gradient transition, the crashing waves morph into billowing curtains. The camera pulls back to showcase a close-up of the girl's face, maintaining the one-take continuity throughout. |
+| <video src="https://r2.getseedance.com/seedance-cases/007-one-shot-chess-beach-journey/Video1.mp4" controls width="320"></video> | Refer to all transitions and camera movements in @Video1, using a one-take shot. The scene starts with a chessboard, then the camera pans left to reveal yellow gravel on the floor,then tilts up to a sandy beach where footprints are visible. A girl dressed in plain white clothing walks gradually away along the shore. The camera then cuts to an aerial top-down view, showing seawater gently washing the shore (no characters should appear). With a seamless gradient transition, the crashing waves morph into billowing curtains. The camera pulls back to showcase a close-up of the girl's face, maintaining the one-take continuity throughout. |
 
 **Result:**
 
@@ -92,7 +100,7 @@ Total: **59** cases
 
 | Input | Prompt |
 |-------|--------|
-| ![Image1.png](https://r2.getseedance.com/seedance-cases/008-cheri-bow-tie-showcase/Image1.png) | 0-2 seconds: Quick four-panel flash cuts, with red, pink, purple, and leopard-print bow ties定格 in sequence, featuring close-ups of the satin luster and the "chéri" brand logo. Voiceover "Create endless beauty with Chéri magnetic ribbons!" 3-6 seconds: Close-up of the silver magnetic clasp "clicking" shut and then gently pulling apart, showcasing the silky texture and convenience. Voiceover "Lock it in just 1 second and complete your ultimate style!" 7-12 seconds: Rapidly switching wearing scenarios: the wine red one pinned to a coat collar for a commuter vibe; the pink one tied in a ponytail for a sweet girl's outing; the purple one attached to a bag strap for a unique and high-end look; the leopard-print one hung on a suit collar for a bold and spicy aura. Voiceover "From coats and bags to hair accessories, complete a versatile and personality-filled style!" 13-15 seconds: Four bow ties displayed side by side, with the brand name "chéri, presenting you with instant beauty!" |
+| ![Image1.png](https://r2.getseedance.com/seedance-cases/008-cheri-bow-tie-showcase/Image1.png) | 0-2 seconds: Quick four-panel flash cuts, with red, pink, purple, and leopard-print bow tiesfreeze-frame in sequence, featuring close-ups of the satin luster and the "chéri" brand logo. Voiceover "Create endless beauty with Chéri magnetic ribbons!" 3-6 seconds: Close-up of the silver magnetic clasp "clicking" shut and then gently pulling apart, showcasing the silky texture and convenience. Voiceover "Lock it in just 1 second and complete your ultimate style!" 7-12 seconds: Rapidly switching wearing scenarios: the wine red one pinned to a coat collar for a commuter vibe; the pink one tied in a ponytail for a sweet girl's outing; the purple one attached to a bag strap for a unique and high-end look; the leopard-print one hung on a suit collar for a bold and spicy aura. Voiceover "From coats and bags to hair accessories, complete a versatile and personality-filled style!" 13-15 seconds: Four bow ties displayed side by side, with the brand name "chéri, presenting you with instant beauty!" |
 
 **Result:**
 
@@ -102,7 +110,7 @@ Total: **59** cases
 
 | Input | Prompt |
 |-------|--------|
-| ![Image1.png](https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Image1.png) ![Image2.png](https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Image2.png) ![Image3.png](https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Image3.png) | Create a commercial photography showcase for @Image 2 bag, with the side of the bag referencing @Image 1 and the surface material referencing @Image 3. Ensure all details of the bag are displayed, and the background music is grand and imposing. |
+| ![Image1.png](https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Image1.png) ![Image2.png](https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Image2.png) ![Image3.png](https://r2.getseedance.com/seedance-cases/009-handbag-commercial-showcase/Image3.png) | Create a commercial photography showcase for @Image2 bag, with the side of the bag referencing @Image1 and the surface material referencing @Image3. Ensure all details of the bag are displayed, and the background music is grand and imposing. |
 
 **Result:**
 
@@ -112,7 +120,7 @@ Total: **59** cases
 
 | Input | Prompt |
 |-------|--------|
-| ![Image1.png](https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image1.png) ![Image2.png](https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image2.png) ![Image3.png](https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image3.png) ![Image4.png](https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image4.png) | Use @Image1 as the first frame of the画面, adopt a first-person perspective, reference the camera movement effects of @Video1, take @Image2 as the reference for the upper scene, @Image3 for the left scene, and @Image4 for the right scene. |
+| ![Image1.png](https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image1.png) ![Image2.png](https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image2.png) ![Image3.png](https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image3.png) ![Image4.png](https://r2.getseedance.com/seedance-cases/010-first-person-multi-scene-reference/Image4.png) | Use @Image1 as the first frame of the screen, adopt a first-person perspective, reference the camera movement effects of @Video1, take @Image2 as the reference for the upper scene, @Image3 for the left scene, and @Image4 for the right scene. |
 
 **Result:**
 
@@ -122,7 +130,7 @@ Total: **59** cases
 
 | Input | Prompt |
 |-------|--------|
-| <video src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Video1.mp4" controls width="320"></video> ![Image1.png](https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image1.png) ![Image2.png](https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image2.png) ![Image3.png](https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image3.png) | Refer to the male image in @Image 1. He is in the elevator from @Image 2. Fully adopt all the camera movement effects and the protagonist's facial expressions from @Video 1. When the protagonist is in a state of panic, use the Hitchcock zoom. Then, several环绕镜头 (circling shots) are used to show the perspective inside the elevator. When the elevator door opens, follow the camera to walk out of the elevator. The scene outside the elevator refers to @Image 3. The man looks around, and a mechanical arm is used to follow the character's line of sight from multiple angles, as in @Video 1. |
+| <video src="https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Video1.mp4" controls width="320"></video> ![Image1.png](https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image1.png) ![Image2.png](https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image2.png) ![Image3.png](https://r2.getseedance.com/seedance-cases/011-elevator-horror-hitchcock-zoom/Image3.png) | Refer to the male image in @Image1. He is in the elevator from @Image2. Fully adopt all the camera movement effects and the protagonist's facial expressions from @Video1. When the protagonist is in a state of panic, use the Hitchcock zoom. Then, severalcircling shots are used to show the perspective inside the elevator. When the elevator door opens, follow the camera to walk out of the elevator. The scene outside the elevator refers to @Image3. The man looks around, and a mechanical arm is used to follow the character's line of sight from multiple angles, as in @Video1. |
 
 **Result:**
 
@@ -132,7 +140,7 @@ Total: **59** cases
 
 | Input | Prompt |
 |-------|--------|
-| ![Image5.png](https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image5.png) ![Image4.png](https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image4.png) ![Image3.png](https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image3.png) ![Image2.png](https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image2.png) ![Image1.png](https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image1.png) | Referencing the male figure in @Image1, place him in the corridor of @Image2. Fully adopt all the camera movement effects and the protagonist's facial expressions from @Video1. The camera follows the protagonist as he runs around the corner in @Image2, then in the long hallway of @Image3, the camera transitions from a rear following perspective to a low-angle环绕 shot that moves around to the protagonist's front. The camera then pans right 90 degrees to capture the fork in the road from @Image4, comes to an abrupt stop, pans right 180 degrees, and zooms in for a close-up shot of the protagonist's front: the protagonist is out of breath. The camera then follows the protagonist's line of sight to look around, referencing the rapid left-right环绕 camera movement from @Video1 to showcase the scene, before pulling back to the setting in @Image5 and continuing to follow-shoot the side view of the protagonist running. |
+| ![Image5.png](https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image5.png) ![Image4.png](https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image4.png) ![Image3.png](https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image3.png) ![Image2.png](https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image2.png) ![Image1.png](https://r2.getseedance.com/seedance-cases/012-corridor-chase-multi-angle/Image1.png) | Referencing the male figure in @Image1, place him in the corridor of @Image2. Fully adopt all the camera movement effects and the protagonist's facial expressions from @Video1. The camera follows the protagonist as he runs around the corner in @Image2, then in the long hallway of @Image3, the camera transitions from a rear following perspective to a low-anglecircular shot that moves around to the protagonist's front. The camera then pans right 90 degrees to capture the fork in the road from @Image4, comes to an abrupt stop, pans right 180 degrees, and zooms in for a close-up shot of the protagonist's front: the protagonist is out of breath. The camera then follows the protagonist's line of sight to look around, referencing the rapid left-right circular camera movement from @Video1 to showcase the scene, before pulling back to the setting in @Image5 and continuing to follow-shoot the side view of the protagonist running. |
 
 **Result:**
 
@@ -142,7 +150,7 @@ Total: **59** cases
 
 | Input | Prompt |
 |-------|--------|
-| <video src="https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Video1.mp4" controls width="320"></video> ![Image1.png](https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Image1.png) | With the tablet in @Image 1 as the main subject, using the camera movement from @Video 1 as a reference, push in for a close-up of the screen, then rotate the camera and flip the tablet to display its full view. The data flow on the screen is continuously changing, and the surrounding environment gradually transforms into a sci-fi-style data space. |
+| <video src="https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Video1.mp4" controls width="320"></video> ![Image1.png](https://r2.getseedance.com/seedance-cases/013-tablet-sci-fi-data-space/Image1.png) | With the tablet in @Image1 as the main subject, using the camera movement from @Video1 as a reference, push in for a close-up of the screen, then rotate the camera and flip the tablet to display its full view. The data flow on the screen is continuously changing, and the surrounding environment gradually transforms into a sci-fi-style data space. |
 
 **Result:**
 
@@ -172,7 +180,7 @@ Total: **59** cases
 
 | Input | Prompt |
 |-------|--------|
-| <video src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Video1.mp4" controls width="320"></video> <video src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Video2.mp4" controls width="320"></video> ![Image1.png](https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Image1.png) ![Image2.png](https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Image2.png) | Generate a fight scene between Character 1 and Character 2 by referencing the character movements from Video 1 and the环绕运镜镜头 language from Video 2. Set against a starry night, the fight features white dust swirling into the air,呈现出 an exquisitely华丽 display with an intensely tense atmosphere.  （说明：1. "环绕运镜" 专业术语对应 "circular tracking shot"，但此处根据上下文流畅性调整为 "环绕运镜镜头 language" 以保持原意；2. "呈现出" 为增补词使句子结构完整；3. "华丽" 采用 "exquisitely华丽" 双重修饰强化视觉效果，符合 "非常华丽" 的要求；4. "气氛十分紧张" 译为 "intensely tense atmosphere" 增强情绪张力；5. 严格遵循无括号引号要求，保持英文表达自然流畅。） |
+| <video src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Video1.mp4" controls width="320"></video> <video src="https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Video2.mp4" controls width="320"></video> ![Image1.png](https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Image1.png) ![Image2.png](https://r2.getseedance.com/seedance-cases/016-starry-night-combat-duo/Image2.png) | Generate a fight scene between Character 1 and Character 2 by referencing the character movements from Video 1 and thecircular tracking shot language from Video 2. Set against a starry night, the fight features white dust swirling into the air, presenting an exquisitely magnificent display with an intensely tense atmosphere. |
 
 **Result:**
 
@@ -182,7 +190,7 @@ Total: **59** cases
 
 | Input | Prompt |
 |-------|--------|
-| <video src="https://r2.getseedance.com/seedance-cases/017-red-supercar-showcase/Video1.mp4" controls width="320"></video> ![Image1.png](https://r2.getseedance.com/seedance-cases/017-red-supercar-showcase/Image1.png) | Please replicate the red supercar in Picture 1, referencing the camera movements and画面切换节奏 in Video 1.  （说明：经核查，原prompt中“@也要翻译”可能为冗余信息或误输入，因文本中并无“@”符号，故按正常翻译逻辑处理，重点优化了“运镜”（camera movements）和“复刻”（replicate）的表述，使指令更符合英文创作场景的专业表达习惯，同时保持核心需求清晰。） |
+| <video src="https://r2.getseedance.com/seedance-cases/017-red-supercar-showcase/Video1.mp4" controls width="320"></video> ![Image1.png](https://r2.getseedance.com/seedance-cases/017-red-supercar-showcase/Image1.png) | Please replicate the red supercar in Picture 1, referencing the camera movements and scene transition rhythm in Video 1.  （说明：经核查，原prompt中“@也要翻译”可能为冗余信息或误输入，因文本中并无“@”符号，故按正常翻译逻辑处理，重点优化了“运镜”（camera movements）和“复刻”（replicate）的表述，使指令更符合英文创作场景的专业表达习惯，同时保持核心需求清晰。） |
 
 **Result:**
 
@@ -242,7 +250,7 @@ Total: **59** cases
 
 | Input | Prompt |
 |-------|--------|
-| ![Image2.png](https://r2.getseedance.com/seedance-cases/023-seedance-logo-puzzle-break/Image2.png) ![Image1.png](https://r2.getseedance.com/seedance-cases/023-seedance-logo-puzzle-break/Image1.png) | Start with the ceiling in @Image 1, transition using the puzzle破碎 effect from @Video 1, replace the "BELIEVE" font with "Seedance", and refer to the font in @Image 2. |
+| ![Image2.png](https://r2.getseedance.com/seedance-cases/023-seedance-logo-puzzle-break/Image2.png) ![Image1.png](https://r2.getseedance.com/seedance-cases/023-seedance-logo-puzzle-break/Image1.png) | Start with the ceiling in @Image1, transition using the puzzle破碎 effect from @Video1, replace the "BELIEVE" font with "Seedance", and refer to the font in @Image2. |
 
 **Result:**
 
@@ -272,7 +280,7 @@ Total: **59** cases
 
 | Input | Prompt |
 |-------|--------|
-| <video src="https://r2.getseedance.com/seedance-cases/026-comic-strip-humorous-narration/Video1.mp4" controls width="320"></video> ![Image1.png](https://r2.getseedance.com/seedance-cases/026-comic-strip-humorous-narration/Image1.png) | Translate @Image 1 into a comic演绎 in a left-to-right, top-to-bottom sequence, keeping the characters' lines consistent with those in the image. Add special sound effects for scene transitions and key plot演绎, with an overall humorous and witty style; refer to @Video 1 for the演绎 approach. |
+| <video src="https://r2.getseedance.com/seedance-cases/026-comic-strip-humorous-narration/Video1.mp4" controls width="320"></video> ![Image1.png](https://r2.getseedance.com/seedance-cases/026-comic-strip-humorous-narration/Image1.png) | Translate @Image1 into a comic演绎 in a left-to-right, top-to-bottom sequence, keeping the characters' lines consistent with those in the image. Add special sound effects for scene transitions and key plot演绎, with an overall humorous and witty style; refer to @Video1 for the演绎 approach. |
 
 **Result:**
 
@@ -282,7 +290,7 @@ Total: **59** cases
 
 | Input | Prompt |
 |-------|--------|
-| ![Image1.png](https://r2.getseedance.com/seedance-cases/027-childhood-seasons-healing-intro/Image1.png) | Refer to the shot list of the feature film in @Image 1, and create a 15-second healing-style opening sequence about "Childhood Seasons" by drawing inspiration from the shot composition, camera angles, movements, visuals, and copywriting in @Image 1. |
+| ![Image1.png](https://r2.getseedance.com/seedance-cases/027-childhood-seasons-healing-intro/Image1.png) | Refer to the shot list of the feature film in @Image1, and create a 15-second healing-style opening sequence about "Childhood Seasons" by drawing inspiration from the shot composition, camera angles, movements, visuals, and copywriting in @Image1. |
 
 **Result:**
 
@@ -292,7 +300,7 @@ Total: **59** cases
 
 | Input | Prompt |
 |-------|--------|
-| ![Image5.png](https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image5.png) ![Image4.png](https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image4.png) ![Image3.png](https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image3.png) ![Image2.png](https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image2.png) ![Image1.png](https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image1.png) | Drawing inspiration from Figure 1, Figure 2, Figure 3, Figure 4 and Figure 5, develop an emotion-driven video with audio reference from Video 1 and background music reference from @Video 1. |
+| ![Image5.png](https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image5.png) ![Image4.png](https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image4.png) ![Image3.png](https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image3.png) ![Image2.png](https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image2.png) ![Image1.png](https://r2.getseedance.com/seedance-cases/028-emotional-music-inspired-visual/Image1.png) | Drawing inspiration from Figure 1, Figure 2, Figure 3, Figure 4 and Figure 5, develop an emotion-driven video with audio reference from Video 1 and background music reference from @Video1. |
 
 **Result:**
 
@@ -302,7 +310,7 @@ Total: **59** cases
 
 | Input | Prompt |
 |-------|--------|
-| ![Image2.png](https://r2.getseedance.com/seedance-cases/029-donkey-motorcycle-creative-ad/Image2.png) ![Image1.png](https://r2.getseedance.com/seedance-cases/029-donkey-motorcycle-creative-ad/Image1.png) | Extend the video by 15 seconds, referencing the image of a donkey riding a motorcycle in @Image 1 and @Image 2 to add a creative advertisement segment. Scene 1: Fixed side shot, a donkey rides a motorcycle冲出棚栏, startling the chickens nearby. Scene 2: The donkey rides the motorcycle in a circular motion on the sandy ground. First, a close-up of the motorcycle tires, then a mid-air overhead shot of the donkey performing a盘旋特技 on the motorcycle, kicking up smoke. Scene 3: Set against a雪山 background, the donkey rides the motorcycle off a hillside in a jump. The advertising slogan "Inspire Creativity, Enrich Life" appears in the center through a masking effect as the donkey and motorcycle fly past, with a cloud of dust rising after the motorcycle passes. |
+| ![Image2.png](https://r2.getseedance.com/seedance-cases/029-donkey-motorcycle-creative-ad/Image2.png) ![Image1.png](https://r2.getseedance.com/seedance-cases/029-donkey-motorcycle-creative-ad/Image1.png) | Extend the video by 15 seconds, referencing the image of a donkey riding a motorcycle in @Image1 and @Image2 to add a creative advertisement segment. Scene 1: Fixed side shot, a donkey rides a motorcycle冲出棚栏, startling the chickens nearby. Scene 2: The donkey rides the motorcycle in a circular motion on the sandy ground. First, a close-up of the motorcycle tires, then a mid-air overhead shot of the donkey performing a盘旋特技 on the motorcycle, kicking up smoke. Scene 3: Set against a雪山 background, the donkey rides the motorcycle off a hillside in a jump. The advertising slogan "Inspire Creativity, Enrich Life" appears in the center through a masking effect as the donkey and motorcycle fly past, with a cloud of dust rising after the motorcycle passes. |
 
 **Result:**
 
@@ -312,7 +320,7 @@ Total: **59** cases
 
 | Input | Prompt |
 |-------|--------|
-| <video src="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Video1.mp4" controls width="320"></video> ![Image1.png](https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Image1.png) ![Image2.png](https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Image2.png) | Extend the video by 6 seconds, featuring激昂电吉他音乐. In the middle of the video, the advertising text "JUST DO IT" appears and then gradually fades. The camera pans up to the ceiling, where a muscular man is pulling on a trapeze. He is wearing the tight-fitting workout clothes from @Image 1, with the "Fitness" logo from @Image 2 printed on the back. The man pulls himself up on the trapeze using his strong upper body, and then the advertising closing text "DO SOME SPORT" appears in the middle of the video. |
+| <video src="https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Video1.mp4" controls width="320"></video> ![Image1.png](https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Image1.png) ![Image2.png](https://r2.getseedance.com/seedance-cases/030-fitness-motivational-training/Image2.png) | Extend the video by 6 seconds, featuring激昂电吉他音乐. In the middle of the video, the advertising text "JUST DO IT" appears and then gradually fades. The camera pans up to the ceiling, where a muscular man is pulling on a trapeze. He is wearing the tight-fitting workout clothes from @Image1, with the "Fitness" logo from @Image2 printed on the back. The man pulls himself up on the trapeze using his strong upper body, and then the advertising closing text "DO SOME SPORT" appears in the middle of the video. |
 
 **Result:**
 
@@ -322,7 +330,7 @@ Total: **59** cases
 
 | Input | Prompt |
 |-------|--------|
-| <video src="https://r2.getseedance.com/seedance-cases/031-lucky-coffee-breakfast-ad/Video1.mp4" controls width="320"></video> | Extend @Video 1 by 15 seconds. 1-5 seconds: Light and shadow glide gently across the wooden table and cup through the blinds, with tree branches swaying slightly like soft breathing. 6-10 seconds: A coffee bean falls slowly from the top of the frame, and the camera pushes in toward the bean until the screen fades to black. 11-15 seconds: English text fades in—first line "Lucky Coffee", second line "Breakfast", third line "AM 7:00-10:00". |
+| <video src="https://r2.getseedance.com/seedance-cases/031-lucky-coffee-breakfast-ad/Video1.mp4" controls width="320"></video> | Extend @Video1 by 15 seconds. 1-5 seconds: Light and shadow glide gently across the wooden table and cup through the blinds, with tree branches swaying slightly like soft breathing. 6-10 seconds: A coffee bean falls slowly from the top of the frame, and the camera pushes in toward the bean until the screen fades to black. 11-15 seconds: English text fades in—first line "Lucky Coffee", second line "Breakfast", third line "AM 7:00-10:00". |
 
 **Result:**
 
@@ -352,7 +360,7 @@ Total: **59** cases
 
 | Input | Prompt |
 |-------|--------|
-| <video src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Video1.mp4" controls width="320"></video> ![Image3.png](https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image3.png) ![Image2.png](https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image2.png) ![Image1.png](https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image1.png) | Based on the provided office building promotional photos, create a 15-second cinematic realistic style real estate documentary with a 2.35:1 widescreen aspect ratio, 24fps, and an exquisite画面风格. The voiceover tone should reference @Video 1. Film "the ecosystem of the office building," showcasing the operations of different companies within the building, and use the voiceover to elaborate on how the office building becomes a vibrant business ecosystem. |
+| <video src="https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Video1.mp4" controls width="320"></video> ![Image3.png](https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image3.png) ![Image2.png](https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image2.png) ![Image1.png](https://r2.getseedance.com/seedance-cases/034-office-building-ecosystem-doc/Image1.png) | Based on the provided office building promotional photos, create a 15-second cinematic realistic style real estate documentary with a 2.35:1 widescreen aspect ratio, 24fps, and an exquisite画面风格. The voiceover tone should reference @Video1. Film "the ecosystem of the office building," showcasing the operations of different companies within the building, and use the voiceover to elaborate on how the office building becomes a vibrant business ecosystem. |
 
 **Result:**
 
@@ -412,7 +420,7 @@ Total: **59** cases
 
 | Input | Prompt |
 |-------|--------|
-| <video src="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Video1.mp4" controls width="320"></video> ![Image1.png](https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Image1.png) ![Image2.png](https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Image2.png) | 0-3 seconds: Start with the alarm clock ringing, and Scene 1 appears in a hazy画面; 3-10 seconds: Quickly pan the camera to a close-up of the man's face opposite, where the man reluctantly wakes the girl up, with the tone and timbre referencing @Video 1; 10-12 seconds: The girl pouts and hides under the quilt; 12-15 seconds: Switch to a full-body shot of the male lead, who sighs and says, "I really can't do anything with you!" |
+| <video src="https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Video1.mp4" controls width="320"></video> ![Image1.png](https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Image1.png) ![Image2.png](https://r2.getseedance.com/seedance-cases/040-morning-wake-up-bedroom-scene/Image2.png) | 0-3 seconds: Start with the alarm clock ringing, and Scene 1 appears in a hazy画面; 3-10 seconds: Quickly pan the camera to a close-up of the man's face opposite, where the man reluctantly wakes the girl up, with the tone and timbre referencing @Video1; 10-12 seconds: The girl pouts and hides under the quilt; 12-15 seconds: Switch to a full-body shot of the male lead, who sighs and says, "I really can't do anything with you!" |
 
 **Result:**
 
@@ -462,7 +470,7 @@ Total: **59** cases
 
 | Input | Prompt |
 |-------|--------|
-| ![Image4.png](https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image4.png) ![Image3.png](https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image3.png) ![Image2.png](https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image2.png) ![Image1.png](https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image1.png) | Spy film style, @Image 1 as the opening frame. The camera follows the female agent in a red windbreaker head-on, maintaining a panoramic shot as she walks forward, with passersby intermittently obscuring her figure. She approaches a corner, referencing the architectural style of @Image 2 for the corner building. The camera remains fixed as the woman in red exits the frame, disappearing around the corner. A masked girl, whose appearance is based on @Image 3 (only referencing the look), stands hidden at the corner, staring at her fiercely. The camera then pans forward toward the female agent, who enters a mansion—referencing @Image 4 for the mansion—before vanishing from sight. Maintain a continuous long take throughout without any cuts. |
+| ![Image4.png](https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image4.png) ![Image3.png](https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image3.png) ![Image2.png](https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image2.png) ![Image1.png](https://r2.getseedance.com/seedance-cases/045-spy-thriller-red-coat-corner/Image1.png) | Spy film style, @Image1 as the opening frame. The camera follows the female agent in a red windbreaker head-on, maintaining a panoramic shot as she walks forward, with passersby intermittently obscuring her figure. She approaches a corner, referencing the architectural style of @Image2 for the corner building. The camera remains fixed as the woman in red exits the frame, disappearing around the corner. A masked girl, whose appearance is based on @Image3 (only referencing the look), stands hidden at the corner, staring at her fiercely. The camera then pans forward toward the female agent, who enters a mansion—referencing @Image4 for the mansion—before vanishing from sight. Maintain a continuous long take throughout without any cuts. |
 
 **Result:**
 
@@ -492,7 +500,7 @@ Total: **59** cases
 
 | Input | Prompt |
 |-------|--------|
-| <video src="https://r2.getseedance.com/seedance-cases/048-bridge-betrayal-water-fall/Video1.mp4" controls width="320"></video> | Subvert the plot in @Video 1: the man's eyes instantly turn from gentle to icy and fierce. In the moment Rose is completely unprepared, he猛地 pushes the female lead outward from the bridge, sending her plunging into the water. The action is crisp and decisive, carrying a premeditated resolve without the slightest hesitation, thoroughly subverting the original深情 character设定. At the instant the female lead falls into the water, there is no scream—only a look of disbelief. She looks up at the male lead and roars, "You’ve been lying to me from the start!" Standing on the bridge, the male lead wears a cold smile and whispers to the water, "This is what you owe my family." |
+| <video src="https://r2.getseedance.com/seedance-cases/048-bridge-betrayal-water-fall/Video1.mp4" controls width="320"></video> | Subvert the plot in @Video1: the man's eyes instantly turn from gentle to icy and fierce. In the moment Rose is completely unprepared, he猛地 pushes the female lead outward from the bridge, sending her plunging into the water. The action is crisp and decisive, carrying a premeditated resolve without the slightest hesitation, thoroughly subverting the original深情 character设定. At the instant the female lead falls into the water, there is no scream—only a look of disbelief. She looks up at the male lead and roars, "You’ve been lying to me from the start!" Standing on the bridge, the male lead wears a cold smile and whispers to the water, "This is what you owe my family." |
 
 **Result:**
 
@@ -592,7 +600,7 @@ Total: **59** cases
 
 | Input | Prompt |
 |-------|--------|
-| ![Image1.png](https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image1.png) ![Image2.png](https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image2.png) ![Image3.png](https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image3.png) ![Image4.png](https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image4.png) | This is a range hood advertisement. Take @Image 1 as the opening frame, where a woman is cooking elegantly without any smoke. The camera quickly pans to the right to shoot @Image 2, showing a man cooking with sweat streaming down his face and his cheeks flushed, surrounded by thick smoke. The camera then pans left and zooms in to shoot the range hood on the table in @Image 1. For the range hood, refer to @Image 4, which shows it working vigorously to extract smoke. |
+| ![Image1.png](https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image1.png) ![Image2.png](https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image2.png) ![Image3.png](https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image3.png) ![Image4.png](https://r2.getseedance.com/seedance-cases/058-range-hood-comparison-ad/Image4.png) | This is a range hood advertisement. Take @Image1 as the opening frame, where a woman is cooking elegantly without any smoke. The camera quickly pans to the right to shoot @Image2, showing a man cooking with sweat streaming down his face and his cheeks flushed, surrounded by thick smoke. The camera then pans left and zooms in to shoot the range hood on the table in @Image1. For the range hood, refer to @Image4, which shows it working vigorously to extract smoke. |
 
 **Result:**
 
@@ -608,16 +616,6 @@ Total: **59** cases
 
 <video src="https://r2.getseedance.com/seedance-cases/059-person-to-bear-transformation/Result1.mp4" controls width="320"></video>
 
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit cases or open issues.
-
-Please ensure that:
-
-- All media files are uploaded to R2 storage
-- Prompts are provided in all supported languages
-- Case metadata is complete and accurate
 
 ## License
 
